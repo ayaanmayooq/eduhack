@@ -1,0 +1,26 @@
+{
+  "name": "eduhack",
+  "version": "1.0.0",
+  "description": "mamamia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "out": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "node backend/server.js",
+    "client": "cd frontend && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayaanmayooq/eduhack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayaanmayooq/eduhack/issues"
+  },
+  "homepage": "https://github.com/ayaanmayooq/eduhack#readme",
+  "dependencies": {
+    "concurrently": "^8.2.1"
+  }
+}
