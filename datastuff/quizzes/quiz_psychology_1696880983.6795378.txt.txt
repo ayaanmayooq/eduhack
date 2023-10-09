@@ -1,0 +1,78 @@
+MCQs:
+1. Which of the following is NOT a type of learning?
+a. Classical conditioning
+b. Operant conditioning
+c. Sensory conditioning
+d. Procedural conditioning
+
+2. Who conducted the famous experiments with dogs to demonstrate classical conditioning?
+a. B.F. Skinner
+b. Sigmund Freud
+c. Ivan Pavlov
+d. John Watson
+
+3. Which type of memory holds information from our senses for a brief period?
+a. Short-term memory
+b. Long-term memory
+c. Sensory memory
+d. Procedural memory
+
+4. How many items can short-term memory hold at a time?
+a. Unlimited
+b. 7 ± 2
+c. 10 ± 3
+d. 5 ± 1
+
+5. Which type of memory contains factual information that can be consciously recalled?
+a. Declarative memory
+b. Procedural memory
+c. Sensory memory
+d. Short-term memory
+
+6. According to the Atkinson-Shiffrin model, information moves from sensory memory to _________.
+a. Procedural memory
+b. Declarative memory
+c. Short-term memory
+d. Long-term memory
+
+7. Retrieval of information from long-term memory can be affected by factors such as _________.
+a. Age
+b. Context and cues
+c. Sensory memory
+d. Short-term memory
+
+8. Which type of memory is responsible for storing skills and procedures?
+a. Declarative memory
+b. Procedural memory
+c. Sensory memory
+d. Long-term memory
+
+9. In operant conditioning, behavior is strengthened or weakened through _________.
+a. Punishment
+b. Reinforcement
+c. Classical conditioning
+d. Sensory memory
+
+10. The Atkinson-Shiffrin model divides long-term memory into two types: declarative memory and _________.
+a. Sensory memory
+b. Procedural memory
+c. Operant memory
+d. Short-term memory
+
+True/False:
+1. Learning and memory are two separate and unrelated processes.
+2. Long-term memory has limited storage capacity.
+3. Operant conditioning refers to the process of learning through consequences.
+4. Procedural memory is the memory for factual information.
+
+Free-response:
+1. Explain the difference between classical and operant conditioning.
+2. How does the Atkinson-Shiffrin model explain the process of memory?
+3. Can you give an example of how context and cues can affect retrieval from long-term memory?
+
+Answer key:
+MCQs: 1. c, 2. c, 3. c, 4. b, 5. a, 6. c, 7. b, 8. b, 9. b, 10. b
+True/False: 1. False, 2. False, 3. True, 4. False
+Free-response: 1. Classical conditioning is a type of learning where a neutral stimulus is paired with a conditioned stimulus to create a conditioned response, while operant conditioning is a type of learning where behavior is strengthened or weakened by the consequences that follow. 
+2. The Atkinson-Shiffrin model proposes that information enters our sensory memory, then moves to short-term memory, and, if deemed important, is transferred to long-term memory. Retrieval of information from long-term memory can be affected by factors such as context and cues.
+3. An example of how context and cues can affect retrieval from long-term memory is seeing a familiar place where you used to live, which can trigger the retrieval of memories associated with that place.

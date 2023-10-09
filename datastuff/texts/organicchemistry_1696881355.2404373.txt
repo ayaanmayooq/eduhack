@@ -1,0 +1,14 @@
+Subject: Organic Chemistry
+Page Number: 240
+Content:
+Organic chemistry is the branch of chemistry that studies the structure, properties, and reactions of compounds containing carbon atoms. This subject is important as carbon is the basis for all living organisms, making the study of organic compounds crucial in understanding biological processes and the environment.
+
+One of the main principles in organic chemistry is the concept of functional groups. These are specific groups of atoms that are the reactive centers in organic molecules. A functional group is responsible for the characteristic chemical reactions of a compound and can affect its physical properties as well.
+
+One of the most common functional groups in organic chemistry is the hydroxyl group (-OH). This group is found in alcohols and is responsible for their characteristic properties such as solubility in water and acidity. The presence of a hydroxyl group in a molecule also makes it more polar, which can affect its reactivity.
+
+Another important functional group is the carbonyl group (C=O), found in aldehydes and ketones. This group is responsible for the characteristic odor of aldehydes and the chemical reactivity of both aldehydes and ketones. Furthermore, the position of the carbonyl group in a molecule can affect its physical and chemical properties.
+
+To better understand the structures of organic compounds and their functional groups, chemists use various diagrams and models. One example is the Lewis structure, which shows the arrangement of atoms and bonds in a molecule. Another is the Newman projection, which is used to represent the conformation of molecules with multiple carbon-carbon bonds.
+
+Organic chemistry is a vast subject with countless applications in various fields, from pharmaceuticals to materials science. By studying the structures and properties of organic compounds, we can better understand the world around us and develop new technologies to improve our lives.

@@ -1,0 +1,71 @@
+Multiple Choice Questions:
+1. Which of the following best describes astrophysics?
+a) The study of celestial objects and phenomena
+b) The study of the Earth's atmosphere
+c) The study of the human body
+d) The study of ancient civilizations
+
+2. What determines the color and brightness of a star?
+a) Its temperature and size
+b) Its distance from Earth
+c) The number of planets orbiting it
+d) The age of the star
+
+3. Which diagram is used to classify stars based on their characteristics?
+a) DNA sequence diagram
+b) Hertzsprung-Russell diagram
+c) Periodic table
+d) Solar system diagram
+
+4. How do stars emit energy?
+a) Through gravitational pull
+b) Through nuclear fission
+c) Through nuclear fusion
+d) Through chemical reactions
+
+5. What determines the lifespan and fate of a star?
+a) Its mass
+b) Its color
+c) Its brightness
+d) Its distance from Earth
+
+6. What determines the type of star a nebula will produce?
+a) The color of the nebula
+b) The temperature of the nebula
+c) The mass of the nebula
+d) The chemical makeup of the nebula
+
+7. What technique is used to analyze the light emitted by stars?
+a) Spectroscopy
+b) Radiocarbon dating
+c) Magnetic resonance imaging
+d) X-ray imaging
+
+True/False Questions:
+8. Astrophysics is a branch of biology. (True/False)
+9. The Hertzsprung-Russell diagram plots the luminosity and distance of stars. (True/False)
+10. Stars are born from clouds of gas and dust called planets. (True/False)
+11. The chemical makeup of a star has no effect on its structure or behavior. (True/False)
+
+Free-response Questions:
+12. How are temperature and size related to the color and brightness of stars?
+
+13. Describe the life cycle of a star, from birth to death.
+
+14. Explain how spectroscopy is used to study the composition of stars.
+
+Answer Key:
+1. a
+2. a
+3. b
+4. c
+5. a
+6. d
+7. a
+8. False
+9. False
+10. False
+11. False
+12. The temperature and size of a star determine its color and brightness. Higher temperatures result in bluer stars, while lower temperatures result in redder stars. A star's brightness is determined by its size, with larger stars being brighter.
+13. Stars are born from clouds of gas and dust called nebulae. As the gas and dust are compressed, the temperature and pressure increases, eventually leading to nuclear fusion and the birth of a star. The mass of a star determines its lifespan and eventual fate. Smaller stars, such as red dwarfs, can burn for billions of years, while larger stars, such as supergiants, have shorter lifespans and eventually explode in a supernova.
+14. Spectroscopy is the process of analyzing the light emitted by stars. By breaking down the light into its component wavelengths, astronomers can determine the chemical makeup of the star. This allows us to understand the different layers and processes happening within a star and how they contribute to its overall behavior. For example, the presence of certain elements, such as hydrogen and helium, can indicate the stage of a star's life cycle.

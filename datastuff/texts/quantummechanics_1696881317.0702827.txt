@@ -1,0 +1,14 @@
+Subject: Quantum Mechanics
+Page Number: 112
+Content: 
+Quantum Entanglement:
+
+Quantum entanglement is a phenomenon that occurs when two or more particles become connected or entangled in such a way that their properties are correlated. This means that if one particle's property is measured, the other particle's property will instantly be determined, regardless of the distance between them.
+
+This concept was first introduced by Albert Einstein, Boris Podolsky, and Nathan Rosen in their famous EPR paper in 1935. They argued that quantum mechanics, with its probabilistic nature, was incomplete and there must be some hidden variables that can determine the properties of particles. However, in 1964, John Bell came up with a theorem that proved their ideas were incompatible with experiments.
+
+It wasn't until the 1980s that experiments were able to prove the existence of quantum entanglement. In these experiments, two particles are created together in a way that their properties are correlated, and then separated by a large distance. When one particle is measured, the other particle's property is determined instantly, even if they are millions of miles apart. This goes against our classical understanding of how information can travel, as the speed of light is the maximum speed at which information can be transmitted.
+
+One famous example of quantum entanglement is the EPR paradox, which involves two entangled particles emitting photons in opposite directions. According to quantum mechanics, the state of each particle is indeterminate until it is measured, and measuring one particle affects the state of the other particle, even if they are separated by large distances.
+
+Quantum entanglement has raised many questions and has been a topic of ongoing research in the field of quantum mechanics. It has also opened up new possibilities for technologies such as quantum computing and quantum communication. As we continue to delve deeper into the mysteries of the quantum world, quantum entanglement will undoubtedly play a crucial role in our understanding of it.

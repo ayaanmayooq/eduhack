@@ -1,0 +1,12 @@
+Subject: Molecular Biology
+Page Number: 102
+
+Content: Molecular biology is the study of biological molecules and their interactions within cells, including the study of DNA, RNA, proteins, and enzymes. These molecules play a crucial role in all living organisms and understanding their structure and function is essential in understanding many biological processes.
+
+One key concept in molecular biology is the central dogma, which describes the flow of genetic information from DNA to RNA to protein. This process begins with DNA replication, where the double helix structure of DNA is unwound and each strand serves as a template for the synthesis of a new complementary strand. This process is essential for cell division and ensures that each daughter cell receives an identical copy of the genetic information.
+
+After DNA replication, the genetic information is transcribed into RNA. This process is carried out by an enzyme called RNA polymerase, which reads the DNA code and creates a complementary RNA strand. There are three main types of RNA: messenger RNA (mRNA), ribosomal RNA (rRNA), and transfer RNA (tRNA). Each type plays a different role in the process of protein synthesis.
+
+The final step in the central dogma is protein synthesis, where the information stored in the DNA and transcribed into mRNA is translated into a specific sequence of amino acids to form a protein. This process takes place in the ribosomes, the cell's protein factories, and involves the interaction of mRNA with tRNA molecules carrying specific amino acids.
+
+Understanding the central dogma and the processes involved in molecular biology is crucial in many fields of biology, including genetics, biochemistry, and biotechnology. By studying the structure and function of biological molecules, scientists can gain insights into the complex processes that govern life.

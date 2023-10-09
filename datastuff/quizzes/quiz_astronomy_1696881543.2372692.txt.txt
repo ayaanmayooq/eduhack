@@ -1,0 +1,87 @@
+Multiple Choice:
+
+1. Where do stars begin their life cycle?
+A. White dwarfs
+B. Planetary nebulae
+C. Protostars
+D. Neutron stars
+
+2. What are the two most abundant elements in the universe?
+A. Hydrogen and helium
+B. Oxygen and carbon
+C. Iron and oxygen
+D. Helium and nitrogen
+
+3. What is the process by which hydrogen atoms fuse together to form helium?
+A. Nuclear fission
+B. Nuclear fusion
+C. Nuclear disintegration
+D. Nuclear reaction
+
+4. What is the longest and most stable stage in a star's life?
+A. Main sequence stage
+B. Red giant phase
+C. Protostar formation
+D. White dwarf stage
+
+5. What marks the end of a low-mass star's life cycle?
+A. Formation of a neutron star
+B. Formation of a black hole
+C. Formation of a white dwarf
+D. Formation of a red giant
+
+6. What elements are formed in the core of high-mass stars?
+A. Hydrogen and helium
+B. Carbon, oxygen, and iron
+C. Nitrogen and helium
+D. Helium and carbon
+
+7. What happens when a star's outer layers expand and cool during the red giant phase?
+A. The star becomes smaller and hotter
+B. The star appears larger and redder
+C. The star experiences pulsations
+D. The star collapses under its own gravity
+
+True/False:
+
+1. Stars are responsible for providing energy and light to the planets in our galaxy.
+A. True
+B. False
+
+2. As the protostar collapses, the pressure and temperature at its core decrease.
+A. True
+B. False
+
+3. The main sequence stage is the shortest stage in a star's life cycle.
+A. True
+B. False
+
+4. All stars will eventually become a white dwarf, neutron star, or black hole.
+A. True
+B. False
+
+Free-Response:
+
+1. Explain the process of protostar formation.
+
+2. What is the main sequence stage and how long does it typically last?
+
+3. What happens to low-mass stars during the red giant phase?
+
+Answer Key:
+1. C
+2. A
+3. B
+4. A
+5. C
+6. B
+7. B
+True/False:
+1. A (True)
+2. B (False)
+3. B (False)
+4. A (True)
+Free-Response:
+1. Protostar formation is the process by which a massive cloud of gas and dust called a nebula collapses under its own gravity, causing the gas and dust to become more compact and heat up.
+2. The main sequence stage is the longest and most stable stage in a star's life, during which the star maintains its size and luminosity by balancing the inward pull of gravity with the outward pressure of nuclear fusion. The duration of this stage depends on the mass of the star, with smaller stars lasting for billions of years and larger stars burning through their hydrogen fuel at a faster rate.
+3. Low-mass stars will gradually lose their outer layers, forming a planetary nebula, and the remaining core will become a white dwarf.

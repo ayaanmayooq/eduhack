@@ -1,0 +1,69 @@
+MCQs:
+1. What triggers nuclear fusion reactions in the formation of a star?
+A. Decrease in temperature and pressure
+B. Increase in temperature and pressure
+C. Presence of water
+D. Magnetic field
+Answer: B
+
+2. What type of star has the longest lifespan and is cooler than other stars?
+A. Red Dwarf
+B. Red Giant
+C. Supergiant
+D. Blue Star
+Answer: A
+
+3. What is the most common spectral type for stars?
+A. O
+B. G
+C. M
+D. F
+Answer: B
+
+4. What is the surface temperature of our sun?
+A. 2,500 degrees Celsius
+B. 5,500 degrees Celsius
+C. 10,000 degrees Celsius
+D. 15,000 degrees Celsius
+Answer: B
+
+5. What determines the lifecycle of a star?
+A. Its distance from Earth
+B. Its spectral type
+C. Its mass
+D. Its size
+Answer: C
+
+6. Which of the following is not a stage in a star's life?
+A. Black hole
+B. Neutron star
+C. Red dwarf
+D. Blue giant
+Answer: D
+
+7. What is the last stage in the lifecycle of a star?
+A. Red giant
+B. Protostar
+C. White dwarf
+D. Main sequence star
+Answer: C
+
+True/False:
+1. Stars are formed when vast clouds of gas and dust collapse under their own gravity. True/False
+Answer: True
+
+2. Red giants have shorter lifespans but are much cooler and dimmer than red dwarfs. True/False
+Answer: False
+
+3. Spectral type is determined by the surface temperature of a star. True/False
+Answer: True
+
+4. The lifecycle of a star is determined by its size. True/False
+Answer: False
+
+Free-Response:
+1. Describe the process of star formation.
+Answer: Star formation occurs when vast clouds of gas and dust, known as nebulae, collapse under their own gravity. As the nebulae collapse, the temperature and pressure at the center increase, triggering nuclear fusion reactions. These reactions generate enormous amounts of energy, causing the nebulae to light up and form a protostar. As the protostar continues to grow, it becomes denser and hotter until it reaches a critical point and begins to shine as a star.
+
+2. What are the different types of stars and how are they classified?
+Answer: The different types of stars are red dwarfs, red giants, and supergiants. Stars are classified based on their spectral type, which is determined by their surface temperature. The most common spectral types are O, B, A, F, G, K, and M. Red dwarfs have masses less than half that of our sun and are cooler and have longer lifespans. Red giants have masses two to eight times that of our sun and are hotter and have shorter lifespans. Supergiants have masses over eight times that of our sun and are the brightest and hottest stars in the universe. Our sun is a G-type star, which has a surface temperature of about 5,500 degrees Celsius.

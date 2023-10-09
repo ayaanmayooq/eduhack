@@ -1,0 +1,71 @@
+Multiple Choice Questions:
+1. Which of the following is NOT a tool used by astronomers?
+A. Telescope
+B. Microscope
+C. Spectroscopy
+D. Computer simulations
+
+2. Which unit is used to measure the distance from Earth to the Sun?
+A. Light year
+B. Astronomical unit
+C. Parsec
+D. Kilometer
+
+3. What happens to a star when it runs out of fuel?
+A. It expands into a red giant
+B. It collapses into a black hole
+C. It becomes a white dwarf
+D. All of the above
+
+4. Which planet in our solar system has the highest surface temperature?
+A. Mercury
+B. Earth
+C. Venus
+D. Mars
+
+5. How do astronomers search for exoplanets?
+A. Using advanced telescopes
+B. Studying the stars' movements
+C. Listening for radio signals
+D. All of the above
+
+6. Astronomy is the study of celestial objects and phenomena that originate inside of Earth's atmosphere. 
+A. True
+B. False
+
+7. The universe is small and easily comprehensible. 
+A. True
+B. False
+
+True/False Questions:
+8. Fusion is the process where hydrogen atoms combine to form helium, releasing a tremendous amount of energy.
+A. True
+B. False
+
+9. There are 9 planets in our solar system.
+A. True
+B. False
+
+10. Exoplanets are planets that are outside of our solar system.
+A. True
+B. False
+
+Free-Response Questions:
+11. Briefly explain how astronomers use spectroscopy in their studies.
+12. Name and describe at least three stages in the lifecycle of a star.
+13. Why is the search for exoplanets considered an important and exciting development in astronomy?
+
+Answer Key:
+1. B
+2. B
+3. B
+4. A
+5. D
+6. B
+7. B
+8. A
+9. B
+10. A
+11. Astronomers use spectroscopy to study the light emitted from celestial objects. By analyzing the different wavelengths of light, they can determine the composition, temperature, and movement of the object.
+12. Three stages in the lifecycle of a star are: formation from a cloud of gas and dust, fusion in the core, and eventual death as a white dwarf, neutron star, or black hole.
+13. The search for exoplanets is important because it allows us to better understand the formation and evolution of our own solar system. It also provides insight into the potential for life on other planets and expands our understanding of the vastness of the universe.

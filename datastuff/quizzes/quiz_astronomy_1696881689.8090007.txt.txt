@@ -1,0 +1,99 @@
+1) According to the nebular hypothesis, our solar system formed from a large cloud of gas and dust that collapsed under its own gravity.
+A) True
+B) False
+
+2) The inner planets of our solar system are primarily composed of gas and ice.
+A) True
+B) False
+
+3) The planetesimal hypothesis suggests that planets formed from the collision and sticking together of small, solid pieces of material.
+A) True
+B) False
+
+4) The disk instability model proposes that planets formed from instabilities in the gas disk surrounding a young star.
+A) True
+B) False
+
+5) What is the name for the leading theory on the formation of planetary systems?
+A) Nebular hypothesis
+B) Planetesimal hypothesis
+C) Disk instability model
+D) None of the above
+
+6) Which type of planet formed closer to the Sun in our solar system?
+A) Gas giants
+B) Terrestrial planets
+C) Ice giants
+D) Dwarf planets
+
+7) What is the process by which a nebula collapses under its own gravity?
+A) Solar fusion
+B) Planetary accretion
+C) Disk instability
+D) Nebular collapse
+
+8) What type of celestial object is our Sun?
+A) Gas giant
+B) Ice giant
+C) Terrestrial planet
+D) Star
+
+9) What have observations of young stars and their surrounding disks provided in terms of the formation of planetary systems?
+A) Evidence
+B) Theories
+C) Conclusions
+D) None of the above
+
+10) Which is NOT a theory of planetary formation discussed in this chapter?
+A) Nebular hypothesis
+B) Planetesimal hypothesis
+C) Disk instability model
+D) Solar fusion
+
+True/False:
+1) The nebular hypothesis suggests that our solar system formed from a large cloud of gas and dust that collapsed under its own gravity.
+A) True
+B) False
+
+2) The gas giant planets in our solar system formed closer to the Sun than the terrestrial planets.
+A) True
+B) False
+
+3) The disk instability model suggests that planets formed from the collision and sticking together of small, solid pieces of material.
+A) True
+B) False
+
+4) Observations of young stars and their surrounding disks have not contributed to our understanding of planetary formation.
+A) True
+B) False
+
+Free-response:
+
+1) Explain the nebular hypothesis and how it explains the formation of our solar system.
+
+2) Discuss at least one other theory of planetary formation and how it differs from the nebular hypothesis.
+
+3) How have observations of young stars and their surrounding disks contributed to our understanding of planetary formation?
+
+Answer key:
+1) A
+2) B
+3) A
+4) A
+5) A
+6) B
+7) D
+8) D
+9) A
+10) D
+
+True/False:
+1) A
+2) B (Gas giant planets formed further away from the Sun)
+3) B
+4) B (Observations have contributed to our understanding) 
+
+Free-response:
+1) The nebular hypothesis suggests that our solar system formed from a large cloud of gas and dust that collapsed under its own gravity. As the cloud collapsed, it began to spin faster and flatten into a disk shape, with the majority of the material collecting in the center to form the Sun. The disk then cooled and clumped together, forming the planets and other objects in our solar system.
+2) The planetesimal hypothesis suggests that planets formed from the collision and sticking together of small, solid pieces of material. This theory differs from the nebular hypothesis in that it does not involve the collapse of a cloud of gas and dust, but rather the gradual growth of planets from smaller pieces of material. 
+3) Observations of young stars and their surrounding disks have provided evidence and insights into the process of planetary formation. By studying these systems, scientists have been able to observe the stages of planet formation and understand the mechanisms that lead to the formation of different types of planets.

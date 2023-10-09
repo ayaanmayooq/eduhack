@@ -1,0 +1,15 @@
+Subject: Astronomy
+Page Number: 62
+Content:
+
+Astrometry is the branch of astronomy that deals with the precise measurement of the positions and movements of celestial bodies. This field is essential for understanding the mechanics of our solar system and the universe as a whole. Astrometry relies on mathematical calculations and advanced technology to accurately determine the coordinates of objects in the sky.
+
+One of the key tools used in astrometry is the telescope. By using telescopes with high-resolution cameras, astronomers can capture images of objects in the night sky and record their precise positions. These images are then analyzed and compared to reference points in the sky to determine the exact coordinates of the objects.
+
+Another important aspect of astrometry is the study of parallax. Parallax is the apparent shift of an object's position when viewed from different vantage points. In astronomy, this is used to measure the distances of celestial bodies. By observing an object from opposite sides of Earth's orbit, astronomers can calculate the parallax and use it to determine the object's distance.
+
+Astrometry has played a crucial role in many significant discoveries in astronomy. For example, the precise measurements of the planets' movements led to the discovery of Neptune when astronomers noticed irregularities in Uranus' orbit. Astrometry has also been used to detect exoplanets by observing the movement of the parent star caused by the gravitational pull of the orbiting planet.
+
+In addition to planetary studies, astrometry also helps us understand the structure and evolution of our galaxy and the universe. By measuring the precise positions and movements of stars and galaxies, astronomers can map out the structure of the universe and study its evolution over time.
+
+In conclusion, astrometry is a vital field in astronomy, providing precise measurements and data that contribute to our understanding of the universe. Through the use of advanced technology and mathematical calculations, astrometry continues to play a crucial role in unraveling the mysteries of the cosmos.

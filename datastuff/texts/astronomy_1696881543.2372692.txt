@@ -1,0 +1,18 @@
+Subject: Astronomy
+Page Number: 76
+Content:
+Topic: The Life Cycle of Stars
+
+Stars are the most fundamental objects in the universe, responsible for providing energy and light to the galaxies. But have you ever wondered how these celestial bodies are formed and what happens to them over time? In this section, we will explore the life cycle of stars and the different stages they go through.
+
+The birth of a star begins with a massive cloud of gas and dust called a nebula. These clouds are made up of mostly hydrogen and helium, the two most abundant elements in the universe. As the cloud collapses under its own gravity, the gas and dust become more compact and start to heat up. This process is known as protostar formation.
+
+As the protostar continues to collapse, the temperature and pressure at its core increases, leading to the ignition of nuclear fusion. This is when the hydrogen atoms in the core fuse together to form helium, releasing an enormous amount of energy in the process. This marks the beginning of a star's main sequence stage.
+
+The main sequence stage is the longest and most stable stage in a star's life. During this stage, the star maintains its size and luminosity by balancing the inward pull of gravity with the outward pressure of nuclear fusion. The exact duration of this stage depends on the mass of the star, with smaller stars lasting for billions of years and larger stars burning through their hydrogen fuel at a faster rate.
+
+Once the hydrogen fuel in the core runs out, the star enters the next stage, known as the red giant phase. As the core contracts and heats up, the outer layers of the star expand and cool, causing the star to appear larger and redder. During this phase, the star may also experience pulsations, causing it to vary in brightness.
+
+For low-mass stars, the red giant phase marks the end of their life cycle. The outer layers of the star gradually drift away, forming a planetary nebula, and the remaining core becomes a white dwarf. On the other hand, high-mass stars continue to fuse heavier elements in their core, leading to the formation of elements like carbon, oxygen, and iron.
+
+Ultimately, all stars will reach the end of their life cycle and either become a white dwarf, neutron star, or black hole, depending on their mass. The life cycle of stars is a continuous cycle, with new stars being born from the remnants of old stars, ensuring the constant evolution of the universe

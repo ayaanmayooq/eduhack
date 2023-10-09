@@ -1,0 +1,76 @@
+Multiple Choice:
+1. Phonemes are:
+A) the largest units of sound in a language
+B) the smallest units of sound in a language
+C) the building blocks of grammar
+D) only used in spoken language
+
+2. Which of the following is an example of a phoneme?
+A) /ɪ/
+B) hop
+C) -ed
+D) a
+
+3. The International Phonetic Alphabet:
+A) assigns a specific symbol to each phoneme
+B) is only used in the English language
+C) was created by linguists in the 21st century
+D) is used to teach grammar rules
+
+4. Changing one phoneme in a word can:
+A) have no impact on the word's meaning
+B) result in a completely different word
+C) change the word's spelling
+D) make the word easier to pronounce
+
+5. Phonological rules determine:
+A) the meaning of words
+B) how phonemes are combined in a language
+C) which languages use the same phonemes
+D) the order of words in a sentence
+
+6. Understanding phonemes is important for:
+A) studying history
+B) learning a new language
+C) using proper grammar
+D) writing essays
+
+7. The study of historical linguistics can:
+A) help trace the evolution of languages
+B) teach vocabulary in different languages
+C) create new words in a language
+D) improve spelling skills
+
+True/False:
+1. Phonemes are only used in spoken language. (True/False)
+2. The International Phonetic Alphabet is a recent invention. (True/False)
+3. Phonological rules govern how words are pronounced. (True/False)
+4. Understanding phonemes is only important for language learners. (True/False)
+
+Free Response:
+1. What is the difference between a phoneme and a grapheme?
+2. How does the International Phonetic Alphabet help linguists in their research?
+3. Give an example of a phonological rule in English.
+4. How can the study of historical linguistics benefit society? 
+
+Answer Key:
+Multiple Choice:
+1. B
+2. A
+3. A
+4. B
+5. B
+6. B
+7. A
+
+True/False:
+1. True
+2. False
+3. True
+4. False
+
+Free Response:
+1. A phoneme is a unit of sound in a language, while a grapheme is a unit of writing or symbol that represents a sound.
+2. The International Phonetic Alphabet allows linguists to accurately transcribe and compare sounds in different languages.
+3. In English, the phonological rule that states plosives (/p/, /t/, /k/) are voiceless at the end of a word can be seen in the difference between the words dog and dock.
+4. The study of historical linguistics can help us better understand cultural and societal changes, as well as the origins and relationships between languages. It can also aid in language preservation and revitalization efforts.

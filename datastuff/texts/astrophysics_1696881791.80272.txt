@@ -1,0 +1,11 @@
+Subject: Astrophysics
+Page Number: 67
+Content: Astrophysics is the branch of astronomy that deals with the physical properties and processes of celestial objects and the universe as a whole. It combines principles of physics, such as mechanics and electromagnetism, with the study of astronomical objects such as stars, galaxies, and black holes. One key concept in astrophysics is gravity, which is the force that governs the motion of objects in space. According to the law of gravity, every object in the universe attracts every other object with a force that is directly proportional to their masses and inversely proportional to the square of the distance between them.
+
+One of the most famous applications of the law of gravity is Newton's theory of gravitation, which states that the force of attraction between two objects is equal to the product of their masses divided by the square of the distance between them. This theory was revolutionary in explaining the motion of planets and comets around the sun, and it paved the way for further advancements in astrophysics.
+
+Another important concept in astrophysics is the study of electromagnetic radiation, or light. All objects in the universe emit some form of electromagnetic radiation, and by studying this radiation, astronomers can gather information about the composition, temperature, and movement of celestial objects. For example, by analyzing the spectrum of light emitted by a star, scientists can determine its chemical makeup and its temperature.
+
+Astrophysics also involves the study of the large-scale structures and dynamics of the universe. This includes the formation and evolution of galaxies, the expansion of the universe, and the role of dark matter and dark energy in the universe. Scientists use advanced telescopes and instruments to observe and study these phenomena, and through their research, they continue to uncover new and fascinating information about the vast and complex universe we live in.
+
+In conclusion, astrophysics is a broad and exciting field that combines principles from physics, mathematics, and astronomy to study the mysteries of the universe. It allows us to understand the inner workings of celestial objects and the forces that govern them, and it continues to push the boundaries of human knowledge and exploration.

@@ -1,0 +1,89 @@
+MCQs:
+1. What is the study of celestial objects and phenomena called?
+A. Biology
+B. Chemistry
+C. Astronomy
+D. Geology
+
+2. What is the main tool used in astronomy?
+A. Microscope
+B. Telescope
+C. Compass
+D. Ruler
+
+3. What is the most commonly used classification system for stars?
+A. Newton's law
+B. Harvard spectral classification
+C. Boyle's law
+D. Einstein's theory of relativity
+
+4. What are large systems of stars, gas, and dust held together by gravity called?
+A. Planets
+B. Galaxies
+C. Asteroids
+D. Nebulae
+
+5. What is the study of planets outside of our solar system called?
+A. Astrology
+B. Astronomy
+C. Exoplanetology
+D. Geology
+
+6. What instrument uses lenses or mirrors to gather and focus light from distant objects?
+A. Telescope
+B. Microscope
+C. Compass
+D. Ruler
+
+7. Which galaxy is our own galaxy?
+A. Andromeda galaxy
+B. Milky Way galaxy
+C. Whirlpool galaxy
+D. Sombrero galaxy
+
+8. What is the most fundamental concept in astronomy?
+A. Study of stars
+B. Study of planets
+C. Study of galaxies
+D. Study of comets
+
+True/False:
+9. Telescopes have been used in astronomy since the 10th century.
+A. True
+B. False
+
+10. The study of planets in our solar system is not a part of astronomy.
+A. True
+B. False
+
+11. The Hubble Space Telescope is a radio telescope.
+A. True
+B. False
+
+12. There are only a few billion galaxies in the observable universe.
+A. True
+B. False
+
+Free-Response:
+13. Explain what the Harvard spectral classification system is and how it is used in astronomy.
+
+14. What are exoplanets and how have they expanded our knowledge of the universe?
+
+15. Discuss the importance of telescopes in the field of astronomy and how they have advanced our understanding of the universe.
+
+Answer Key:
+1. C
+2. B
+3. B
+4. B
+5. C
+6. A
+7. B
+8. A
+9. B
+10. B
+11. B
+12. B
+13. The Harvard spectral classification system is a way of categorizing stars based on their characteristics such as temperature, luminosity, and size. It is used in astronomy to better understand the properties of different types of stars and how they evolve over time.
+14. Exoplanets are planets that orbit stars outside of our solar system. Their discovery has expanded our knowledge of the universe as it has shown that there are many other planets out there beyond our own solar system. This has also increased the potential for finding extraterrestrial life.
+15. Telescopes are essential tools in astronomy as they allow us to see beyond the limitations of the human eye and observe objects that are far away in space. They have greatly advanced our understanding of the universe by helping us discover new celestial bodies and phenomena. With advancements in technology, telescopes have become more powerful and are able to capture detailed images of galaxies and other distant objects.

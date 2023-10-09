@@ -1,0 +1,11 @@
+Subject: Botany
+Page Number: 64
+Content: Photosynthesis is the process by which plants convert sunlight into chemical energy in the form of glucose. This process occurs in the chloroplasts of plant cells, specifically in the thylakoid membrane. The thylakoid membrane contains pigments such as chlorophyll, which absorb light energy. This energy is then used to split water molecules into hydrogen ions, electrons, and oxygen. The oxygen is released as a byproduct, while the hydrogen ions and electrons enter the electron transport chain.
+
+The electron transport chain is a series of proteins that pass the electrons down, releasing energy that is used to pump hydrogen ions into the thylakoid lumen. This creates a concentration gradient, with a higher concentration of hydrogen ions inside the thylakoid. The hydrogen ions then flow through ATP synthase, a protein complex that generates ATP, the primary energy source for cellular processes.
+
+The ATP produced in the thylakoid is then used in the stroma, the fluid-filled space surrounding the thylakoid, to power the Calvin cycle. Also known as the light-independent reactions, the Calvin cycle uses the ATP and electrons from the electron transport chain to convert carbon dioxide into glucose. This glucose can then be used by the plant for energy or stored as starch.
+
+Diagram:
+
+(Insert labeled diagram of photosynthesis)

@@ -1,0 +1,95 @@
+MCQs:
+1) What are the primary building blocks of the universe?
+a) Galaxies
+b) Black holes
+c) Stars
+d) Planets
+
+2) What are giant molecular clouds made of?
+a) Hydrogen gas only
+b) Carbon and oxygen
+c) Helium and hydrogen gas
+d) All of the above
+
+3) What causes a molecular cloud to collapse and form a star?
+a) A nearby planet
+b) Gamma-ray bursts
+c) A supernova
+d) Asteroid collisions
+
+4) At what point does nuclear fusion begin in a forming star?
+a) When the cloud becomes hotter and denser
+b) When the cloud reaches a certain size
+c) When the cloud is first formed
+d) When the cloud is hit by a shock wave
+
+5) Which of the following is NOT a result of nuclear fusion?
+a) Release of energy
+b) Formation of helium atoms
+c) Prevention of further collapse
+d) Increase in cloud density
+
+6) What determines the size and temperature of a star?
+a) Its distance from Earth
+b) Its initial conditions
+c) The presence of other stars nearby
+d) Its mass
+
+7) What determines the lifespan of a star?
+a) Its size
+b) Its temperature
+c) Its distance from Earth
+d) The presence of other stars nearby
+
+8) What is an area of ongoing research in astronomy?
+a) Black hole formation
+b) Star formation
+c) Planet formation
+d) Galaxy evolution
+
+9) How has our understanding of star formation been improved?
+a) Through simulations only
+b) Through observations only
+c) Through both observations and simulations
+d) None of the above
+
+10) Which of the following is NOT a factor that determines the lifespan of a star?
+a) Its initial conditions
+b) Its mass
+c) Its distance from Earth
+d) The presence of other stars nearby
+
+True/False:
+1) Stars are formed in interstellar medium. (True)
+2) Supernovas can cause molecular clouds to collapse and form stars. (True)
+3) The pressure at the core of a forming star decreases as the cloud collapses. (False)
+4) The size of a star has no bearing on its lifespan. (False)
+
+Free-response:
+1) What are the primary components of a molecular cloud?
+2) How is the process of nuclear fusion crucial in star formation?
+3) Why is the size of a star important in determining its lifespan?
+
+Answer key:
+MCQs:
+1) c) Stars
+2) d) All of the above
+3) c) A supernova
+4) a) When the cloud becomes hotter and denser
+5) d) Increase in cloud density
+6) b) Its initial conditions
+7) a) Its size
+8) b) Star formation
+9) c) Through both observations and simulations
+10) c) Its distance from Earth
+
+True/False:
+1) True
+2) True
+3) False
+4) False
+
+Free-response:
+1) Hydrogen gas, with small amounts of other elements such as helium, carbon, and oxygen.
+2) Nuclear fusion provides the energy that prevents the forming star from collapsing further.
+3) The mass of a star determines the rate at which it consumes its fuel, therefore affecting its lifespan.

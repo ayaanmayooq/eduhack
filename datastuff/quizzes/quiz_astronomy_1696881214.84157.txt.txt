@@ -1,0 +1,98 @@
+MCQs:
+1. Which of the following is NOT a type of celestial body in our Solar System?
+A. Planets
+B. Asteroids
+C. Stars
+D. Moons
+
+2. How many planets are there in our Solar System?
+A. 6
+B. 7
+C. 8
+D. 9
+
+3. Which planet is known as the Red Planet?
+A. Earth
+B. Jupiter
+C. Saturn
+D. Mars
+
+4. Which of the following is NOT a characteristic used to differentiate planets from other objects in the Solar System?
+A. Size
+B. Distance from the Sun
+C. Number of moons
+D. Color
+
+5. Which planet has the most moons?
+A. Jupiter
+B. Saturn
+C. Uranus
+D. Neptune
+
+6. Which of the following is NOT true about asteroids?
+A. They are large, spherical objects
+B. They orbit the Sun
+C. Most of them are found in the asteroid belt
+D. They vary in size and composition 
+
+7. Which of the following is true about comets?
+A. They have a tail of gas and dust
+B. They are made of rock and metal
+C. They orbit the Earth
+D. They are the largest objects in the Solar System
+
+8. Which of the following is NOT a factor in understanding the origin and evolution of our Solar System?
+A. Size of objects
+B. Composition of objects
+C. Distance from the Sun
+D. Color of objects
+
+9. Which of the following is NOT a method used to study celestial bodies in our Solar System?
+A. Telescope observations
+B. Space probes
+C. Laboratory experiments
+D. Reading horoscopes
+
+10. Which of the following is NOT a way that space exploration has helped us understand our Solar System?
+A. Discovering new planets
+B. Studying the Sun
+C. Observing black holes
+D. Finding new moons
+
+True/False:
+1. The Sun is the smallest object in our Solar System.
+2. The Earth has two moons.
+3. Comets come from the outer edges of the Solar System.
+4. Understanding celestial bodies in our Solar System is not important for studying the universe as a whole.
+5. Advances in technology have not helped us expand our knowledge of the Solar System.
+6. Asteroids are only found in the asteroid belt.
+
+Free-response:
+1. Describe the difference between a planet and an asteroid.
+2. Why is the study of celestial bodies in our Solar System important for understanding the universe?
+3. Explain the role of technology in advancing our knowledge of the Solar System.
+
+Answer key:
+1. C
+2. C
+3. D
+4. A
+5. A
+6. A
+7. A
+8. D
+9. D
+10. C
+
+True/False:
+1. False
+2. False
+3. True
+4. False
+5. False
+6. False
+
+Free-response:
+1. Planets are larger and have cleared their neighborhood of other objects, while asteroids are smaller and have not. Planets also have a spherical shape, while asteroids can vary in shape.
+2. Studying celestial bodies in our Solar System can give us insight into how our system was formed and how it has evolved over time. This information can also help us understand other planetary systems and the universe as a whole.
+3. Technology has allowed us to observe and study objects in our Solar System in ways that were not possible before. This has led to new discoveries and a deeper understanding of these objects and our place in the universe.

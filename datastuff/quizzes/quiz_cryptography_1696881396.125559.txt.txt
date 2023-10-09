@@ -1,0 +1,66 @@
+MCQs:
+1. Which of the following is NOT a modern encryption technique?
+A. Substitution ciphers
+B. Hash functions
+C. Transposition ciphers
+D. Enigma machine
+
+2. Which key length does AES NOT support?
+A. 128-bit
+B. 192-bit
+C. 256-bit
+D. 512-bit
+
+3. What is the purpose of a block cipher in encryption?
+A. To divide data into fixed-sized blocks
+B. To generate a unique output
+C. To verify data integrity
+D. To ensure authentication
+
+4. Which of the following is used to verify the identity of a user or system?
+A. Hash functions
+B. Digital signatures
+C. Symmetric-key algorithms
+D. Transposition ciphers
+
+5. In symmetric-key encryption, the same key is used for:
+A. Encryption and decryption
+B. Data integrity and authentication
+C. Hashing and substitution
+D. Public and private keys
+
+True/False:
+6. Cryptography is the practice of securing data in the presence of third parties.
+A. True
+B. False
+
+7. AES supports a fixed key length of 256 bits.
+A. True
+B. False
+
+8. The purpose of a hash function is to generate a unique output based on an input message.
+A. True
+B. False
+
+9. Digital signatures use public and private key pairs to ensure data integrity.
+A. True
+B. False
+
+Free-Response:
+10. Explain the difference between encryption and decryption.
+11. How does AES ensure data security with its variable key length?
+12. Give an example of how cryptography is used in modern-day communication.
+
+Answer Key:
+1. D
+2. D
+3. A
+4. B
+5. A
+6. A
+7. B
+8. A
+9. A
+10. Encryption is the process of converting plain text into a secret code to prevent unauthorized access. Decryption is the opposite process of converting the secret code back into plain text.
+11. AES has a variable key length, meaning it can use different lengths of keys (128-bit, 192-bit, and 256-bit) to encrypt data. This makes it more difficult for attackers to crack the encryption.
+12. Cryptography is used in modern-day communication through methods such as secure internet connections and encrypted messaging apps to protect sensitive information from being intercepted by third parties.

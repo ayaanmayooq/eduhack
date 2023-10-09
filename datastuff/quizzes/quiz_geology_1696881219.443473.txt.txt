@@ -1,0 +1,79 @@
+MCQs:
+1. Who first proposed the theory of Plate Tectonics?
+A. Charles Darwin
+B. Isaac Newton
+C. Alfred Wegener
+D. Galileo Galilei
+
+2. Which layer of the Earth is involved in Plate Tectonics?
+A. Mantle
+B. Core
+C. Crust
+D. Outer Core
+
+3. What is the name of the supercontinent that existed in the past?
+A. Pangea
+B. Gondwana
+C. Rodinia
+D. Laurasia
+
+4. Which type of plate boundary is responsible for creating underwater mountain ranges?
+A. Divergent boundary
+B. Transform boundary
+C. Convergent boundary
+D. None of the above
+
+5. What is the process responsible for creating new crust at mid-ocean ridges?
+A. Seafloor spreading
+B. Subduction
+C. Continental drift
+D. Convection
+
+6. Which type of boundary is responsible for most earthquakes?
+A. Divergent boundary
+B. Transform boundary
+C. Convergent boundary
+D. All of the above
+
+7. What happens when an oceanic plate collides with a continental plate?
+A. The continental plate subducts
+B. The oceanic plate subducts
+C. Both plates sink
+D. The plates slide past each other
+
+8. Which boundary can be seen along fault lines?
+A. Divergent boundary
+B. Transform boundary
+C. Convergent boundary
+D. None of the above
+
+9. What is the result when two continental plates collide?
+A. Formation of underwater mountain ranges
+B. Formation of volcanic mountain ranges
+C. Formation of towering mountain ranges
+D. Formation of deep ocean trenches
+
+10. The theory of Plate Tectonics helps us understand:
+A. Earth's evolution
+B. Natural disasters
+C. Formation of mountains
+D. All of the above
+
+True/False:
+1. Plate Tectonics is the theory that explains the movements of the Earth's oceans. (False)
+2. The Earth's lithosphere includes the crust and lower portion of the mantle. (False)
+3. Divergent boundaries result in the creation of underwater mountain ranges. (True)
+4. Continental plates can subduct beneath oceanic plates. (False)
+
+Free-response:
+1. How is seafloor spreading related to the theory of Plate Tectonics?
+2. Describe the different types of plate boundaries and the geological features associated with each.
+3. In what ways does Plate Tectonics impact the Earth's surface and natural phenomena?
+
+Answer Key:
+MCQs: 1. C, 2. A, 3. A, 4. A, 5. A, 6. B, 7. B, 8. B, 9. C, 10. D
+True/False: 1. False, 2. False, 3. True, 4. False
+Free-response:
+1. Seafloor spreading is the process of creating new oceanic crust at mid-ocean ridges. This is related to Plate Tectonics because it is evidence of the movement of tectonic plates.
+2. Divergent boundaries result in the creation of new crust, transform boundaries result in earthquakes, and convergent boundaries can result in mountain ranges or deep ocean trenches.
+3. Plate Tectonics impacts the Earth's surface by causing natural disasters such as earthquakes and volcanic eruptions. It also plays a role in the formation of mountains and other geological features.

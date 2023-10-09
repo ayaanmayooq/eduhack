@@ -1,0 +1,76 @@
+MCQs:
+1. Which of the following statements best describes organic chemistry?
+A. It is the study of all chemical compounds.
+B. It focuses on the study of carbon-containing compounds.
+C. It only deals with inorganic compounds.
+D. It is the study of the Earth's atmosphere.
+
+2. Carbon atoms are unique because they:
+A. are the smallest atoms.
+B. can bond with four other atoms.
+C. have a negative charge.
+D. are not found in living organisms.
+
+3. Which of the following is NOT a common functional group in organic chemistry?
+A. Alcohols
+B. Halogens
+C. Carboxylic acids
+D. Amines
+
+4. The arrangement of atoms within a molecule that determines its chemical properties is called a:
+A. functional group.
+B. reaction mechanism.
+C. bond.
+D. substitution.
+
+5. Which type of diagram is commonly used in organic chemistry to visually represent reaction steps?
+A. Molecular models
+B. Chemical equations
+C. Reaction mechanisms
+D. Free-body diagrams
+
+6. Organic chemistry has practical applications in:
+A. medicine, materials science, and food chemistry.
+B. physics, geology, and astronomy.
+C. oceanography, meteorology, and forestry.
+D. none of the above.
+
+7. Understanding the mechanisms and factors that influence reactions in organic chemistry is important for:
+A. predicting and controlling chemical reactions.
+B. writing chemical formulas.
+C. understanding complex mathematical equations.
+D. analyzing geological formations.
+
+8. Which of the following is NOT a type of reaction that organic compounds can undergo?
+A. Substitution
+B. Addition
+C. Expansion
+D. Rearrangement
+
+True/False:
+9. Organic chemistry deals with the study of carbon-containing compounds - True/False
+10. Functional groups are specific arrangements of atoms within a molecule - True/False
+11. Organic chemistry only has applications in the medical field - True/False
+12. Reaction mechanisms are commonly used in organic chemistry to represent reactions - True/False
+
+Free-response:
+13. Describe the importance of functional groups in organic chemistry.
+14. Discuss the practical applications of organic chemistry.
+15. How does the study of organic chemistry help us better understand the world around us?
+
+Answer key:
+1. B
+2. B
+3. B
+4. A
+5. C
+6. A
+7. A
+8. C
+9. True
+10. True
+11. False
+12. True
+13. Functional groups determine the chemical properties and reactivity of organic compounds, and understanding them helps in predicting and controlling chemical reactions.
+14. Organic chemistry has applications in fields such as drug development, materials science, and food chemistry. It also helps in understanding and addressing environmental issues.
+15. The study of organic chemistry allows us to understand the chemistry of life and the world around us, from the molecules in our bodies to pollutants and toxins in the environment. It also helps us develop new materials and medicines for various purposes.

@@ -1,0 +1,72 @@
+MCQs:
+1) What is the first stage of stellar evolution?
+A) Main sequence
+B) Red giant phase
+C) Protostar
+D) Neutron star
+
+2) What is the source of energy that allows stars to shine?
+A) Nuclear fission
+B) Nuclear fusion
+C) Chemical reactions
+D) Gravitational pull
+
+3) Which of the following is NOT a stage of stellar evolution for low-mass stars?
+A) Red giant phase
+B) White dwarf
+C) Main sequence
+D) Supernova
+
+4) What happens to the outer layers of a red giant star?
+A) They shrink and become hotter
+B) They expand and cool
+C) They collapse into a black hole
+D) They fuse into heavier elements
+
+5) Which of the following is a possible end point for higher mass stars?
+A) White dwarf
+B) Red giant
+C) Neutron star
+D) Protostar
+
+6) True or False: Understanding stellar evolution can help us understand the composition of our world.
+A) True
+B) False
+
+7) True or False: The main sequence is the longest stage of a star's life.
+A) True
+B) False
+
+8) What is the end result of the fusion of helium in a red giant star?
+A) White dwarf
+B) Black hole
+C) Neutron star
+D) Red supergiant
+
+9) Which of the following is NOT a stage of stellar evolution?
+A) Black hole
+B) Protostar
+C) Supernova
+D) Main sequence
+
+10) Which of the following is NOT a possible outcome for a star after the red giant phase?
+A) White dwarf
+B) Neutron star
+C) Protostar
+D) Black hole
+
+True/False:
+1) The red giant phase is the last stage of a star's life.
+2) Nuclear fusion creates the energy that allows stars to shine.
+3) The main sequence is the longest stage of a star's life.
+4) High-mass stars go through fewer stages of stellar evolution than low-mass stars.
+
+Free-response:
+1) What is the role of nuclear fusion in a star's life?
+2) How does the end point of stellar evolution differ for low-mass and high-mass stars?
+3) How does understanding stellar evolution help us understand the universe as a whole?
+
+Answer key:
+MCQs: 1) C, 2) B, 3) D, 4) B, 5) C, 6) A, 7) A, 8) D, 9) A, 10) C
+True/False: 1) False, 2) True, 3) True, 4) False
+Free-response: 1) Nuclear fusion creates the energy that allows stars to shine and also creates heavier elements in the core of the star. 2) Low-mass stars end as white dwarfs, while high-mass stars may end as neutron stars or black holes. 3) Understanding stellar evolution helps us understand the origins of the elements in our universe and the life cycle of stars.

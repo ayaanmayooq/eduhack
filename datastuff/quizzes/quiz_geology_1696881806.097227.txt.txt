@@ -1,0 +1,106 @@
+MCQs:
+1. What are the three main categories of rocks?
+A. Volcanic, sedimentary, and metamorphic
+B. Igneous, sedimentary, and metamorphic
+C. Molten, weathered, and recrystallized
+D. Granite, sandstone, and marble
+
+2. Igneous rocks are formed from which process?
+A. Weathering and erosion
+B. Heat and pressure
+C. Cooling and solidification
+D. Deposition and compaction
+
+3. Which type of rock is formed when existing rocks are subjected to extreme heat and pressure?
+A. Igneous
+B. Sedimentary
+C. Metamorphic
+D. Extrusive
+
+4. How are sedimentary rocks formed?
+A. Through weathering, erosion, and deposition
+B. Through cooling and solidification
+C. Through heat and pressure
+D. Through recrystallization
+
+5. What is the rock cycle?
+A. A process where rocks are constantly changing from one type to another
+B. The process of sedimentary rocks turning into metamorphic rocks
+C. The process of igneous rocks turning into sedimentary rocks
+D. The process of metamorphic rocks turning into igneous rocks
+
+6. Which of the following is NOT an example of an igneous rock?
+A. Granite
+B. Basalt
+C. Sandstone
+D. Pumice
+
+7. How are intrusive igneous rocks formed?
+A. Through cooling and solidification on the Earth's surface
+B. Through weathering and erosion
+C. Through cooling and solidification deep underground
+D. Through heat and pressure
+
+8. Which type of rock is formed from the recrystallization of existing rocks?
+A. Igneous
+B. Sedimentary
+C. Metamorphic
+D. Volcanic
+
+9. The process of breaking down existing rocks into smaller pieces is called:
+A. Deposition
+B. Compaction
+C. Weathering
+D. Cementation
+
+10. Which type of rock is formed from molten magma or lava?
+A. Igneous
+B. Sedimentary
+C. Metamorphic
+D. Intrusive
+
+True/False:
+1. The rock cycle is a one-time process.
+A. True
+B. False
+
+2. Sedimentary rocks are formed through the process of melting and cooling.
+A. True
+B. False
+
+3. Metamorphic rocks can only be formed deep underground.
+A. True
+B. False
+
+4. The rock cycle is driven by external forces only.
+A. True
+B. False
+
+Free-response:
+1. Describe the process of how sedimentary rocks are formed.
+2. How does the Earth's internal heat contribute to the rock cycle?
+3. Compare and contrast intrusive and extrusive igneous rocks.
+
+Answer Key:
+MCQs:
+1. B
+2. C
+3. C
+4. A
+5. A
+6. C
+7. C
+8. C
+9. C
+10. A
+
+True/False:
+1. B
+2. B
+3. B
+4. B
+
+Free-response:
+1. Sedimentary rocks are formed through the process of weathering, erosion, and deposition. First, weathering breaks down existing rocks into smaller pieces. Then, these pieces are transported by water, wind, or ice and eventually deposited in layers. Over time, these layers become compacted and cemented together, forming sedimentary rocks.
+2. The Earth's internal heat contributes to the rock cycle by driving processes such as melting, cooling, and recrystallization. Without this heat, the rock cycle would not be able to continue.
+3. Intrusive igneous rocks are formed from magma that cools and solidifies deep underground, while extrusive igneous rocks are formed from lava that cools and solidifies on the Earth's surface. Intrusive rocks have larger crystals due to slower cooling, while extrusive rocks have smaller crystals due to rapid cooling.

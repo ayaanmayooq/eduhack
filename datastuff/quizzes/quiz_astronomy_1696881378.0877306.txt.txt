@@ -1,0 +1,74 @@
+MCQs:
+1) Which of the following is NOT a celestial object?
+a) Planet
+b) Star
+c) Lake
+d) Galaxy
+
+2) What is the study of all objects and phenomena in the universe called?
+a) Biology
+b) Astronomy
+c) Geology
+d) Psychology
+
+3) Which ancient civilizations made observations and theories about the heavens?
+a) Romans
+b) Egyptians
+c) Vikings
+d) Australians
+
+4) What technology do modern astronomers use to study the universe?
+a) Televisions
+b) Telescopes
+c) Telephones
+d) Telekinesis
+
+5) What term describes the coordinates used to locate objects in the sky?
+a) Solar coordinates
+b) Planetary coordinates
+c) Celestial coordinates
+d) Terrestrial coordinates
+
+6) Which coordinate measures how far a celestial object is eastward from the vernal equinox?
+a) Declination
+b) Latitude
+c) Longitudinal
+d) Right ascension
+
+7) What type of radiation do black holes emit?
+a) Radio waves
+b) Visible light
+c) X-rays
+d) All of the above
+
+True/False:
+1) The study of astronomy has been around for thousands of years. (True)
+2) The celestial coordinate system is similar to the longitude and latitude system on Earth. (True)
+3) Black holes have weak gravitational pull. (False)
+4) The electromagnetic spectrum includes only visible light. (False)
+
+Free-response:
+1) What is one example of how astronomers use the electromagnetic spectrum to study objects in the universe?
+2) Explain how the celestial coordinate system works.
+3) Why are black holes difficult to study?
+
+Answer Key:
+MCQs:
+1) c) Lake
+2) b) Astronomy
+3) b) Egyptians
+4) b) Telescopes
+5) c) Celestial coordinates
+6) d) Right ascension
+7) d) All of the above
+
+True/False:
+1) True
+2) True
+3) False
+4) False
+
+Free-response:
+1) Astronomers can use the spectrum emitted by matter falling into a black hole to gather information about its mass and properties.
+2) The celestial coordinate system uses declination and right ascension to locate objects in the sky.
+3) Black holes have such strong gravitational pull that not even light can escape from them, making it difficult for astronomers to study them.

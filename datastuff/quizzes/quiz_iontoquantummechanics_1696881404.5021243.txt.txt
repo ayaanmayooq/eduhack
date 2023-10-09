@@ -1,0 +1,89 @@
+MCQs:
+1. Who were some of the key figures in the development of quantum mechanics? 
+A. Isaac Newton 
+B. Max Planck 
+C. Charles Darwin 
+D. Thomas Edison 
+
+2. Wave-particle duality describes the behavior of particles as both _______ and _______. 
+A. physical objects; microscopic particles 
+B. quantum superpositions; classical states 
+C. wave-like; particle-like 
+D. solid; liquid 
+
+3. What is the famous experiment that confirmed the concept of wave-particle duality? 
+A. Newton's Cradle 
+B. The Double-Slit Experiment 
+C. The Law of Gravity 
+D. The Big Bang Experiment 
+
+4. What is the term for the phenomenon where a particle can exist in multiple states simultaneously? 
+A. Wave-Particle Duality 
+B. Quantum Superposition 
+C. Atomic Behavior 
+D. Particle Fusion 
+
+5. True or False: Quantum mechanics is solely responsible for the development of transistors and lasers. 
+A. True 
+B. False 
+
+6. Which of the following is true about quantum mechanics? 
+A. It is a well-understood and fully explained theory 
+B. It only applies to objects at the atomic level 
+C. It has no practical applications 
+D. It is a subject of ongoing research and debate 
+
+7. True or False: Classical physics and quantum mechanics have completely different explanations for the behavior of particles. 
+A. True 
+B. False 
+
+8. What is the main difference between quantum mechanics and classical mechanics? 
+A. Classical mechanics only applies to particles at the atomic level 
+B. Quantum mechanics is more accurate and precise 
+C. Quantum mechanics takes into account the wave-like nature of particles 
+D. Classical mechanics is a newer theory than quantum mechanics 
+
+9. Which of the following is NOT an application of quantum mechanics? 
+A. GPS technology 
+B. Nuclear energy 
+C. MRI machines 
+D. Calculating the trajectory of a thrown ball 
+
+10. True or False: Quantum mechanics is a fully understood and complete theory with no room for further research. 
+A. True 
+B. False 
+
+True/False:
+1. Quantum mechanics was developed in the late 20th century. 
+2. Superposition is a concept unique to quantum mechanics. 
+3. Quantum mechanics has no practical applications in our daily lives. 
+4. The behavior of atoms and molecules can be fully explained by classical mechanics. 
+
+Free-response:
+1. Explain the concept of wave-particle duality and provide an example of an experiment that demonstrates this principle. 
+2. How has the development of quantum mechanics influenced technology and our understanding of the physical world? 
+3. Discuss the ongoing debate and research surrounding quantum mechanics and why it is such a challenging theory to fully understand. 
+
+Answer key:
+MCQs:
+1. B 
+2. C 
+3. B 
+4. B 
+5. A 
+6. D 
+7. A 
+8. C 
+9. D 
+10. B 
+
+True/False:
+1. False 
+2. True 
+3. False 
+4. False 
+
+Free-response:
+1. Wave-particle duality refers to the concept that particles can exhibit both wave-like and particle-like behavior. An example of an experiment that demonstrates this is the double-slit experiment, where a single beam of light or electrons can produce a pattern similar to a wave when passed through two narrow slits.
+2. The development of quantum mechanics has led to significant technological advances, such as transistors and lasers. It has also greatly enhanced our understanding of the microscopic world and has allowed us to manipulate particles at the atomic level.
+3. Quantum mechanics is still a subject of ongoing debate and research because it challenges our understanding of the physical world and can produce counterintuitive results. It also involves complex mathematics and theories that are difficult to prove experimentally.

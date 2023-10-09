@@ -1,0 +1,100 @@
+MCQs:
+1. When did the Big Bang occur?
+A. 1.3 million years ago
+B. 13.8 billion years ago
+C. 138 billion years ago
+
+2. What is the singularity in the Big Bang Theory?
+A. A point of infinite density and temperature
+B. A point of infinite darkness
+C. A point of infinite light
+
+3. What caused the rapid expansion of the universe?
+A. Inflation
+B. Gravity
+C. Radiation
+
+4. What is the faint glow of radiation leftover from the early universe called?
+A. Dark energy
+B. Cosmic microwave background radiation
+C. Dark matter
+
+5. Who first discovered the cosmic microwave background radiation?
+A. Albert Einstein
+B. Isaac Newton
+C. Arno Penzias and Robert Wilson
+
+6. What is the majority of the universe made up of?
+A. Visible matter
+B. Dark energy and dark matter
+C. Atoms
+
+7. How can we directly observe dark energy and dark matter?
+A. Using a telescope
+B. Through experiments
+C. We cannot directly observe them
+
+8. What is the name of the large experiment used to study the Big Bang?
+A. Large Hadron Collider
+B. Large Scale Universe
+C. Big Bang Experiment
+
+9. What is the leading explanation for the creation of the universe?
+A. Steady State Theory
+B. Big Bang Theory
+C. String Theory
+
+10. What is the age of the universe according to the Big Bang Theory?
+A. 1.3 million years
+B. 13.8 billion years
+C. 138 billion years
+
+True/False:
+1. The Big Bang Theory states that the universe began as a point of infinite density and temperature. 
+A. True
+B. False
+
+2. The cosmic microwave background radiation was first discovered in 1964 by Albert Einstein. 
+A. True
+B. False
+
+3. Dark energy and dark matter make up the majority of the visible matter in the universe. 
+A. True
+B. False
+
+4. Scientists can directly observe and detect dark energy and dark matter. 
+A. True
+B. False
+
+Free-response:
+1. What is the cosmic microwave background radiation and how does it support the Big Bang Theory?
+
+2. Explain the concept of dark energy and dark matter and their role in the universe.
+
+3. Why is the Big Bang Theory the prevailing scientific explanation for the origin of the universe? 
+
+Answer Key:
+MCQs:
+1. B 
+2. A 
+3. A 
+4. B 
+5. C 
+6. B 
+7. C 
+8. A 
+9. B 
+10. B
+
+True/False:
+1. A 
+2. B 
+3. B 
+4. B 
+
+Free-response:
+1. The cosmic microwave background radiation is a faint glow of radiation leftover from the intense heat of the early universe. Its discovery supports the Big Bang Theory because it is evidence of the rapid expansion and cooling of the universe after the initial singularity.
+
+2. Dark energy and dark matter are two mysterious substances that make up the majority of the universe, with dark energy being responsible for the acceleration of the universe's expansion and dark matter providing the gravitational pull to hold galaxies together.
+
+3. The Big Bang Theory is the prevailing scientific explanation for the origin of the universe because it is supported by evidence such as the cosmic microwave background radiation and the observations of dark energy and dark matter. Additionally, it has successfully predicted and explained various astronomical phenomena.

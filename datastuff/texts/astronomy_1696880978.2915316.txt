@@ -1,0 +1,15 @@
+Subject: Astronomy
+Page Number: 67
+Content:
+
+On this page, we will be discussing the phenomenon known as redshift. This is an important concept in the field of astronomy and is used to measure the distance of objects in our universe.
+
+Redshift occurs when the light coming from an object appears to be shifted towards the red end of the electromagnetic spectrum. This is due to the Doppler effect, where the motion of an object causes a change in the wavelength of the light it emits.
+
+To understand redshift, we must first understand the concept of wavelength. Wavelength is the distance between two consecutive peaks or troughs of a wave. When an object is moving away from us, the wavelength of the light it emits appears to be longer, or stretched out. This causes the light to appear more red in color.
+
+This phenomenon was first observed by astronomer Edwin Hubble in the early 20th century. He noticed that the light coming from distant galaxies showed a redshift, indicating that these galaxies were moving away from us. This discovery led to the development of the Big Bang theory, which states that the universe is expanding.
+
+One important use of redshift is in determining the distance of objects in our universe. By measuring the amount of redshift, astronomers can calculate the speed at which an object is moving away from us, and thus determine its distance.
+
+In conclusion, redshift is an important concept in astronomy, helping us understand the motion and distance of objects in our universe. Without this phenomenon, our understanding of the universe and its origins would be greatly limited.

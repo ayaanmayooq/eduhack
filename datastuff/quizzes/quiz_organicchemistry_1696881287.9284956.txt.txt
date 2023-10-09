@@ -1,0 +1,83 @@
+MCQs:
+
+1. Which of the following is NOT true about functional groups?
+A. They determine a molecule's chemical behavior
+B. They can be identified by their position in the periodic table
+C. They are only present in inorganic molecules
+D. They are responsible for characteristic chemical reactions
+
+2. Which functional group is characterized by the presence of a hydroxyl group?
+A. Alkene
+B. Aldehyde
+C. Alcohol
+D. Amine
+
+3. Which of the following is a common functional group?
+A. Halide
+B. Alkyl
+C. Carbonyl
+D. Sulfide 
+
+4. How are functional groups identified in a molecule?
+A. By their reactivity
+B. By their position in the periodic table
+C. By their color
+D. By their taste
+
+5. Which of the following is NOT a functional group?
+A. Carboxyl
+B. Ether
+C. Amino
+D. Carbohydrate
+
+6. Which functional group is responsible for the acidic properties of carboxylic acids?
+A. Aromatic
+B. Alkyl
+C. Carboxyl
+D. Ether
+
+7. Which of the following is true about organic chemistry?
+A. It is not practical
+B. It studies only inorganic molecules
+C. Functional groups are not important in this field
+D. It is important in predicting a molecule's behavior and reactions
+
+True/False:
+
+1. Functional groups are specific arrangements of atoms within a molecule. (True)
+
+2. Alkenes are characterized by the presence of a carboxyl group. (False)
+
+3. Understanding functional groups is not important in organic chemistry. (False)
+
+4. Functional groups can be determined by their color. (False)
+
+Free-response:
+
+1. Explain the importance of functional groups in organic chemistry.
+
+2. Give an example of a functional group and describe its characteristic chemical reactions.
+
+3. How can functional groups be predicted based on their position in the periodic table?
+
+Answer Key:
+1. C
+2. C
+3. C
+4. B
+5. D
+6. C
+7. D
+
+True/False:
+1. True
+2. False
+3. False
+4. False
+
+Free-response:
+1. Functional groups are crucial in organic chemistry because they determine a molecule's chemical behavior and reactivity. They can be thought of as the key to a molecule's properties and reactions, making them essential for predicting and understanding the behavior of various organic compounds.
+
+2. An example of a functional group is the carboxyl group (-COOH). It is responsible for the acidic properties of carboxylic acids and can undergo reactions such as esterification and decarboxylation.
+
+3. Functional groups can be predicted based on their position in the periodic table because elements in the same column often share similar chemical properties. For example, elements in the same column as oxygen (such as sulfur and selenium) can also form functional groups with similar properties, such as sulfhydryl (-SH) and selenol (-SeH) groups.

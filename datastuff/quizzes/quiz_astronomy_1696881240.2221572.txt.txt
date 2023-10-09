@@ -1,0 +1,67 @@
+1. What is stellar evolution?
+A. The process by which a star changes over the course of its lifetime.
+B. The process by which a star is born.
+C. The process by which two stars collide.
+D. The process by which a star absorbs other stars.
+
+2. What is one factor that determines the type of star a star will become?
+A. The color of the star.
+B. The distance from Earth.
+C. The initial mass of the star.
+D. The number of planets orbiting the star.
+
+3. Stars with low masses, less than 0.5 times the mass of our Sun, are known as:
+A. Red dwarfs.
+B. Massive stars.
+C. White dwarfs.
+D. Supernovas.
+
+4. What is the final stage of evolution for a red dwarf star?
+A. White dwarf.
+B. Supergiant.
+C. Neutron star.
+D. Black hole.
+
+5. What is the main force that determines a star's evolution?
+A. Gravity.
+B. Radiation pressure.
+C. Magnetic field.
+D. Dark matter.
+
+6. What type of star is shown in the Hertzsprung-Russell diagram at the coordinates (200, 0.1)?
+A. White dwarf.
+B. Red giant.
+C. Neutron star.
+D. Black hole.
+
+7. True or False: Stars with higher luminosity are always hotter than stars with lower luminosity.
+A. True
+B. False
+
+8. Which of the following is NOT a stage in the evolution of a massive star?
+A. Red giant.
+B. Supernova.
+C. Neutron star.
+D. Red dwarf.
+
+9. What can remnants of a supernova explosion become?
+A. Black holes.
+B. Planets.
+C. Moons.
+D. Asteroids.
+
+10. Free-response: Why is it important to study stellar evolution?
+
+Answer: It is important to study stellar evolution because it helps us understand the life cycle of stars and the processes that shape our universe. It also provides insights into the formation of galaxies and the evolution of the universe as a whole.
+
+Answer Key:
+1. A
+2. C
+3. A
+4. A
+5. A
+6. B
+7. B
+8. D
+9. A
+10. Answers may vary

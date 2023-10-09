@@ -1,0 +1,19 @@
+Subject: Zoology
+Page Number: 25
+Content: Section: Classification of Animals
+
+Classification is the process of organizing and grouping living organisms based on their similarities and differences. It allows us to better understand the relationships between different species and their evolutionary history. In zoology, the classification system is known as taxonomy.
+
+Taxonomy is divided into seven main levels: Kingdom, Phylum, Class, Order, Family, Genus, and Species. Each level becomes more specific in its classification, with Kingdom being the broadest and Species being the most specific.
+
+The Kingdom level includes all living organisms and is further divided into five kingdoms: Animalia, Plantae, Fungi, Protista, and Monera. Animals belong to the Kingdom Animalia, along with other multicellular organisms such as insects, birds, and mammals.
+
+Within the Animalia Kingdom, animals are then grouped into Phyla based on their body structure and characteristics. Some commonly known Phyla are Chordata (animals with a backbone), Arthropoda (animals with jointed legs), and Mollusca (animals with soft bodies).
+
+Next, animals are categorized into Classes, which are based on shared characteristics within a particular Phylum. For example, birds and mammals are both in the Chordata Phylum but belong to different Classes (Aves and Mammalia, respectively) due to their distinct characteristics.
+
+The Order level further divides animals within a Class, and the Family level distinguishes animals within an Order. For instance, humans belong to the Order Primates and the Family Hominidae.
+
+The Genus level is where animals are grouped based on their close evolutionary relationships, and the Species level is the most specific, with animals sharing similar physical and genetic traits. For example, humans are classified as Homo sapiens, with Homo being the Genus and sapiens being the Species.
+
+Overall, classification in zoology is an essential tool for organizing and understanding the vast diversity of animal life on our planet. It allows us to see the connections and differences between species, aiding in scientific research and conservation efforts.

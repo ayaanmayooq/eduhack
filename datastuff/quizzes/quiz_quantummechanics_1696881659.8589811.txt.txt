@@ -1,0 +1,77 @@
+1. What is quantum entanglement?
+A. The study of quantum particles
+B. The connection between two or more particles
+C. A phenomenon that occurs in classical mechanics
+D. The probability of finding a particle in a certain state
+
+2. Who first introduced the concept of quantum entanglement?
+A. Albert Einstein
+B. Max Planck
+C. Niels Bohr
+D. Erwin Schrödinger
+
+3. Which of the following is NOT true about quantum entanglement?
+A. It is limited by the speed of light.
+B. It is a fundamental concept in quantum mechanics.
+C. It involves particles being connected at a distance.
+D. It has been proven through experiments.
+
+4. When two particles are entangled, their wave functions become _________.
+A. separated
+B. inseparably linked
+C. random
+D. stationary
+
+5. True or False: The state of one particle in a quantum entangled pair is not affected by the state of the other particle.
+A. True
+B. False
+
+6. What is superposition?
+A. The state of one particle being dependent on the state of another particle
+B. The ability of a particle to exist in multiple states simultaneously
+C. The collapse of a particle's wave function
+D. The speed at which entangled particles communicate
+
+7. What is one real-world application of quantum entanglement?
+A. Quantum teleportation
+B. Classical communication
+C. Predicting particle behavior
+D. Time travel
+
+8. Which of the following is NOT a characteristic of quantum entanglement?
+A. Instantaneous effect at any distance
+B. Dependence on the speed of light
+C. Superposition of particles
+D. Inseparable connection between particles
+
+9. True or False: Quantum entanglement has not been proven through experiments.
+A. True
+B. False
+
+10. What is one way quantum entanglement challenges our classical understanding of cause and effect?
+A. It involves particles being connected at a distance.
+B. It is instantaneous at any distance.
+C. It involves superposition of particles.
+D. It requires the speed of light to be effective.
+
+11. Free-response: Explain the concept of superposition in quantum entanglement.
+
+12. Free-response: Describe one real-world application of quantum entanglement.
+
+13. Free-response: How does quantum entanglement challenge our classical understanding of cause and effect?
+
+Answer Key:
+
+1. B
+2. A
+3. A
+4. B
+5. B
+6. B
+7. A
+8. B
+9. B
+10. C
+11. Superposition is the ability of a particle to exist in multiple states simultaneously until it is measured. This is a key aspect of quantum entanglement where the state of one particle is not determined until the other is measured.
+12. One real-world application of quantum entanglement is quantum cryptography, which uses the inseparable connection between particles to ensure secure communication.
+13. Quantum entanglement challenges our classical understanding of cause and effect because it suggests that two particles can be connected at a distance, and the state of one particle can be affected by the state of the other instantaneously, regardless of the distance between them. This goes against our classical understanding that cause and effect occur in a sequential and distance-dependent manner.

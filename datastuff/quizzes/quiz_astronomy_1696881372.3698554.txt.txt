@@ -1,0 +1,65 @@
+1. According to Newton's law of gravitation, the force of gravity is directly proportional to:
+A. The distance between objects
+B. The masses of the objects
+C. The speed of the objects
+D. The direction of the objects
+
+2. The sun has the strongest gravitational pull in our solar system due to its:
+A. Size
+B. Color
+C. Temperature
+D. Rotation speed
+
+3. What is the shape of the planet's orbit around the sun?
+A. Straight line
+B. Circular
+C. Elliptical
+D. Spiral
+
+4. Kepler's first law states that all planets move in ___________ with the sun at one focus.
+A. Circular orbits
+B. Elliptical orbits
+C. Straight lines
+D. Random paths
+
+5. According to Kepler's second law, a planet will travel faster when it is ___________ to the sun.
+A. Closer
+B. Farther
+C. Parallel
+D. Perpendicular
+
+6. Which of the following is NOT one of Kepler's laws of planetary motion?
+A. Law of gravity
+B. Law of equal areas
+C. Law of harmonies
+D. Law of elliptical orbits
+
+7. What is the relationship between a planet's orbital period and its distance from the sun?
+A. Inversely proportional
+B. Directly proportional
+C. Random
+D. Unrelated
+
+8. True or False: As a planet moves closer to the sun, its velocity decreases.
+A. True
+B. False
+
+9. What is the force that keeps planets in their orbits around the sun?
+A. Gravity
+B. Magnetism
+C. Radiation
+D. Friction
+
+10. Free-response: Explain how the concept of gravity explains the motion of planets in our solar system.
+
+Answer key:
+1. B
+2. A
+3. C
+4. B
+5. A
+6. A
+7. B
+8. B
+9. A
+10. Gravity is a force of attraction between objects with mass. As stated in Newton’s law of gravitation, the force of gravity is directly proportional to the masses of the objects and inversely proportional to the square of the distance between them. This means that the more massive an object is, the stronger its gravitational pull. In the case of our solar system, the sun’s massive size results in a strong gravitational pull, causing all the planets to be continuously pulled towards it. However, the planets also have their own velocity, which creates a balance between the gravitational pull and the planet’s velocity, resulting in an elliptical orbit around the sun. This can also be explained by Kepler’s laws of planetary motion, which describe the shape and speed of planetary orbits. Overall, gravity is the fundamental force that governs the complex motions of planets in our solar system.

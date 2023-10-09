@@ -1,0 +1,18 @@
+Subject: Astronomy
+Page Number: 67
+Content: 
+Introduction to Exoplanets:
+
+Exoplanets, also known as extrasolar planets, are planets that orbit stars other than our sun. These planets can range in size from smaller than Earth to larger than Jupiter, and can have a variety of characteristics such as atmosphere, temperature, and composition.
+
+The discovery of exoplanets has been one of the most exciting and groundbreaking developments in the field of astronomy. With the advancement of technology, astronomers have been able to detect and study these distant worlds in greater detail.
+
+One method of detecting exoplanets is through the transit method. This involves observing a star and looking for a slight dip in its brightness, which could indicate the presence of an orbiting planet passing in front of it. Another method is the radial velocity method, which looks for tiny wobbles in a star's movement, caused by the gravitational pull of an orbiting planet.
+
+By studying the properties of exoplanets, astronomers are able to gain insight into the formation and evolution of planetary systems. They have also found that some exoplanets exist in the habitable zone of their respective stars, where temperatures could potentially support liquid water and potentially life.
+
+Diagram: [Insert diagram of the transit method and radial velocity method]
+
+The search for exoplanets is ongoing, with new discoveries being made almost every week. With each new discovery, our understanding of the universe and its potential for other habitable worlds continues to expand.
+
+To learn more about exoplanets, turn to chapter 5 for a detailed exploration of their characteristics and how they are detected.

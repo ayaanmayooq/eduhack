@@ -1,0 +1,67 @@
+1) According to quantum mechanics, particles can become connected in such a way that their properties are ________.
+A) uncorrelated
+B) determined
+C) indeterminate
+D) probabilistic
+
+2) Who first introduced the concept of quantum entanglement?
+A) Albert Einstein
+B) John Bell
+C) Boris Podolsky
+D) Nathan Rosen
+
+3) According to the EPR paper, quantum mechanics was considered to be ________.
+A) complete
+B) deterministic
+C) incomplete
+D) incompatible with experiments
+
+4) What did John Bell's theorem prove?
+A) The existence of quantum entanglement
+B) The compatibility of quantum mechanics with experiments
+C) The existence of hidden variables
+D) The completeness of quantum mechanics
+
+5) In what decade were experiments able to prove the existence of quantum entanglement?
+A) 1930s
+B) 1940s
+C) 1950s
+D) 1980s
+
+6) What phenomenon does the EPR paradox involve?
+A) Particle entanglement
+B) Quantum computing
+C) Photon emission
+D) Hidden variables
+
+7) According to quantum mechanics, the state of an entangled particle is determined when ________.
+A) it is created
+B) it is measured
+C) it is separated
+D) it emits a photon
+
+8) Which of the following is NOT a potential application of quantum entanglement?
+A) Quantum communication
+B) Quantum computing
+C) Faster-than-light travel
+D) Secure communication
+
+9) True/False: Quantum entanglement has been fully understood and explained by scientists.
+A) True
+B) False
+
+10) Free-response: In what way does quantum entanglement challenge our classical understanding of information transmission? 
+
+Answer: Quantum entanglement challenges our classical understanding of information transmission because it allows for information to be transmitted instantaneously over large distances, which goes against the classical understanding that information cannot travel faster than the speed of light.
+
+Answer Key: 
+1) B
+2) A
+3) C
+4) A
+5) D
+6) A
+7) B
+8) C
+9) B
+10) Answer will vary.

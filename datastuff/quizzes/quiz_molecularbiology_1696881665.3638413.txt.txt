@@ -1,0 +1,86 @@
+1. Which of the following is NOT a key component of molecular biology?
+A. DNA
+B. RNA
+C. Lipids
+D. Proteins
+
+2. The central dogma describes the flow of genetic information from ______ to ______ to ______.
+A. DNA, RNA, proteins
+B. RNA, DNA, proteins
+C. Proteins, DNA, RNA
+D. DNA, proteins, RNA
+
+3. Which process involves the creation of an identical copy of DNA?
+A. DNA replication
+B. Protein synthesis
+C. Transcription
+D. Translation
+
+4. Which enzyme is responsible for transcribing DNA into RNA?
+A. RNA polymerase
+B. DNA polymerase
+C. Protease
+D. Helicase
+
+5. Which type of RNA carries specific amino acids to the ribosomes during protein synthesis?
+A. mRNA
+B. rRNA
+C. tRNA
+D. DNA
+
+6. Which of the following is NOT a type of RNA?
+A. tRNA
+B. mRNA
+C. rRNA
+D. gRNA
+
+7. Which cellular structure is responsible for protein synthesis?
+A. Nucleus
+B. Ribosome
+C. Mitochondria
+D. Cell membrane
+
+8. True or False: DNA replication occurs before protein synthesis in the central dogma.
+A. True
+B. False
+
+9. True or False: Proteins are formed from the interaction between mRNA and rRNA.
+A. True
+B. False
+
+10. Which field of biology would be MOST interested in studying molecular biology?
+A. Ecology
+B. Zoology
+C. Genetics
+D. Paleontology
+
+11. What is the role of mRNA in the central dogma?
+A. Carrying amino acids to the ribosomes
+B. Transcribing DNA into RNA
+C. Creating a complementary DNA strand during replication
+D. Combining with rRNA to form a protein
+
+12. Briefly explain the process of transcription.
+Answer: Transcription is the process of creating a complementary RNA strand from a DNA template. It is carried out by an enzyme called RNA polymerase, which reads the DNA code and creates a single-stranded RNA molecule using nucleotide building blocks.
+
+13. Why is understanding the central dogma important in the study of biology?
+Answer: Understanding the central dogma is important because it describes the fundamental process of how genetic information is stored, replicated, and expressed in all living organisms. This information is crucial in understanding many biological processes and can also be applied in various fields, such as genetics and biotechnology.
+
+14. What is the function of tRNA during protein synthesis?
+Answer: tRNA (transfer RNA) carries specific amino acids to the ribosomes during protein synthesis. It recognizes the codons on mRNA and delivers the appropriate amino acid to be added to the growing protein chain.
+
+Answer Key:
+1. C
+2. A
+3. A
+4. A
+5. C
+6. D
+7. B
+8. A
+9. B
+10. C
+11. B
+12. Answer will vary
+13. Answer will vary
+14. C

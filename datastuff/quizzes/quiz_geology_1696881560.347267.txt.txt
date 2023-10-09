@@ -1,0 +1,81 @@
+MCQs:
+1. Geology is the study of:
+A. The Earth's atmosphere
+B. The Earth's oceans
+C. The Earth's materials, processes, and history
+D. The Earth's weather patterns
+
+2. Which of the following is NOT a method used by geologists to understand the Earth?
+A. Field observations
+B. Laboratory analyses
+C. Computer gaming
+D. Computer modeling
+
+3. Rocks are made up of different combinations of:
+A. Minerals
+B. Metals
+C. Gases
+D. Liquids
+
+4. Which of the following is a common mineral?
+A. Iron
+B. Plastic
+C. Wood
+D. Quartz
+
+5. Plate tectonics explains the movement of the Earth's:
+A. Atmosphere
+B. Crust
+C. Mantle
+D. Inner core
+
+6. The Earth's crust is divided into large, rigid plates that move relative to one another. This theory is known as:
+A. The rock cycle
+B. The fossil record
+C. Plate tectonics
+D. Continental drift
+
+7. By studying the layers of rocks and fossils, geologists can:
+A. Predict the stock market
+B. Predict future volcanic eruptions
+C. Predict future weather patterns
+D. Predict future evolution of plants and animals
+
+8. Geologists also study subjects such as mineral resources and environmental geology to:
+A. Predict natural disasters
+B. Understand the Earth's past
+C. Understand the Earth's future
+D. Help humans utilize resources sustainably
+
+True/False:
+1. Geology is the study of the Earth's history. (True)
+2. Rocks are made up of living organisms. (False)
+3. Plate tectonics explains the formation of new landmasses. (True)
+4. The Earth's crust is one solid piece. (False)
+
+Free-response:
+1. Explain the difference between a rock and a mineral.
+2. How do geologists use field observations and laboratory analyses to understand the Earth?
+3. Give an example of a geologic hazard and how geologists study and predict it.
+
+Answer key:
+MCQs:
+1. C
+2. C
+3. A
+4. D
+5. B
+6. C
+7. D
+8. D
+
+True/False:
+1. True
+2. False
+3. True
+4. False
+
+Free-response:
+1. A rock is a solid combination of minerals or other materials, while a mineral is a naturally occurring, inorganic substance with a specific chemical composition and crystal structure.
+2. Geologists use field observations to gather data and samples from the Earth's surface, while laboratory analyses allow them to further analyze and identify these samples.
+3. An example of a geologic hazard is an earthquake. Geologists study the location and direction of fault lines to predict potential earthquakes and their magnitude. They also study the Earth's crust and use seismographs to monitor any shifts or movements in the Earth's surface.

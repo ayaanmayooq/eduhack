@@ -1,0 +1,105 @@
+1. What is the name of the fundamental theory in psychology that states behavior is shaped by its consequences?
+A. Classical conditioning
+B. Operant conditioning
+C. Social learning theory
+D. Cognitive-behavioral theory
+
+2. According to Skinner, which type of consequence is more likely to result in a behavior being repeated?
+A. Positive
+B. Negative
+C. Neutral
+D. None of the above
+
+3. What are the three key elements of operant conditioning?
+A. Behavior, reinforcement, and punishment
+B. Behavior, consequence, and reinforcement schedule
+C. Behavior, consequence, and punishment
+D. Behavior, reinforcement schedule, and punishment
+
+4. Which reinforcement schedule involves the delivery of reinforcement after a set number of behaviors?
+A. Fixed ratio
+B. Variable ratio
+C. Fixed interval
+D. Variable interval
+
+5. In a variable ratio schedule, the reinforcement is delivered after __________.
+A. an unpredictable amount of time
+B. a set number of behaviors
+C. an unpredictable number of behaviors
+D. a set amount of time
+
+6. Which type of reinforcement schedule is commonly seen in gambling?
+A. Fixed ratio
+B. Variable ratio
+C. Fixed interval
+D. Variable interval
+
+7. In a fixed interval schedule, reinforcement is delivered after __________.
+A. an unpredictable amount of time
+B. a set number of behaviors
+C. an unpredictable number of behaviors
+D. a set amount of time has passed
+
+8. True or False: Operant conditioning only involves delivering positive consequences.
+A. True
+B. False
+
+9. Which of the following is NOT one of the key elements of operant conditioning?
+A. Behavior
+B. Punishment
+C. Reinforcement
+D. Reinforcement schedule
+
+10. How does operant conditioning play a role in marketing strategies?
+A. By shaping consumer behavior through reinforcement
+B. By using punishment to deter customers from buying certain products
+C. By manipulating consumer behavior through subliminal messaging
+D. None of the above
+
+True/False:
+
+11. Skinner developed the theory of classical conditioning.
+A. True
+B. False
+
+12. In a fixed ratio schedule, the reinforcement is delivered after an unpredictable number of behaviors.
+A. True
+B. False
+
+13. Random drug testing is an example of a fixed interval schedule.
+A. True
+B. False
+
+14. Punishment is always an effective way to decrease a behavior.
+A. True
+B. False
+
+Free-response:
+
+15. Explain the three key elements of operant conditioning.
+Answer: The three key elements of operant conditioning are the behavior, the consequence, and the reinforcement schedule. The behavior is the action or response of an individual, the consequence is the outcome of the behavior (either positive or negative), and the reinforcement schedule refers to the pattern or frequency in which the consequences are delivered.
+
+16. Give an example of a fixed ratio schedule.
+Answer: A fixed ratio schedule is when reinforcement is delivered after a set number of behaviors. An example of this is a salesperson receiving a bonus for every 10 products they sell.
+
+17. How does operant conditioning play a role in parenting?
+Answer: Operant conditioning can play a role in parenting by using positive reinforcement to encourage desired behaviors and negative consequences (such as taking away privileges) to discourage unwanted behaviors. This can shape a child's behavior and increase the likelihood of them repeating desired behaviors in the future.
+
+Answer key:
+1. B 
+2. A 
+3. B 
+4. A 
+5. C 
+6. B
+7. D
+8. B
+9. B
+10. A
+11. B
+12. B
+13. B
+14. B
+15. The three key elements of operant conditioning are the behavior, the consequence, and the reinforcement schedule.
+16. A fixed ratio schedule is when reinforcement is delivered after a set number of behaviors, such as a salesperson receiving a bonus for every 10 products sold.
+17. Operant conditioning in parenting involves using positive reinforcement to encourage desired behaviors and negative consequences to discourage unwanted behaviors. This can shape a child's behavior and increase the likelihood of them repeating desired behaviors in the future.

@@ -1,0 +1,85 @@
+Multiple Choice Questions:
+1. Which of the following is NOT one of the three main processes of memory?
+A. Encoding
+B. Storage
+C. Inspection
+D. Retrieval
+
+2. Which of the following is an example of semantic processing?
+A. Remembering a song
+B. Remembering the taste of your favorite food
+C. Remembering a movie scene
+D. Remembering the meaning of a word
+
+3. Sensory memory can hold onto information for how long?
+A. A minute
+B. A few seconds
+C. Less than a second
+D. An hour
+
+4. Long-term memory is where information is stored for how long?
+A. A lifetime
+B. A few days
+C. A month
+D. A year
+
+5. Which of the following is NOT a cue that can trigger retrieval?
+A. A familiar sight
+B. A familiar sound
+C. A familiar smell
+D. A familiar touch
+
+6. Which of the following statements is true?
+A. Retrieval can only occur if the information was encoded and stored properly.
+B. Memory only involves the storage of information.
+C. Sensory memory is the same as working memory.
+D. Encoding is the process of accessing and using stored information.
+
+7. Which of the following is NOT a type of memory?
+A. Sensory memory
+B. Working memory
+C. Conscious memory
+D. Long-term memory
+
+True/False Questions:
+1. Memory is the process by which we encode, store, and retrieve information.
+A. True
+B. False
+
+2. Short-term memory can hold an unlimited amount of information.
+A. True
+B. False
+
+3. Retrieval can be triggered by cues such as a familiar sight, sound, or smell.
+A. True
+B. False
+
+4. Paying attention to encoding, storage, and retrieval can improve our memory.
+A. True
+B. False
+
+Free-Response Questions:
+1. Describe the three main processes of memory.
+2. What is the role of attention in memory?
+3. What are the three types of memory and how do they differ from each other?
+
+Answer Key:
+Multiple Choice:
+1. C. Inspection
+2. D. Remembering the meaning of a word
+3. C. Less than a second
+4. A. A lifetime
+5. D. A familiar touch
+6. A. Retrieval can only occur if the information was encoded and stored properly.
+7. C. Conscious memory
+
+True/False:
+1. A. True
+2. B. False
+3. A. True
+4. A. True
+
+Free-Response:
+1. The three main processes of memory are encoding, storage, and retrieval. Encoding is the process of converting information into a form that can be stored in our memory. Storage is the retention of this information over time. And retrieval is the process of accessing and using the stored information when needed.
+2. Attention plays a crucial role in memory as it helps us encode information more effectively and transfer it from short-term memory to long-term memory.
+3. The three types of memory are sensory memory, short-term memory, and long-term memory. Sensory memory holds onto information from our senses for a very brief time, usually less than a second. Short-term memory, also known as working memory, can hold a limited amount of information for a short period of time. Long-term memory is where information is stored for extended periods of time, sometimes even for a lifetime. These types of memory differ in terms of capacity and duration of storage.

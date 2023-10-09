@@ -1,0 +1,86 @@
+MCQs:
+1. Learning is defined as a __________ change in behavior or knowledge.
+A) temporary 
+B) permanent 
+C) variable 
+D) conditional
+
+2. Which of the following is NOT one of the main types of learning?
+A) Cognitive learning 
+B) Observational learning 
+C) Operant conditioning 
+D) Classical conditioning 
+
+3. Classical conditioning is also known as ___________ conditioning.
+A) observational 
+B) operant 
+C) cognitive 
+D) Pavlovian 
+
+4. In Pavlov's famous experiment, the sound of a bell served as the ___________.
+A) conditioned stimulus 
+B) unconditioned stimulus 
+C) neutral stimulus 
+D) observational stimulus 
+
+5. Operant conditioning is based on the idea that behavior is shaped by its ___________.
+A) consequences 
+B) environment 
+C) genetics 
+D) emotions
+
+6. In observational learning, behavior is learned through ____________.
+A) trial and error 
+B) reinforcement 
+C) imitation 
+D) association 
+
+7. Which of the following is NOT a factor that influences observational learning?
+A) Attention 
+B) Retention 
+C) Memory 
+D) Age 
+
+8. Learning through observation is especially important for ___________.
+A) adults 
+B) teenagers 
+C) young children 
+D) elderly individuals 
+
+9. Which of the following is NOT a key researcher in the study of classical conditioning?
+A) B.F. Skinner 
+B) Ivan Pavlov 
+C) John B. Watson 
+D) Rosalie Rayner 
+
+10. Learning is a complex process that involves the acquisition, retention, and use of new ____________.
+A) emotions 
+B) skills 
+C) physical abilities 
+D) financial strategies 
+
+True/False:
+1. Learning is a temporary change in behavior or knowledge. (False) 
+2. Classical conditioning involves the learning of new behaviors through observation. (False) 
+3. Operant conditioning focuses on the role of consequences in shaping behavior. (True) 
+4. Observational learning is only important for young children. (False)
+
+Free-response:
+1. Briefly explain the concept of conditioned stimulus and unconditioned stimulus in classical conditioning.
+2. Give an example of how operant conditioning is used in a classroom setting.
+3. How does attention play a role in observational learning?
+
+Answer key: 
+1. B 
+2. A 
+3. D 
+4. A 
+5. A 
+6. C 
+7. D 
+8. C 
+9. A 
+10. B 
+1. In classical conditioning, the conditioned stimulus is a previously neutral stimulus that, after being repeatedly paired with an unconditioned stimulus, triggers a conditioned response. The unconditioned stimulus is a stimulus that naturally and automatically triggers a response without any prior learning.
+2. Operant conditioning can be used in a classroom setting by using a system of rewards and punishments to shape behavior. For example, a teacher may give a student a sticker for completing their homework on time, which serves as a reward and increases the likelihood of the student completing their homework on time in the future.
+3. Attention is important in observational learning because if an individual is not paying attention to the model's behavior, they will not be able to imitate it. Attention allows for the individual to focus on the key aspects of the behavior and retain it for future use.

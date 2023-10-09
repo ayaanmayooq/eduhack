@@ -1,0 +1,69 @@
+MCQs:
+1. Which of the following is NOT a method used to detect exoplanets?
+A. Radial velocity
+B. Transit
+C. Spectroscopy
+D. Magnetic resonance imaging
+Answer: D
+
+2. What is an exoplanet?
+A. A planet that only exists in our solar system
+B. A planet that orbits a star outside of our solar system
+C. A planet that is the same size as Earth
+D. A planet that is not made of gas
+Answer: B
+
+3. What is the radial velocity technique used for in astronomy?
+A. Measuring the size of a star
+B. Detecting the composition of a planet
+C. Detecting the gravitational pull of an exoplanet
+D. Measuring the brightness of a star
+Answer: C
+
+4. How many suns can an exoplanet have in its solar system?
+A. One
+B. Two
+C. Three
+D. None
+Answer: B
+
+5. What is the transit method used for in astronomy?
+A. Measuring the size of a star
+B. Detecting the composition of a planet
+C. Detecting the gravitational pull of an exoplanet
+D. Measuring the brightness of a star
+Answer: D
+
+6. Why is understanding exoplanets important in the search for extraterrestrial life?
+A. To see if they have similar atmospheres to Earth
+B. To determine their distance from Earth
+C. To see if they have multiple suns in their solar system
+D. To determine their size compared to Earth
+Answer: A
+
+7. Which type of exoplanet is a gas giant that orbits extremely close to its star?
+A. Super-Earth
+B. Hot Jupiter
+C. Earth-like
+D. Blue Neptune
+Answer: B
+
+True/False:
+8. The radial velocity technique measures the slight wobble of a star caused by the gravitational pull of an orbiting planet.
+Answer: True
+
+9. Exoplanets only come in one size and composition.
+Answer: False
+
+10. The transit method looks for dips in a star's brightness as a planet passes in front of it.
+Answer: True
+
+11. Spectroscopy is a method used to detect exoplanets.
+Answer: False
+
+Free-response:
+12. Briefly explain the radial velocity technique used to detect exoplanets.
+Answer: The radial velocity technique measures the slight wobble of a star caused by the gravitational pull of an orbiting planet. Astronomers use this method to detect exoplanets by observing the changes in the star's velocity, which can indicate the presence of an orbiting planet.
+
+13. Why is understanding exoplanets important in our search for extraterrestrial life?
+Answer: Understanding exoplanets is important in our search for extraterrestrial life because by studying their atmospheres, scientists can determine if a planet has the necessary conditions for life to exist. Exoplanets can also provide valuable information about the formation and evolution of our own solar system. Furthermore, the existence of exoplanets increases the likelihood of finding habitable planets and potential life beyond Earth.

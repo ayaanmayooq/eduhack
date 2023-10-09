@@ -1,0 +1,92 @@
+1) Which branch of astronomy deals with the physical properties and processes of celestial objects?
+A) Cosmology
+B) Astrobiology
+C) Astrochemistry
+D) Astrophysics
+
+2) What force governs the motion of objects in space?
+A) Electromagnetism
+B) Gravity
+C) Inertia
+D) Friction
+
+3) According to the law of gravity, the force of attraction between two objects is __________.
+A) directly proportional to their velocities
+B) inversely proportional to their masses
+C) directly proportional to the square of the distance between them
+D) inversely proportional to the square root of the distance between them
+
+4) What theory explains the motion of planets and comets around the sun?
+A) Kepler's laws
+B) Einstein's theory of relativity
+C) Newton's theory of gravitation
+D) Hubble's law
+
+5) Electromagnetic radiation is another term for __________.
+A) sound waves
+B) light
+C) x-rays
+D) cosmic rays
+
+6) By analyzing the spectrum of light emitted by a star, scientists can determine its __________.
+A) location in the sky
+B) age
+C) composition
+D) weather patterns
+
+7) What aspect of the universe does astrophysics study?
+A) The behavior of subatomic particles
+B) The formation and evolution of galaxies
+C) The chemistry of Earth's atmosphere
+D) The history of human civilization
+
+8) Dark matter and dark energy are responsible for what phenomenon?
+A) The rotation of the Earth
+B) The expansion of the universe
+C) The formation of black holes
+D) The Big Bang theory
+
+9) Which of the following is NOT an instrument used by astrophysicists?
+A) Telescope
+B) Microscope
+C) Spectrometer
+D) Gravitational wave detector
+
+10) What do scientists use to gather information about celestial objects?
+A) Electromagnetic radiation
+B) Gravitational waves
+C) Sound waves
+D) Radio waves
+
+True/False:
+1) Astrophysics is the study of the physical properties of the Earth. (False)
+2) Newton's law of gravitation explains the motion of objects on Earth. (False)
+3) The spectrum of light emitted by a star can tell us its temperature. (True)
+4) Dark matter and dark energy are the same thing. (False)
+
+Free-response:
+1) Explain the relationship between mass, distance, and the force of gravity.
+2) How does astrophysics contribute to our understanding of the universe?
+3) What role does light play in the study of astrophysics?
+
+Answer key:
+1) D
+2) B
+3) C
+4) C
+5) B
+6) C
+7) B
+8) B
+9) B
+10) A
+True/False:
+1) False
+2) False
+3) True
+4) False
+
+Free-response:
+1) The force of gravity between two objects is directly proportional to their masses and inversely proportional to the square of the distance between them. This means that the larger the masses of the objects, the stronger the force of gravity will be, and the farther apart the objects are, the weaker the force of gravity will be.
+2) Astrophysics helps us understand the physical properties and processes of celestial objects and the universe as a whole. It allows us to gather information about galaxies, stars, and other objects that are too far away to study directly. This information helps us understand the origins and evolution of the universe.
+3) Light is a form of electromagnetic radiation that is emitted by all objects in the universe. By studying this radiation, we can gather information about the composition, temperature, and movement of celestial objects. This is essential for understanding the physical properties and behavior of these objects.

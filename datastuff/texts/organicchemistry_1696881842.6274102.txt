@@ -1,0 +1,15 @@
+Subject: Organic Chemistry
+Page Number: 87
+Content: Organic chemistry is the study of carbon-containing compounds and their properties, reactions, and structures. Carbon is a unique element that can form strong bonds with other carbon atoms and a variety of other elements, resulting in a vast number of possible molecules. This has led to the immense diversity and complexity of organic compounds, making them essential for life and a major area of study in chemistry.
+
+One of the fundamental concepts in organic chemistry is the concept of functional groups. These are specific groups of atoms within a molecule that determine its chemical and physical properties. Each functional group has its own unique reactivity and can be used to predict the behavior of a molecule in a reaction.
+
+One example of a functional group is the hydroxyl group (-OH), which is found in alcohols. This group gives alcohols their characteristic properties, such as the ability to dissolve in water and undergo reactions with other molecules. Another important functional group is the carboxyl group (-COOH), which is found in carboxylic acids. This group is responsible for the acidic properties of these compounds and their ability to react with bases to form salts.
+
+Understanding functional groups is crucial in organic chemistry as it allows chemists to predict the behavior of different molecules and design new compounds with specific properties. By studying the reactions of functional groups, scientists are able to synthesize new drugs, materials, and other important substances.
+
+Diagram: [insert diagram of functional groups and their structures]
+
+In addition to functional groups, organic chemistry also deals with the structure and bonding of molecules. Carbon can form single, double, and triple bonds with other atoms, allowing for a diverse range of structures. Understanding these bonds and their strengths is essential in predicting the reactivity of organic compounds.
+
+Overall, organic chemistry is a fascinating subject that plays a crucial role in our daily lives. From the food we eat to the medicines we take, organic compounds are all around us and studying them helps us better understand the world we live in.

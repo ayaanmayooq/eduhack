@@ -1,0 +1,61 @@
+1. Which of the following is NOT a biological molecule studied in biochemistry?
+A. Protein
+B. Carbohydrate
+C. Lipid
+D. Oxygen
+
+2. What is the function of enzymes in biochemical reactions?
+A. They increase the rate of reactions by increasing activation energy.
+B. They decrease the rate of reactions by lowering activation energy.
+C. They increase the rate of reactions by lowering activation energy.
+D. They decrease the rate of reactions by increasing activation energy.
+
+3. True or False: Changes in the sequence of amino acids can lead to a loss of enzyme activity.
+A. True
+B. False
+
+4. Which type of reaction breaks down larger molecules into smaller ones?
+A. Anabolic
+B. Catabolic
+
+5. Which of the following is an example of an anabolic reaction?
+A. Cellular respiration
+B. Digestion
+C. Photosynthesis
+D. Glycolysis
+
+6. What is the process by which cells convert glucose into energy?
+A. Cellular respiration
+B. Photosynthesis
+C. Glycolysis
+D. Metabolism
+
+7. True or False: Biochemistry has no applications in medicine or other industries.
+A. True
+B. False
+
+8. Which organelle is responsible for cellular respiration?
+A. Chloroplast
+B. Nucleus
+C. Mitochondria
+D. Golgi apparatus
+
+9. Which of the following is NOT a type of biochemical reaction?
+A. Synthesis
+B. Decomposition
+C. Oxidation
+D. Fermentation
+
+10. Free-response: Explain the difference between catabolic and anabolic reactions.
+
+Answer key:
+1. D
+2. C
+3. A
+4. B
+5. C
+6. A
+7. B
+8. C
+9. D
+10. Catabolic reactions break down larger molecules into smaller ones, releasing energy in the process, while anabolic reactions use energy to build larger molecules from smaller ones.

@@ -1,0 +1,21 @@
+Subject: Meteorology
+Page Number: 76
+Content:
+Weather Fronts:
+
+A weather front is a boundary separating two distinct air masses with different temperature, humidity, and density. These air masses often have differing pressure systems, resulting in changes in weather patterns. The movement and interaction of these fronts play a crucial role in the weather we experience on a daily basis.
+
+There are four main types of weather fronts: cold fronts, warm fronts, stationary fronts, and occluded fronts. Each type has a unique set of characteristics and can bring different types of weather.
+
+A cold front occurs when a mass of cold air moves into an area of warmer air. As the cold air pushes the warm air up, clouds and precipitation may form. Cold fronts are often associated with thunderstorms and heavy rain.
+
+A warm front, on the other hand, happens when a mass of warm air moves into an area of colder air. The warm air rises over the cold air, resulting in a gradual and steady increase in temperature. Warm fronts can bring light rain or drizzle, and sometimes even fog.
+
+A stationary front is when two air masses meet but neither is strong enough to move the other. As a result, the front remains stationary, causing several days of cloudy, wet weather.
+
+Lastly, an occluded front occurs when a cold front overtakes a warm front, trapping the warm air between two cold air masses. This can lead to a mix of weather conditions, such as rain, snow, and thunderstorms.
+
+Fronts can be seen on weather maps as lines with different symbols indicating the type of front and the direction it is moving. Understanding weather fronts and their movements is essential for meteorologists to accurately predict weather patterns and provide early warnings to the public.
+
+Diagram:
+[Insert relevant diagram of weather fronts]

@@ -1,0 +1,74 @@
+MCQs:
+1. Redshift occurs when light is shifted towards which end of the electromagnetic spectrum?
+A. Blue end
+B. Green end
+C. Yellow end
+D. Red end
+
+2. What is the distance between two consecutive peaks or troughs of a wave called?
+A. Wavelength
+B. Frequency
+C. Amplitude
+D. Pitch
+
+3. Who was the astronomer that first observed redshift in distant galaxies?
+A. Nicolaus Copernicus
+B. Galileo Galilei
+C. Edwin Hubble
+D. Isaac Newton
+
+4. What phenomenon is responsible for causing redshift?
+A. Gravity
+B. Refraction
+C. Doppler effect
+D. Reflection
+
+5. What theory states that the universe is expanding and was supported by Hubble's discovery of redshift?
+A. Big Bang theory
+B. Theory of Relativity
+C. Geocentric theory
+D. Heliocentric theory
+
+6. What can be determined by measuring the redshift of an object?
+A. Its mass
+B. Its temperature
+C. Its distance
+D. Its chemical composition
+
+7. Which of the following can cause a change in the wavelength of light emitted by an object?
+A. Rotation
+B. Reflection
+C. Refraction
+D. Motion
+
+True/False:
+1. Redshift is the phenomenon where light appears to be shifted towards the blue end of the spectrum.
+2. The Doppler effect is responsible for causing redshift.
+3. Hubble's discovery of redshift led to the development of the Geocentric theory.
+4. Redshift can be used to calculate the speed of an object.
+
+Free-response:
+1. Describe the concept of wavelength and how it is related to redshift.
+2. Explain how measuring the redshift of an object can help determine its distance.
+3. How did Hubble's discovery of redshift contribute to our understanding of the universe?
+
+Answer key:
+MCQs:
+1. D
+2. A
+3. C
+4. C
+5. A
+6. C
+7. D
+
+True/False:
+1. False
+2. True
+3. False
+4. True
+
+Free-response:
+1. Wavelength is the distance between two consecutive peaks or troughs of a wave. Redshift occurs when an object is moving away from us, causing the wavelength of the light it emits to appear longer and thus more red in color.
+2. By measuring the redshift, astronomers can calculate the speed at which an object is moving away from us. This, combined with the known speed of light, can be used to determine the distance of the object.
+3. Hubble's discovery of redshift showed that distant galaxies were moving away from us, providing evidence for the expansion of the universe. This led to the development of the Big Bang theory, which is a widely accepted explanation for the origins of the universe.

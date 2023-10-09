@@ -1,0 +1,55 @@
+Q1. What is the overall equation for photosynthesis?
+A) 6CO2 + 6H2O + light energy → C6H12O6 + 6O2
+B) 6CO2 + 6H2O + C6H12O6 → light energy + 6O2
+C) 6CO2 + 6H2O + 6O2 → light energy + C6H12O6
+D) C6H12O6 + 6O2 + light energy → 6CO2 + 6H2O
+
+Q2. Which of the following is NOT a product of photosynthesis?
+A) Oxygen gas (O2)
+B) Water (H2O)
+C) Glucose (C6H12O6)
+D) Carbon dioxide (CO2)
+
+Q3. During photosynthesis, light energy is converted into chemical energy in the form of _______.
+A) ATP
+B) Glucose
+C) Oxygen
+D) Water
+
+Q4. What is the process called when light energy is used to split water molecules into hydrogen ions and oxygen gas?
+A) Photolysis
+B) Calvin cycle
+C) Photosynthesis
+D) Cellular respiration
+
+Q5. Which of the following is NOT a step in photosynthesis?
+A) Absorption of light energy
+B) Conversion of water into oxygen and hydrogen ions
+C) Combining carbon dioxide and oxygen to form glucose
+D) Breaking down glucose to release energy
+
+Q6. True or False: The Calvin cycle uses the energy from ATP to convert carbon dioxide into glucose.
+A) True
+B) False
+
+Q7. True or False: Photosynthesis only occurs in plants.
+A) True
+B) False
+
+Q8. Free-response: Briefly explain the role of pigments in photosynthesis.
+
+Q9. Free-response: Describe the three main steps of photosynthesis.
+
+Q10. Free-response: Why is photosynthesis essential for life on Earth?
+
+Answer key:
+1) A
+2) B
+3) A
+4) A
+5) D
+6) True
+7) False
+8) Pigments, such as chlorophyll, absorb light energy which is then converted into chemical energy for the process of photosynthesis.
+9) The three main steps of photosynthesis are: 1) Absorption of light energy; 2) Conversion of water into oxygen and hydrogen ions; 3) Conversion of carbon dioxide into glucose.
+10) Photosynthesis produces oxygen and provides energy for living organisms, making it essential for life on Earth.

@@ -1,0 +1,86 @@
+1. What is the main component of a virus structure?
+A. Lipids
+B. Proteins
+C. Genetic material
+D. Enzymes
+
+2. Which of the following is NOT a characteristic of viruses?
+A. They can reproduce on their own
+B. They have a protein coat
+C. They can cause diseases
+D. They are smaller than bacteria
+
+3. How do viruses infect host cells?
+A. By destroying them
+B. By using their own machinery
+C. By injecting their genetic material
+D. By releasing toxins
+
+4. What is the function of a virus's outer envelope?
+A. To protect the genetic material
+B. To attach to host cells
+C. To help with reproduction
+D. To destroy host cells
+
+5. How do viruses differ from bacteria in terms of size?
+A. Viruses are smaller
+B. Viruses are larger
+C. They are the same size
+D. It depends on the type of virus or bacteria
+
+6. True or False: Viruses can only infect humans.
+A. True
+B. False
+
+7. What is the term for a virus's ability to attach to specific receptors on host cells?
+A. Infection
+B. Replication
+C. Attachment
+D. Host specificity
+
+8. True or False: Viruses have a significant impact on agriculture.
+A. True
+B. False
+
+9. Which of the following is NOT a disease caused by viruses?
+A. Common cold
+B. Measles
+C. Tetanus
+D. AIDS
+
+10. What does a virus use to replicate?
+A. Its own machinery
+B. Host cells' machinery
+C. Enzymes
+D. Both A and B
+
+True or False
+11. Viruses rely on host cells to reproduce.
+A. True
+B. False
+
+12. Genetics is not a part of a virus's structure.
+A. True
+B. False
+
+Free response
+13. Describe the structure of a typical virus.
+14. How do viruses infect host cells?
+15. Name one disease caused by viruses and its impact on society.
+
+Answer key:
+1. C
+2. A
+3. C
+4. B
+5. A
+6. B
+7. D
+8. A
+9. C
+10. D
+11. A
+12. B
+13. The structure of a typical virus consists of genetic material (DNA or RNA) surrounded by a protein coat called a capsid. Some viruses also have an outer envelope made of lipids taken from the host cell.
+14. Viruses infect host cells by attaching to specific receptors on the cell surface, injecting their genetic material into the cell, and taking over the cell's machinery to produce more viral particles.
+15. AIDS is caused by the human immunodeficiency virus (HIV) and has had a significant impact on society, particularly in the development of medical treatments and public health policies.

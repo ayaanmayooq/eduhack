@@ -1,0 +1,77 @@
+1) What is the main topic of this passage?
+A) The History of Astronomy
+B) The Discovery of Planets
+C) Kepler's Laws
+D) The Solar System
+
+Answer: C) Kepler's Laws
+
+2) What is the first law of planetary motion?
+A) All planets move in circular orbits around the sun.
+B) All planets have equal distances from the sun.
+C) All planets move in elliptical orbits with the sun at one focus.
+D) All planets have equal orbital periods.
+
+Answer: C) All planets move in elliptical orbits with the sun at one focus.
+
+3) What is the second law of planetary motion?
+A) The speed of a planet is constant throughout its orbit.
+B) The distance between a planet and the sun is constant throughout its orbit.
+C) The imaginary line connecting a planet to the sun sweeps out equal areas in equal times.
+D) The force of gravity between the sun and planets is constant.
+
+Answer: C) The imaginary line connecting a planet to the sun sweeps out equal areas in equal times.
+
+4) Which law helps to explain why planets move at varying speeds in their orbits?
+A) The first law
+B) The second law
+C) The third law
+D) None of the above
+
+Answer: B) The second law
+
+5) What is the third law of planetary motion?
+A) The farther a planet is from the sun, the longer it takes to complete one orbit.
+B) The closer a planet is to the sun, the longer it takes to complete one orbit.
+C) The orbital periods of all planets are equal.
+D) The average distance between planets is proportional to their mass.
+
+Answer: A) The farther a planet is from the sun, the longer it takes to complete one orbit.
+
+6) Which law helps to determine the relative sizes of orbits and the distances between planets?
+A) The first law
+B) The second law
+C) The third law
+D) All of the above
+
+Answer: C) The third law
+
+7) True or False: Kepler's laws have been studied extensively by astronomers.
+A) True
+B) False
+
+Answer: A) True
+
+8) True or False: All planets move at the same speed in their orbits.
+A) True
+B) False
+
+Answer: B) False
+
+9) Free-response: Describe Kepler's first law of planetary motion.
+Answer: Kepler's first law states that all planets move in elliptical orbits with the sun at one focus. This means that the distance between a planet and the sun varies throughout its orbit, with the closest point being called the perihelion and the farthest point being called the aphelion.
+
+10) Free-response: How do diagrams help to illustrate Kepler's laws and the concept of planetary motion?
+Answer: Diagrams show the elliptical shape of a planet's orbit, as well as the varying speeds and distances from the sun at different points in the orbit. This helps to visually demonstrate Kepler's laws and the mechanics of planetary motion.
+
+Answer Key:
+1) C) Kepler's Laws
+2) C) All planets move in elliptical orbits with the sun at one focus.
+3) C) The imaginary line connecting a planet to the sun sweeps out equal areas in equal times.
+4) B) The second law
+5) A) The farther a planet is from the sun, the longer it takes to complete one orbit.
+6) C) The third law
+7) A) True
+8) B) False
+9) Kepler's first law states that all planets move in elliptical orbits with the sun at one focus.
+10) Diagrams show the elliptical shape of a planet's orbit, as well as the varying speeds and distances from the sun at different points in the orbit.

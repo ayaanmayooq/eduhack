@@ -1,0 +1,86 @@
+Multiple Choice:
+1. What is the process of organizing and grouping living organisms based on their similarities and differences called?
+A. Taxonomy
+B. Evolution
+C. Ecology
+D. Adaptation
+
+2. How many main levels are there in the classification system?
+A. 3
+B. 5
+C. 7
+D. 9
+
+3. Which is the broadest level of classification?
+A. Species
+B. Order
+C. Phylum
+D. Kingdom
+
+4. Which kingdom do animals belong to?
+A. Animalia
+B. Plantae
+C. Fungi
+D. Protista
+
+5. Which level is the most specific in the classification system?
+A. Kingdom
+B. Genus
+C. Order
+D. Family
+
+6. Which level groups animals based on their close evolutionary relationships?
+A. Phylum
+B. Class
+C. Genus
+D. Family
+
+7. What distinguishes animals within an Order?
+A. Shared characteristics within a particular Phylum
+B. Shared characteristics within a Class
+C. Shared characteristics within a Kingdom
+D. Shared characteristics within a Genus
+
+8. Which level is based on shared characteristics within a Phylum?
+A. Class
+B. Order
+C. Family
+D. Genus
+
+True/False:
+9. The classification system in zoology is known as taxonomy.
+A. True
+B. False
+
+10. Animals are divided into six kingdoms.
+A. True
+B. False
+
+11. The Genus level is more specific than the Species level.
+A. True
+B. False
+
+12. Classification in zoology helps us understand the relationships between different species.
+A. True
+B. False
+
+Free-response:
+13. What is the purpose of classification in zoology?
+
+14. List the seven main levels of classification in order from broadest to most specific.
+
+Answer key:
+1. A
+2. C
+3. D
+4. A
+5. B
+6. C
+7. A
+8. A
+9. A
+10. B
+11. B
+12. A
+13. The purpose of classification in zoology is to organize and group living organisms based on their similarities and differences, in order to better understand their relationships and evolutionary history.
+14. Kingdom, Phylum, Class, Order, Family, Genus, Species

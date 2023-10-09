@@ -1,0 +1,83 @@
+1) What is the most common classification system for stars?
+A) Kepler-Russell
+B) Newton-Russell
+C) Einstein-Russell
+D) Hertzsprung-Russell
+
+2) What is the role of stars in the formation of planets and solar systems?
+A) They provide light for plants to grow
+B) They create oxygen for us to breathe
+C) They are the building blocks of galaxies
+D) They keep the earth in orbit around the sun
+
+3) What is the main factor used to classify stars on the H-R diagram?
+A) Luminosity
+B) Color
+C) Size
+D) Distance from Earth
+
+4) What is the term for stars that don't fit neatly into the main categories?
+A) Variable stars
+B) Irregular stars
+C) Abnormal stars
+D) Unique stars
+
+5) Main sequence stars are in a stable state of nuclear _____________.
+A) Fission
+B) Fusion
+C) Decay
+D) Emission
+
+6) Red giants are larger and ___________ than main sequence stars.
+A) Hotter
+B) Cooler
+C) Brighter
+D) Smaller
+
+7) Which type of star is the leftover core of an old star?
+A) Red giant
+B) White dwarf
+C) Main sequence
+D) Variable
+
+True/False:
+
+8) Stars are held together by their own gravity.
+A) True
+B) False
+
+9) Main sequence stars are the largest and brightest stars in the universe.
+A) True
+B) False
+
+10) Variable stars have consistent brightness patterns.
+A) True
+B) False
+
+11) The H-R diagram plots a star's size against its surface temperature.
+A) True
+B) False
+
+Free-response:
+
+12) What are the three main types of stars found on the H-R diagram and what are their characteristics?
+
+13) How does understanding the different types of stars help astronomers in studying the universe?
+
+14) What is the role of stars in the formation of planets and solar systems?
+
+Answer key:
+1) D
+2) C
+3) A
+4) A
+5) B
+6) B
+7) B
+8) A
+9) B
+10) B
+11) B
+12) The three main types of stars are main sequence stars, red giants, and white dwarfs. Main sequence stars are stable, medium-sized stars in the prime of their life. Red giants are larger, cooler stars nearing the end of their life cycle. White dwarfs are dense, leftover cores of old stars.
+13) Understanding the different types of stars allows astronomers to classify and study the vast array of stars in the universe. It also helps predict their life cycle and future behavior.
+14) Stars are the building blocks of galaxies and play a crucial role in the formation of planets and solar systems by providing light, heat, and elements necessary for life. They also help keep planets in orbit around a central star.

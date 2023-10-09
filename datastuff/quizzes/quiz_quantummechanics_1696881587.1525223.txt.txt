@@ -1,0 +1,67 @@
+1) Which of the following statements correctly describes the Heisenberg uncertainty principle?
+A) It states that particles can exist as both waves and particles.
+B) It states that it is impossible to know the exact position and momentum of a particle.
+C) It states that particles can be in multiple states at the same time.
+D) It states that the state of one particle can affect the state of another particle.
+
+2) What is superposition in quantum mechanics?
+A) The ability of particles to exist in multiple states at the same time.
+B) The principle that particles can exist as both waves and particles.
+C) The phenomenon of entanglement between particles.
+D) The interference of particles with each other.
+
+3) The double-slit experiment is used to explain which concept in quantum mechanics?
+A) Superposition
+B) Entanglement
+C) The Heisenberg uncertainty principle
+D) Wave-particle duality
+
+4) Which of the following is NOT an application of quantum mechanics?
+A) Medicine
+B) Cryptography
+C) Philosophy
+D) Computing
+
+5) True or False: The exact mechanism behind entanglement is fully understood.
+A) True
+B) False
+
+6) Which branch of physics studies the behavior of matter and energy on a microscopic scale?
+A) Quantum mechanics
+B) Classical mechanics
+C) Thermodynamics
+D) Relativity
+
+7) What is the duality in quantum mechanics?
+A) The duality of particles existing in multiple states at the same time.
+B) The duality of particles being able to exist as both waves and particles.
+C) The duality of particles having a range of possible positions and momentums.
+D) The duality of particles being able to affect each other's states.
+
+8) True or False: The concept of superposition has not been confirmed through experiments.
+A) True
+B) False
+
+9) What is the principle that states particles can exist as both waves and particles?
+A) Superposition
+B) Wave-particle duality
+C) The Heisenberg uncertainty principle
+D) Entanglement
+
+10) What is the phenomenon that occurs when two particles become connected in such a way that the state of one particle affects the state of the other?
+A) Superposition
+B) Entanglement
+C) Wave-particle duality
+D) The Heisenberg uncertainty principle
+
+Answer key:
+1) B
+2) A
+3) D
+4) C
+5) B
+6) A
+7) B
+8) B
+9) B
+10) B

@@ -1,0 +1,72 @@
+Multiple Choice Questions:
+1. What is the force that keeps planets in orbit around the sun?
+A. Inertia
+B. Velocity
+C. Gravity
+D. Friction
+
+2. Which of the following factors affects the strength of gravity between two objects?
+A. Mass
+B. Distance
+C. Color
+D. Temperature
+
+3. Which law of motion explains why planets continue to move in a straight line unless acted upon by an external force?
+A. Newton's First Law
+B. Newton's Second Law
+C. Newton's Third Law
+D. Law of Inertia
+
+4. Which planets in our solar system have shorter orbits?
+A. Inner planets
+B. Outer planets
+C. Mid-size planets
+D. All planets have the same orbit length
+
+5. True or False: Inertia is the tendency of an object to resist changes in its motion.
+A. True
+B. False
+
+6. Which scientist is credited with discovering the laws of motion?
+A. Galileo Galilei 
+B. Albert Einstein
+C. Sir Isaac Newton
+D. Johannes Kepler
+
+7. Which of the following is NOT a factor that influences planetary motion?
+A. Friction
+B. Gravity
+C. Inertia
+D. Magnetism
+
+True/False Questions:
+8. True or False: The strength of gravity between two objects increases as the distance between them increases.
+A. True
+B. False
+
+9. True or False: Planets closer to the sun have longer years.
+A. True
+B. False
+
+10. True or False: According to the laws of motion, an object will continue to move at a constant velocity unless acted upon by an external force.
+A. True
+B. False
+
+Free-Response Questions:
+11. How does the distance between two objects affect the strength of gravity between them?
+
+12. Explain the relationship between a planet's distance from the sun and its orbital speed.
+
+Answer Key:
+1. C
+2. A
+3. A
+4. A
+5. A
+6. C
+7. D
+8. B
+9. B
+10. A
+11. The strength of gravity between two objects decreases as the distance between them increases.
+12. The closer a planet is to the sun, the faster it moves in its orbit due to the stronger force of gravity. This results in shorter orbital periods, or years, for these planets.

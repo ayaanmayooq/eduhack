@@ -1,0 +1,12 @@
+Subject: Astronomy
+Page Number: 96
+Content:
+Placeholder: In this section, we will discuss the different types of galaxies found in our universe. Galaxies are massive systems of stars, gas, and dust held together by gravity. They come in a variety of shapes and sizes, but can be broadly categorized into three main types: elliptical, spiral, and irregular.
+
+Elliptical galaxies are the most common type, making up about 60% of all known galaxies. They are characterized by their smooth, round shape and have little to no visible structure. Elliptical galaxies are made up of older stars and contain very little gas and dust, which means they have very low rates of star formation.
+
+Spiral galaxies are the most visually striking type, with their arms and disk-like shape. They make up about 30% of known galaxies and are typically found in areas with high rates of star formation. Spiral galaxies have a central bulge and arms that spiral outwards, giving them their distinct appearance. Our own Milky Way galaxy is a spiral galaxy.
+
+Irregular galaxies are the least common type, making up only about 10% of known galaxies. As the name suggests, these galaxies have irregular shapes and do not fall into the categories of elliptical or spiral. They are often the result of interactions or collisions with other galaxies, leading to their distorted shape.
+
+Understanding the different types of galaxies is important in studying the evolution and structure of the universe. By observing and analyzing these different types, astronomers can gain insight into the formation and development of galaxies, and ultimately, the universe as a whole.

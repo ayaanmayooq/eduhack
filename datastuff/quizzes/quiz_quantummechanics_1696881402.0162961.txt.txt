@@ -1,0 +1,100 @@
+1. What is the main focus of quantum mechanics?
+A. The behavior of particles on a macroscopic level
+B. The behavior of particles on a subatomic level
+C. The behavior of electromagnetic waves
+D. The behavior of celestial bodies
+
+2. What is wave-particle duality?
+A. The ability of particles to exist in multiple states at the same time.
+B. The belief that particles only exhibit wave-like properties.
+C. The ability of particles to only act as one wave or one particle.
+D. The belief that particles only exhibit particle-like properties.
+
+3. True or False: The Heisenberg Uncertainty Principle states that it is possible to know both the exact position and momentum of a particle at the same time.
+A. True
+B. False
+
+4. What is superposition?
+A. The ability of particles to exist in multiple states at the same time.
+B. The belief that particles only exhibit wave-like properties.
+C. The ability of particles to only act as one wave or one particle.
+D. The belief that particles only exhibit particle-like properties.
+
+5. What is entanglement?
+A. The connection between particles where the state of one affects the state of the other.
+B. The ability of particles to exist in multiple states at the same time.
+C. The belief that particles only exhibit wave-like properties.
+D. The ability of particles to only act as one wave or one particle.
+
+6. True or False: Quantum mechanics has been widely accepted and has not faced any challenges or controversies.
+A. True
+B. False
+
+7. Which of the following is NOT a real-world application of quantum mechanics?
+A. Cryptography
+B. Computing
+C. Medicine
+D. Quantum teleportation
+
+8. What was one of the main departures from classical physics that quantum mechanics introduced?
+A. The concept of wave-particle duality
+B. The ability of particles to exist in multiple states at the same time
+C. The ability of particles to connect and affect each other
+D. The idea that particles only act as either waves or particles
+
+9. What is the famous thought experiment that demonstrates superposition?
+A. The double-slit experiment
+B. The bouncing ball experiment
+C. The pendulum experiment
+D. The free-fall experiment
+
+10. True or False: Quantum mechanics has no practical applications and is purely a theoretical concept.
+A. True
+B. False
+
+True/False
+
+1. True or False: Quantum mechanics deals with the behavior of particles on a macroscopic level.
+A. True
+B. False
+
+2. True or False: The Heisenberg Uncertainty Principle has been proven false through experiments.
+A. True
+B. False
+
+3. True or False: The principle of entanglement states that particles can become connected regardless of distance.
+A. True
+B. False
+
+4. True or False: The principles of quantum mechanics have not led to any technological advancements.
+A. True
+B. False
+
+Free Response
+
+1. Briefly explain the concept of wave-particle duality.
+2. How has quantum mechanics challenged classical physics?
+3. Can you give an example of a real-world application of quantum mechanics?
+
+Answer Key:
+1. B
+2. A
+3. B
+4. A
+5. A
+6. B
+7. C
+8. A
+9. A
+10. B
+
+True/False:
+1. B
+2. B
+3. A
+4. B
+
+Free Response:
+1. Wave-particle duality is the theory that particles, such as electrons, can exhibit both wave-like and particle-like properties depending on how they are observed.
+2. Quantum mechanics challenges classical physics by introducing concepts such as wave-particle duality, superposition, and entanglement, which were not accounted for in classical physics.
+3. A real-world application of quantum mechanics is cryptography, where the principles of quantum mechanics are used to create secure communication systems.

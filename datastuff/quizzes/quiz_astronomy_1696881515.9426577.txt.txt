@@ -1,0 +1,102 @@
+MCQs:
+1. Who was the German astronomer who revolutionized the study of planetary motion?
+A. Galileo Galilei
+B. Isaac Newton
+C. Johannes Kepler
+D. Nicolaus Copernicus
+
+2. Which of Kepler's laws of planetary motion states that all planets move in elliptical orbits around the sun?
+A. First law
+B. Second law
+C. Third law
+D. Fourth law
+
+3. According to the second law of planetary motion, a planet will move faster when it is ________ to the sun.
+A. closer
+B. farther away
+C. in a perfect circle
+D. aligned with other planets
+
+4. True or False: The third law of planetary motion states that the square of a planet's orbital period is proportional to its distance from the sun.
+A. True
+B. False
+
+5. Which of the following is not a part of Kepler's three laws of planetary motion?
+A. Law of inertia
+B. Law of equal areas
+C. Law of harmonies
+D. Law of ellipses
+
+6. Planetary motion refers to the movement of planets in our:
+A. galaxy
+B. universe
+C. solar system
+D. atmosphere
+
+7. True or False: Kepler's laws of planetary motion are still used today to describe the movement of planets.
+A. True
+B. False
+
+8. Which law of planetary motion states that a line connecting a planet to the sun will sweep out equal areas in equal intervals of time?
+A. First law
+B. Second law
+C. Third law
+D. Fourth law
+
+9. According to Kepler's third law, which of the following is proportional to the cube of a planet's average distance from the sun?
+A. Its orbital period
+B. Its rotation period
+C. Its mass
+D. Its size
+
+10. Which law of planetary motion relates a planet's orbital period to its distance from the sun?
+A. First law
+B. Second law
+C. Third law
+D. Fourth law
+
+True/False:
+1. Kepler's three laws of planetary motion were discovered in the 19th century.
+A. True
+B. False
+
+2. According to Kepler's first law, planets move in circular orbits around the sun.
+A. True
+B. False
+
+3. Kepler's third law states that a planet's orbital period is inversely proportional to its distance from the sun.
+A. True
+B. False
+
+4. The study of planetary motion allows us to gain a deeper understanding of our solar system and the universe.
+A. True
+B. False
+
+Free-response:
+1. Explain the first law of planetary motion.
+2. How did Kepler's laws of planetary motion revolutionize the field of astronomy?
+3. What are the three laws of planetary motion and how are they related to each other?
+
+Answer Key:
+MCQs:
+1. C
+2. A
+3. A
+4. A
+5. A
+6. C
+7. A
+8. B
+9. A
+10. C
+
+True/False:
+1. B
+2. B
+3. B
+4. A
+
+Free-response:
+1. The first law of planetary motion, also known as the law of ellipses, states that all planets in our solar system move in elliptical orbits around the sun, with the sun being located at one of the two foci of the ellipse.
+2. Kepler's laws of planetary motion revolutionized the field of astronomy by providing a mathematical basis for understanding the movement of planets in our solar system. They also led to the discovery of new planets and paved the way for future scientific advancements.
+3. The first law, also known as the law of ellipses, describes the shape of a planet's orbit. The second law, or the law of equal areas, explains the speed of a planet as it orbits the sun. The third law, known as the law of harmonies, relates the orbital period of a planet to its distance from the sun. All three laws work together to accurately predict the motion of planets in our solar system.

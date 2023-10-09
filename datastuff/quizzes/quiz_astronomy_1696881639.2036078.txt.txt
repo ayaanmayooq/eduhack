@@ -1,0 +1,90 @@
+1) What is the most common shape of galaxies?
+A) Square 
+B) Triangle 
+C) Spiral 
+D) Cube 
+
+2) What binds a galaxy together?
+A) Gravity 
+B) Magnetism 
+C) Light 
+D) Sound 
+
+3) Which galaxy is our own galaxy?
+A) Andromeda 
+B) Milky Way 
+C) Whirlpool 
+D) Triangulum 
+
+4) Which type of galaxy contains mostly older stars?
+A) Spiral 
+B) Elliptical 
+C) Irregular 
+D) None of the above 
+
+5) Which types of galaxies can interact with each other?
+A) Only spirals and ellipticals 
+B) Only ellipticals and irregulars 
+C) Only spirals and irregulars 
+D) All of the above 
+
+6) What tools do astronomers use to study galaxies?
+A) Microscopes 
+B) Telescopes 
+C) Magnifying glasses 
+D) None of the above 
+
+7) What instrument is used to analyze the light emitted by galaxies?
+A) Microscope 
+B) Telescope 
+C) Spectrograph 
+D) None of the above 
+
+8) What can studying galaxies help us understand about the universe?
+A) The origins of our own galaxy 
+B) The evolution of other galaxies 
+C) The vastness and complexity of the universe 
+D) All of the above 
+
+True/False Questions: 
+
+9) Galaxies can come in different shapes and sizes. 
+A) True 
+B) False 
+
+10) Spiral galaxies have a defined oval shape with a central bulge. 
+A) True 
+B) False 
+
+11) Irregular galaxies are the most common type of galaxy in the universe. 
+A) True 
+B) False 
+
+12) Telescopes are the only tool used to observe galaxies. 
+A) True 
+B) False 
+
+Free Response Questions: 
+
+13) What is a galaxy and what are its main components? 
+
+14) How do galaxies interact with each other and how does this impact their formation? 
+
+15) What tools and techniques do astronomers use to study galaxies? 
+
+Answer Key: 
+1) C) Spiral 
+2) A) Gravity 
+3) B) Milky Way 
+4) B) Elliptical 
+5) D) All of the above 
+6) B) Telescopes 
+7) C) Spectrograph 
+8) D) All of the above 
+9) A) True 
+10) B) False 
+11) B) False 
+12) B) False 
+13) A galaxy is a massive system of stars, gas, dust, and other celestial objects, bound together by gravity. Its main components are stars, gas, dust, and other celestial objects. 
+14) When galaxies come close enough, their gravitational forces can cause them to merge and form a new, larger galaxy. This is believed to be how many of the galaxies we see today were formed. 
+15) Astronomers use telescopes, both on Earth and in space, to observe and collect data on different galaxies. Special instruments, like spectrographs, allow scientists to analyze the light emitted by galaxies and determine their composition and distance from Earth. Other techniques include computer simulations and mathematical models.

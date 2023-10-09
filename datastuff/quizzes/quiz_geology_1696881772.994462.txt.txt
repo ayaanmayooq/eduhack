@@ -1,0 +1,81 @@
+MCQs:
+1. Which of the following is NOT a tool used by geologists to identify and classify minerals?
+A. Visual observations
+B. Physical and chemical tests
+C. DNA sequencing
+D. Electron microscopy
+
+2. Which type of rock is formed from preexisting rocks that have been changed by heat and pressure?
+A. Igneous
+B. Sedimentary
+C. Metamorphic
+D. Fossilized
+
+3. What is the study of the Earth, its materials, structures, processes, and history called?
+A. Biology
+B. Geology
+C. Chemistry
+D. Physics
+
+4. What are the three main types of rocks?
+A. Fossilized, metamorphic, sedimentary
+B. Igneous, sedimentary, volcanic
+C. Igneous, sedimentary, metamorphic
+D. Volcanic, fossilized, metamorphic
+
+5. What is the term for a naturally occurring solid substance with a specific chemical composition and physical properties?
+A. Mineral
+B. Rock
+C. Soil
+D. Bacteria
+
+6. Which of the following is NOT a property used to identify minerals?
+A. Color
+B. Taste
+C. Hardness
+D. Cleavage
+
+7. Which of the following is NOT a use for minerals?
+A. Building materials
+B. Industrial applications
+C. Food production
+D. Jewelry
+
+8. Which type of rock is formed from molten magma or lava?
+A. Sedimentary
+B. Fossilized
+C. Metamorphic
+D. Igneous
+
+True/False:
+1. Geology is the study of the Earth's past, present, and future.
+2. Minerals make up the rocks and soils on Earth.
+3. Geologists only study rocks and minerals.
+4. Rocks are made up of one type of mineral.
+
+Free-response:
+1. Describe one tool or technique used by geologists to identify and classify minerals.
+2. Explain the difference between igneous, sedimentary, and metamorphic rocks.
+3. How does understanding the formation of rocks and minerals help geologists in their study of the Earth?
+
+Answer key:
+MCQs:
+1. C
+2. C
+3. B
+4. C
+5. A
+6. B
+7. C
+8. D
+
+True/False:
+1. True
+2. True
+3. False
+4. False
+
+Free-response:
+1. One tool used by geologists to identify and classify minerals is conducting physical and chemical tests, such as hardness, cleavage, and reaction to acid.
+2. Igneous rocks are formed from molten magma or lava, sedimentary rocks are made of sediment that has been compacted and cemented together, and metamorphic rocks are formed from preexisting rocks that have been changed by heat and pressure.
+3. Understanding the formation of rocks and minerals helps geologists to understand the Earth's history, processes, and resources, and also to predict and manage natural hazards.

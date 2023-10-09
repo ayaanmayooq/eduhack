@@ -1,0 +1,17 @@
+Subject: Astronomy
+Page Number: 32
+Content: In this chapter, we will be exploring the fascinating world of exoplanets. These are planets that orbit stars other than our own sun. As technology has advanced, astronomers have been able to detect and study these distant planets, revealing new insights into the formation and evolution of our own solar system.
+
+One of the first exoplanets to be discovered was 51 Pegasi b, a gas giant that orbits a star in the constellation Pegasus. Its discovery in 1995 sparked a revolution in the field of astronomy, leading to the discovery of thousands of other exoplanets.
+
+But how do astronomers detect these distant worlds? One method is the transit method, which involves measuring the dimming of a star's brightness as a planet passes in front of it. This allows scientists to determine the size, orbit, and even the atmosphere of the exoplanet.
+
+Another method is the radial velocity method, which looks at the slight wobble of a star caused by the gravitational pull of an orbiting planet. By studying this wobble, scientists can determine the mass and orbit of the exoplanet.
+
+In addition to these methods, astronomers also use direct imaging and gravitational lensing to detect and study exoplanets. With each new discovery, we are learning more about the diversity and complexity of planetary systems beyond our own.
+
+Take a look at the diagram below, which illustrates the different methods for detecting exoplanets.
+
+[Insert diagram of transit, radial velocity, direct imaging, and gravitational lensing methods]
+
+As our technology continues to improve, we can expect to discover even more exoplanets and unlock the mysteries of these distant worlds. But for now, the study of exoplanets remains a fascinating and rapidly evolving field of astronomy.

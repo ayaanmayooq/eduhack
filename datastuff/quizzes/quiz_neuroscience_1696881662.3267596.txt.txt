@@ -1,0 +1,93 @@
+MCQs:
+1. Which of the following is NOT part of the nervous system?
+a. Brain
+b. Liver
+c. Spinal cord
+d. Nerves
+
+2. What is the role of synapses in the nervous system?
+a. To produce hormones
+b. To transmit electrical signals
+c. To store memories
+d. To regulate blood flow
+
+3. Which aspect of neuroscience studies the structure and function of different parts of the brain?
+a. Genetics
+b. Biochemistry
+c. Anatomy
+d. Pharmacology
+
+4. What techniques do researchers use to study the brain?
+a. Brain imaging
+b. Electrophysiology
+c. Molecular biology
+d. All of the above
+
+5. The brain is divided into how many regions?
+a. 2
+b. 4
+c. 6
+d. 8
+
+6. What is the function of neurons?
+a. To produce energy
+b. To store information
+c. To make new cells
+d. To communicate with each other
+
+7. What is the role of dendrites in a neuron?
+a. To receive signals from other neurons
+b. To transmit signals to other neurons
+c. To produce hormones
+d. To protect the cell body
+
+8. True or False: Neuroscience is solely focused on the study of the brain.
+a. True
+b. False
+
+9. What is the term for the tiny gaps between neurons where signals are transmitted?
+a. Synapses
+b. Hormones
+c. Neurites
+d. Axons
+
+10. Which of the following is NOT one of the regions of the brain?
+a. Cerebellum
+b. Frontal lobe
+c. Spinal cord
+d. Occipital lobe
+
+True/False:
+1. The nervous system includes the brain, spinal cord, and nerves throughout the body.
+2. Neuroscientists use techniques such as brain imaging and molecular biology to study the brain.
+3. The brain is divided into several regions responsible for different functions.
+4. Neurons communicate with each other using electrical and chemical signals.
+
+Free-response:
+1. Describe the role of synapses in the nervous system.
+2. Explain how understanding the structure and function of different parts of the brain can provide insight into its workings.
+3. How do genetics, biochemistry, and pharmacology play a role in neuroscience research?
+
+Answer key:
+MCQs:
+1. b
+2. b
+3. c
+4. d
+5. d
+6. d
+7. a
+8. b
+9. a
+10. c
+
+True/False:
+1. True
+2. True
+3. True
+4. True
+
+Free-response:
+1. Synapses are tiny gaps between neurons where electrical and chemical signals are transmitted. This allows for communication between neurons, which is essential for the nervous system to function properly.
+2. Understanding the structure and function of different parts of the brain can provide insight into how it works by revealing which regions are responsible for certain functions and how they interact with each other.
+3. Genetics, biochemistry, and pharmacology play a role in neuroscience research by providing information about how genes and biochemical processes influence the nervous system and how medications can affect brain function.

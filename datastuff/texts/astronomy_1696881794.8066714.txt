@@ -1,0 +1,17 @@
+Subject: Astronomy
+Page Number: 52
+Content:
+Placeholder: 
+On this page, we will be discussing the topic of planetary motion. This is a key concept in the field of astronomy, as it helps us understand how planets move within our solar system and beyond.
+
+Text: Planetary motion is the study of the movement of planets around the sun. This includes the planets in our own solar system, as well as exoplanets orbiting other stars. It is a fundamental aspect of astronomy and has been studied by astronomers for centuries.
+
+Explanation: Planetary motion is governed by a combination of gravity and inertia. The sun's gravitational pull keeps the planets in their orbits, while their own inertia keeps them moving in a straight line. This creates an elliptical orbit for each planet, with the sun at one focus.
+
+Diagram: <Insert diagram showing an elliptical orbit>
+
+As the planets move in their orbits, they also rotate on their own axes. This rotation is what causes day and night on each planet. The speed of a planet's rotation can vary, with some planets rotating much faster than others. For example, a day on Mercury is equivalent to approximately 59 Earth days, while a day on Jupiter is only about 10 hours.
+
+Understanding planetary motion is crucial for astronomers, as it allows them to make predictions about the positions and movements of planets. It also helps us understand the formation and evolution of our solar system, as well as other planetary systems.
+
+In conclusion, planetary motion is a key concept in astronomy that helps us understand the movement and behavior of planets in our solar system and beyond. By studying it, we can gain a deeper understanding of the universe and its mysteries.

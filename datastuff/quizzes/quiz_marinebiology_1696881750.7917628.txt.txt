@@ -1,0 +1,110 @@
+MCQs:
+1. What is the study of relationships between different species in the ocean called?
+A. Marine Chemistry
+B. Marine Biology
+C. Marine Ecology
+D. Marine Geology
+
+2. Which type of symbiotic relationship is when one species benefits while the other is neither harmed nor helped?
+A. Mutualism
+B. Commensalism
+C. Parasitism
+D. Predation
+
+3. What is an example of commensalism in marine environments?
+A. Clownfish and sea anemones
+B. Barnacles and whales
+C. Cleaner fish and larger fish
+D. Sharks and remoras
+
+4. In parasitism, which species benefits at the expense of the other?
+A. Both species
+B. The larger species
+C. The smaller species
+D. Neither species
+
+5. Which of the following is NOT a type of symbiotic relationship?
+A. Competition
+B. Mutualism
+C. Commensalism
+D. Parasitism
+
+6. What is the name for the relationship between cleaner fish and larger fish?
+A. Mutualism
+B. Commensalism
+C. Parasitism
+D. Predation
+
+7. Which of the following is an example of mutualism in marine environments?
+A. Barnacles and whales
+B. Clownfish and sea anemones
+C. Sharks and remoras
+D. Cleaner fish and larger fish
+
+8. Symbiotic relationships are important for the health and balance of ________.
+A. Marine ecosystems
+B. Terrestrial ecosystems
+C. Atmospheric ecosystems
+D. All ecosystems
+
+9. Which type of symbiotic relationship involves one species living inside or on another species?
+A. Mutualism
+B. Commensalism
+C. Parasitism
+D. Predation
+
+10. What is the term for when two species interact with each other in a mutually beneficial or harmful way?
+A. Mutualism
+B. Commensalism
+C. Symbiosis
+D. Parasitism
+
+True/False:
+1. Symbiotic relationships are only found in marine environments.
+A. True
+B. False
+
+2. In mutualism, both species involved benefit from the interaction.
+A. True
+B. False
+
+3. In commensalism, one species benefits while the other is harmed.
+A. True
+B. False
+
+4. Parasitism is always harmful to both species involved.
+A. True
+B. False
+
+Free-Response:
+1. Explain one example of mutualism in marine environments.
+
+2. Describe the three types of symbiotic relationships found in marine environments.
+
+3. Why is it important to understand symbiotic relationships in the ocean?
+
+Answer Key:
+MCQs:
+1. C
+2. B
+3. B
+4. C
+5. A
+6. C
+7. B
+8. A
+9. C
+10. C
+
+True/False:
+1. B (False)
+2. A (True)
+3. B (False)
+4. B (False)
+
+Free-Response:
+1. An example of mutualism in marine environments is the relationship between coral and zooxanthellae. Coral provides a protected environment for the zooxanthellae to live and in return, the zooxanthellae provide nutrients and energy through photosynthesis for the coral.
+
+2. Mutualism is when both species involved benefit from the interaction, commensalism is when one species benefits while the other is neither harmed nor helped, and parasitism is when one species benefits at the expense of the other.
+
+3. Understanding symbiotic relationships is important in studying the intricate web of life in the ocean and how different species depend on each other for survival. It also highlights the importance of preserving and protecting these relationships for the health and balance of marine ecosystems.

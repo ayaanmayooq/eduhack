@@ -1,0 +1,81 @@
+MCQs:
+1. Which type of galaxy is characterized by a smooth, round shape?
+A. Spiral galaxy
+B. Irregular galaxy
+C. Elliptical galaxy
+D. None of the above
+
+2. Approximately how much of known galaxies are elliptical galaxies?
+A. 10%
+B. 30%
+C. 60%
+D. 90%
+
+3. Which type of galaxy is typically found in areas with high rates of star formation?
+A. Spiral galaxy
+B. Irregular galaxy
+C. Elliptical galaxy
+D. All of the above
+
+4. What is the most visually striking type of galaxy?
+A. Spiral galaxy
+B. Irregular galaxy
+C. Elliptical galaxy
+D. None of the above
+
+5. Which type of galaxy is our own Milky Way galaxy classified as?
+A. Spiral galaxy
+B. Irregular galaxy
+C. Elliptical galaxy
+D. None of the above
+
+6. What is the least common type of galaxy?
+A. Irregular galaxy
+B. Spiral galaxy
+C. Elliptical galaxy
+D. All of the above
+
+7. What is the main factor that determines the shape of a galaxy?
+A. Age of the stars
+B. Amount of gas and dust
+C. Rate of star formation
+D. Interactions with other galaxies
+
+8. Which type of galaxy has the highest rate of star formation?
+A. Spiral galaxy
+B. Irregular galaxy
+C. Elliptical galaxy
+D. Can vary from galaxy to galaxy
+
+True/False:
+1. Elliptical galaxies contain a lot of gas and dust. (False)
+2. All galaxies have a central bulge. (False)
+3. Irregular galaxies are often the result of interactions with other galaxies. (True)
+4. Studying different types of galaxies can give us insight into the formation of the universe. (True)
+
+Free-response:
+1. Explain the main differences between spiral and irregular galaxies.
+2. How do astronomers classify galaxies?
+3. What are some possible explanations for the different types of galaxies in the universe? 
+
+Answer key:
+MCQs:
+1. C
+2. C
+3. A
+4. A
+5. A
+6. A
+7. D
+8. D
+
+True/False:
+1. False
+2. False
+3. True
+4. True
+
+Free-response:
+1. Spiral galaxies have a disk-like shape with arms spiraling outwards, while irregular galaxies have a distorted and irregular shape. Spiral galaxies also have a central bulge, while irregular galaxies do not.
+2. Astronomers classify galaxies based on their shape, size, composition, and observed characteristics such as rate of star formation.
+3. Some possible explanations for the different types of galaxies include gravitational interactions with other galaxies, internal processes within the galaxy, and the age and composition of the stars within the galaxy.

@@ -1,0 +1,11 @@
+Subject: Astronomy
+Page Number: 73
+Content: On this page, we will be discussing the formation and evolution of black holes. Black holes are one of the most fascinating and mysterious objects in the universe. They are formed when a massive star dies and collapses under its own gravity, creating a singularity with an infinite density and infinite gravitational pull.
+
+As the star collapses, it goes through different stages depending on its initial mass. If the star has a mass less than 1.4 times that of our sun, it will become a neutron star. But if the star is more massive, around 3 times or more, it will continue collapsing until it becomes a black hole.
+
+One of the most intriguing aspects of black holes is their event horizon, which is the point of no return. Once an object crosses the event horizon, it can never escape the gravitational pull of the black hole. This is why black holes are often referred to as 'cosmic traps'.
+
+The size of a black hole is determined by its mass, with larger ones having a greater gravitational pull. The event horizon of a black hole is directly proportional to its mass, meaning the more massive the black hole, the larger its event horizon.
+
+Studying black holes has given us a deeper understanding of the universe and the laws of gravity. Despite their elusive nature, scientists continue to make groundbreaking discoveries about black holes and their role in the cosmos. The study of black holes is an ever-evolving field with many unanswered questions, making it a fascinating topic in the field of astronomy.

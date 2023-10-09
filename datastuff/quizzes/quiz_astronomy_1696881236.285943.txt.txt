@@ -1,0 +1,69 @@
+MCQs
+1. What is the main focus of astronomy?
+A. Studying the Earth's atmosphere
+B. Observing weather patterns
+C. Exploring celestial objects
+D. Discovering new planets
+
+2. What is the most commonly used type of telescope?
+A. Radio telescope
+B. X-ray telescope
+C. Optical telescope
+D. Infrared telescope
+
+3. What does spectroscopy analyze?
+A. The brightness of objects
+B. The composition of objects
+C. The positions of objects
+D. The movements of objects
+
+4. Which of the following is NOT a technique used in astronomy?
+A. Spectroscopy
+B. Parallax
+C. Thermodynamics
+D. Photometry
+
+5. What is the heliocentric model of the solar system?
+A. The belief that the Earth is at the center of the solar system
+B. The belief that the Sun is at the center of the solar system
+C. The belief that the Moon is at the center of the solar system
+D. The belief that all planets are at the center of the solar system
+
+6. What has the study of astronomy led to?
+A. The discovery of bacteria
+B. The discovery of black holes
+C. The invention of the wheel
+D. The creation of the internet
+
+7. Which type of telescope detects radio waves emitted by celestial objects?
+A. Optical telescope
+B. X-ray telescope
+C. Infrared telescope
+D. Radio telescope
+
+True/False
+8. Astronomy is the study of Earth's atmosphere. (True/False)
+9. Telescopes allow us to see objects that are too close or too bright. (True/False)
+10. Spectroscopy is a technique used to track the positions of celestial objects. (True/False)
+
+Free-Response
+11. What is a telescope and how does it work?
+
+12. Name one important discovery that has been made through the study of astronomy.
+
+13. Discuss one technique used in astronomy and how it helps astronomers gather information about celestial objects.
+
+Answer key:
+1. C
+2. C
+3. B
+4. C
+5. B
+6. B
+7. D
+8. False
+9. False
+10. False
+11. A telescope is an instrument that collects and focuses light to magnify distant objects in the night sky. It works by using lenses or mirrors to gather light and then focus it onto a small area for observation.
+12. One important discovery made through the study of astronomy is the heliocentric model of the solar system, which states that the Sun is at the center and the planets revolve around it.
+13. Spectroscopy is a technique used in astronomy that analyzes the light emitted or absorbed by an object to determine its chemical composition and temperature. This helps astronomers gather information about the physical properties of celestial objects and understand their origins and evolution.

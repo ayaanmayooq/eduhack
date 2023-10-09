@@ -1,0 +1,33 @@
+Subject: Statistics
+Page Number: 76
+Content: In this section, we will discuss the concept of correlation in statistics. Correlation is a statistical measure that quantifies the relationship between two variables. It is used to determine the strength and direction of the relationship between the variables. The correlation coefficient, denoted by r, ranges from -1 (perfect negative correlation) to 1 (perfect positive correlation). When r is close to 0, it indicates no correlation between the variables.
+
+To calculate the correlation coefficient, we use the following formula:
+r = (nΣxy - ΣxΣy) / √[(nΣx^2 - (Σx)^2)(nΣy^2 - (Σy)^2)]
+Where:
+n - number of observations
+Σxy - sum of the products of the corresponding values of x and y
+Σx - sum of all x values
+Σy - sum of all y values
+Σx^2 - sum of the squares of all x values
+Σy^2 - sum of the squares of all y values
+
+This formula may seem intimidating, but it is actually quite simple. Let's break it down with an example. Say we want to calculate the correlation between hours spent studying and test scores. We collect data from 20 students and get the following results:
+
+n = 20
+Σxy = 450
+Σx = 60
+Σy = 180
+Σx^2 = 900
+Σy^2 = 3600
+
+Plugging these values into the formula, we get:
+r = (20*450 - 60*180) / √[(20*900 - (60)^2)(20*3600 - (180)^2)]
+= (9000 - 10800) / √[(18000 - 3600)(72000 - 32400)]
+= -1800 / √[14400000]
+= -1800 / 378.16
+= -4.76
+
+This means that there is a moderate negative correlation between hours spent studying and test scores. As the value of r is negative, it tells us that as one variable increases, the other decreases. In this case, as the number of hours spent studying increases, the test scores decrease.
+
+Correlation is an important concept in statistics as it helps us understand the

@@ -1,0 +1,11 @@
+Subject: Quantum Mechanics
+Page Number: 42
+Content: Quantum mechanics is a branch of physics that deals with the behavior of particles on a microscopic scale. It is based on the principles of quantum theory, which states that energy and matter can exist in both particle and wave forms. This theory revolutionized our understanding of the physical world and led to the development of many modern technologies, such as transistors and lasers.
+
+One of the key concepts in quantum mechanics is the wave-particle duality. This refers to the fact that particles, such as electrons, can exhibit properties of both particles and waves. This was first observed in the famous double-slit experiment, where particles were found to behave like waves when passing through a barrier with two slits.
+
+Another important principle in quantum mechanics is the uncertainty principle, which is often represented by Heisenberg's famous equation: ∆x∆p ≥ ħ/2. This principle states that it is impossible to precisely measure both the position and momentum of a particle at the same time. This leads to the idea of probability in quantum mechanics, where the behavior of particles is described by wave functions that give the probability of finding a particle in a certain location.
+
+Quantum mechanics also introduced the concept of superposition, where a particle can exist in multiple states simultaneously, until it is observed and collapses into a single state. This has been demonstrated in experiments with particles such as photons and atoms.
+
+In addition to these fundamental principles, quantum mechanics also encompasses many other topics, including quantum entanglement, quantum tunneling, and the Schrödinger equation. It is a complex and fascinating subject that continues to be studied and expanded upon by scientists and researchers.

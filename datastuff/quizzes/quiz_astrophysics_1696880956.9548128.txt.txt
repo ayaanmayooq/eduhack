@@ -1,0 +1,68 @@
+1. Which branch of astronomy deals with the physical properties and processes of celestial bodies?
+A) Cosmology
+B) Astrophysics
+C) Astrobiology
+D) Planetary Science
+
+2. How does astrophysics combine principles from different fields?
+A) By using advanced technology
+B) By conducting experiments in space
+C) By combining principles from physics, mathematics, and chemistry
+D) By studying celestial bodies from Earth
+
+3. What theory describes the phenomenon of gravity?
+A) Newton's Law of Motion
+B) Einstein's Theory of General Relativity
+C) Hubble's Law
+D) Kepler's Laws of Planetary Motion
+
+4. What is the process by which smaller atoms are combined into larger ones in stars?
+A) Nuclear fission
+B) Nuclear fusion
+C) Stellar evolution
+D) Cosmological inflation
+
+5. How do stars release energy?
+A) Through nuclear fusion
+B) Through chemical reactions
+C) Through gravitational pull
+D) Through electromagnetic radiation
+
+6. Which model explains the formation of galaxies?
+A) Big Bang Model
+B) Hierarchical Model
+C) Oscillating Model
+D) Steady State Model
+
+7. How have advancements in technology impacted the field of astrophysics?
+A) By making observations more difficult
+B) By limiting the amount of data collected
+C) By allowing for more detailed observations and simulations
+D) By decreasing the accuracy of theories and models
+
+True/False
+8. The theory of general relativity has been proven false by recent observations.
+9. Galaxies are typically made up of only stars and gas.
+10. The study of astrophysics has remained stagnant in recent years.
+11. Astrophysics focuses solely on the study of black holes and dark matter.
+
+Free-Response
+12. Describe the role of gravity in the universe.
+13. How do astrophysicists use computer simulations in their research?
+14. Explain the hierarchical model of galaxy formation.
+
+Answer Key:
+1. B
+2. C
+3. B
+4. B
+5. D
+6. B
+7. C
+8. False
+9. False
+10. False
+11. False
+12. Gravity is the force that governs the motion of objects in the universe. It is described by Einstein's theory of general relativity, which states that mass and energy curve the fabric of space-time, creating the phenomenon of gravity. This force plays a crucial role in the formation and evolution of celestial bodies, such as stars and galaxies.
+13. Astrophysicists use computer simulations to model and study complex phenomena in the universe, such as the formation of galaxies or the behavior of black holes. These simulations allow researchers to test different scenarios and make predictions, which can then be compared to observations.
+14. The hierarchical model proposes that galaxies are formed through the merging of smaller structures over time. This process begins with small structures, such as gas clouds, merging to form larger structures, like dwarf galaxies. These dwarf galaxies then merge to form larger and more massive galaxies. This hierarchical merging process continues until we have the large and complex galaxies we see in the universe today.

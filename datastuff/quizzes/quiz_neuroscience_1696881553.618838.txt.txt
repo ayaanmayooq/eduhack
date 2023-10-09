@@ -1,0 +1,81 @@
+Multiple Choice:
+1. Which of the following is NOT a key neurotransmitter involved in memory formation?
+A. Glutamate
+B. Acetylcholine
+C. Dopamine
+D. GABA
+
+2. The process of strengthening connections between neurons is known as:
+A. Long-term potentiation
+B. Short-term memory
+C. Neurotransmission
+D. Neuroplasticity
+
+3. Which neurotransmitter is involved in spatial and episodic memory?
+A. Serotonin
+B. Glutamate
+C. Norepinephrine
+D. Acetylcholine
+
+4. What happens when glutamate binds to receptors on the receiving neuron?
+A. The neuron becomes less active
+B. The likelihood of the neuron firing decreases
+C. The neuron becomes more active
+D. The likelihood of the neuron firing increases
+
+5. Disruptions in which neurotransmitter's signaling can impair memory consolidation and retrieval?
+A. GABA
+B. Dopamine
+C. Serotonin
+D. Acetylcholine
+
+6. The process of memory formation involves the interplay of:
+A. Multiple brain regions
+B. One neurotransmitter
+C. Long-term depression
+D. Short-term memory
+
+7. Which of the following is NOT a neurotransmitter involved in memory formation?
+A. GABA
+B. Dopamine
+C. Serotonin
+D. Acetylcholine
+E. Glutamate
+
+8. What is the role of glutamate in memory formation?
+A. Inhibitory neurotransmission
+B. Strengthening connections between neurons
+C. Impairing memory consolidation
+D. None of the above
+
+True/False:
+1. Neurotransmitters are chemical messengers that allow communication between neurons in the brain. (True)
+2. Glutamate is an inhibitory neurotransmitter. (False)
+3. Acetylcholine is involved in the formation of new memories. (True)
+4. Repeated stimulation of the same pathway leads to the formation of new synapses. (True)
+
+Free-response:
+1. Briefly explain the role of neurotransmitters in memory formation.
+2. How does acetylcholine play a role in memory formation?
+3. Describe the process of memory formation at a synapse.
+
+Answer key:
+1. D
+2. A
+3. D
+4. D
+5. D
+6. A
+7. A
+8. B
+
+True/False:
+1. True
+2. False
+3. True
+4. True
+
+Free-response:
+1. Neurotransmitters are chemical messengers that allow communication between neurons in the brain. When an individual learns something new, specific neurotransmitters are released to strengthen the connections between neurons. This process is known as long-term potentiation.
+2. Acetylcholine is involved in the formation of new memories, particularly spatial and episodic memory. Disruptions in acetylcholine signaling can impair memory consolidation and retrieval.
+3. At a synapse, an action potential causes the release of neurotransmitters into the synaptic cleft. These neurotransmitters then bind to receptors on the postsynaptic neuron, triggering a response that leads to changes in the strength of the connection between neurons, ultimately resulting in the formation of a new memory.

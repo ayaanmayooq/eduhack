@@ -6,7 +6,8 @@ PROMPT = open('prompt.txt').read()
 PROMPT_QUIZ = open('quiz_prompt.txt').read()
 
 GPT_MODEL = "gpt-3.5-turbo-instruct"
-openai.api_key = "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"
+openai.api_key = os.environ['OPENAI_API']
+print(os.environ['OPENAI_API'])
 
 def api_completion(prompt, engine="gpt-3.5-turbo-instruct", temp=0.85, tokens=500, stop=['<<END>>']):
     max_retry = 3
@@ -41,7 +42,7 @@ def generate_textbook(num_texts):
         print(completion)
 
         sub = completion.split('\n')[0]
-        sub = sub[len('Subject: '):].lower()
+        sub = sub[len('Subject: '):].lower().replace(' ', '')
         with open('texts/{}_%s.txt'.format(sub) % (time.time()), 'w', encoding='utf-8') as outfile:
             outfile.write(completion)
 
@@ -68,4 +69,4 @@ def generate_quiz():
 
 
 generate_textbook(1)
-generate_quiz()
+# generate_quiz()

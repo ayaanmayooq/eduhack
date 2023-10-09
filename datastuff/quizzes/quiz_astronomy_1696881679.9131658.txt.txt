@@ -1,0 +1,95 @@
+MCQs:
+1. What is the process of planet formation known as?
+A. Accretion
+B. Fusion
+C. Condensation
+D. Sublimation
+
+2. Which types of planets were formed from heavier materials?
+A. Inner planets
+B. Outer planets
+C. Gas giants
+D. Dwarf planets
+
+3. According to the nebular hypothesis, what formed in the center of the collapsing cloud of gas and dust?
+A. Planets
+B. Moons
+C. Stars
+D. Asteroids
+
+4. What provides valuable information about the early stages of our solar system?
+A. Stars
+B. Asteroids
+C. Moons
+D. Galaxies
+
+5. What are the leftover materials in the outer regions of the solar system called?
+A. Planetesimals
+B. Nebulae
+C. Comets
+D. Gas giants
+
+6. Which of the following is NOT a factor that can impact planet formation?
+A. Location
+B. Temperature
+C. Rotation speed
+D. Color
+
+7. The inner planets were formed from heavier materials like ___________.
+A. Gas and ice
+B. Iron and rock
+C. Hydrogen and helium
+D. Liquid water
+
+8. Which theory suggests that the solar system was formed from a massive cloud of gas and dust that collapsed under its own gravity?
+A. Nebular hypothesis
+B. Accretion theory
+C. Big Bang theory
+D. Steady state theory
+
+9. What is the name for objects that did not form into planets?
+A. Asteroids
+B. Comets
+C. Planetoids
+D. Debris
+
+10. What is the name for the process in which materials clump together due to gravity?
+A. Accretion
+B. Fusion
+C. Condensation
+D. Sublimation
+
+True/False:
+1. Accretion is the process of planets forming from dust and gas in a disk surrounding a young star. (True)
+2. The outer planets were formed from heavier materials like iron and rock. (False)
+3. The location of a planet in the solar system does not impact its formation. (False)
+4. The presence of asteroids and comets can provide information about the early stages of the solar system. (True)
+
+Free-response:
+1. Explain the nebular hypothesis and how it explains the formation of our solar system.
+2. Describe the different types of planets and their unique characteristics.
+3. How can studying the formation of planets help us better understand our own planet and its place in the universe?
+
+Answer key:
+MCQs:
+1. A
+2. A
+3. C
+4. B
+5. A
+6. D
+7. B
+8. A
+9. D
+10. A
+
+True/False:
+1. True
+2. False
+3. False
+4. True
+
+Free-response:
+1. The nebular hypothesis suggests that the solar system was formed from a massive cloud of gas and dust that collapsed under its own gravity. As the cloud collapsed, it began to spin faster and flatten into a disk, with the sun forming in the center and the planets forming from the leftover material in the outer regions.
+2. The different types of planets are inner planets, outer planets, gas giants, and dwarf planets. Inner planets, like Mercury and Mars, are smaller and rocky, while outer planets, like Jupiter and Saturn, are larger and made primarily of gas and ice. Gas giants, like Jupiter and Saturn, are primarily made of gas, while dwarf planets, like Pluto, are smaller and do not have enough mass to clear their orbit.
+3. Studying the formation of planets can help us understand the physical processes that shaped our own planet, as well as the conditions necessary for a planet to support life. It also allows us to gain insights into the early stages of our solar system and how it has evolved over time.

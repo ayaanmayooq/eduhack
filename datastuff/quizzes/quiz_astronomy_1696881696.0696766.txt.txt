@@ -1,0 +1,66 @@
+Multiple Choice:
+1. What causes a black hole to form?
+A. The expansion of the universe
+B. The death of a massive star
+C. The collision of two galaxies
+D. The absorption of dark matter
+
+2. What is the event horizon of a black hole?
+A. The point of no return where the gravitational pull is too strong for anything to escape
+B. The region in space where light is absorbed
+C. The center of the black hole
+D. The point where time moves slower
+
+3. How does the size of a black hole relate to its mass?
+A. The more massive the black hole, the larger its size
+B. The less massive the black hole, the larger its size
+C. Mass and size are not related for black holes
+D. The size of a black hole is always the same
+
+4. How does time behave near a black hole?
+A. Time moves faster near a black hole
+B. Time moves slower near a black hole
+C. Time stops near a black hole
+D. Time reverses near a black hole
+
+5. What happens to an object that reaches the event horizon of a black hole?
+A. It becomes trapped and can never escape
+B. It is destroyed and turned into energy
+C. It is ejected back out into space
+D. It passes through the black hole unharmed
+
+True/False:
+6. Black holes are constantly expanding due to their strong gravitational pull.
+A. True
+B. False
+
+7. The event horizon of a black hole is the same for all black holes.
+A. True
+B. False
+
+8. Time moves slower the closer you get to the event horizon of a black hole.
+A. True
+B. False
+
+9. The size of a black hole is determined by its mass.
+A. True
+B. False
+
+Free-Response:
+10. What is the event horizon of a black hole and how does it affect objects and time?
+11. Why are black holes an important area of study in astronomy?
+12. How does the size of a black hole relate to its mass?
+
+Answer Key:
+1. B
+2. A
+3. A
+4. B
+5. A
+6. B
+7. B
+8. A
+9. A
+10. The event horizon of a black hole is the point of no return where the gravitational pull is too strong for anything to escape. Time near the event horizon moves slower, and objects appear to slow down and freeze as they approach it.
+11. Black holes are important in studying the laws of gravity and the nature of space and time.
+12. The size of a black hole is determined by its mass, with more massive black holes having larger sizes.

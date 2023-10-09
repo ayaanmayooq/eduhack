@@ -1,0 +1,22 @@
+Subject: Astronomy
+Page Number: 72
+Content:
+Introduction to Planet Formation
+
+Planet formation is the process by which planets are formed from a disk of gas and dust surrounding a young star. This process is believed to occur in a relatively short period of time, around 10 million years, in the early stages of a star's life. There are several theories on how planets form, but the most widely accepted is the nebular hypothesis.
+
+According to the nebular hypothesis, planets are formed from a swirling disk of gas and dust, known as a protoplanetary disk. This disk is leftover material from the formation of the star and is rich in elements such as hydrogen, helium, and dust particles. As the disk rotates, the materials inside begin to clump together due to their mutual gravitational attraction.
+
+The larger clumps, called planetesimals, continue to grow by colliding and merging with other planetesimals. This process, known as accretion, continues until the planetesimals become large enough to be considered protoplanets. These protoplanets then continue to attract more materials, including gas, from the surrounding disk, causing them to grow even larger.
+
+As the protoplanets grow, they begin to clear out their orbits, pushing aside any remaining gas and dust. This stage is known as planetary migration and plays a crucial role in determining the final characteristics of a planet, such as its size, composition, and distance from its star.
+
+The end result of this process is a fully formed planet, like the ones in our own solar system. However, the exact details of planet formation are still being studied and there is ongoing research to better understand this complex process.
+
+Diagram:
+
+[Insert a simple diagram showing the stages of planet formation from a protoplanetary disk to a fully formed planet]
+
+Conclusion:
+
+In conclusion, planet formation is a fundamental process in our universe and is responsible for the formation of the planets we see today. While the nebular hypothesis is the most widely accepted theory, ongoing research and advancements in technology continue to provide new insights and understanding into this fascinating process.

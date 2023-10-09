@@ -1,0 +1,77 @@
+MCQs:
+1. What are exoplanets?
+A. Planets that orbit stars other than our sun
+B. Planets that orbit our sun
+C. Planets made of only gas
+D. Planets with no atmosphere
+Answer: A. Planets that orbit stars other than our sun
+
+2. What is the transit method used for?
+A. Detecting exoplanets
+B. Studying stars
+C. Measuring the temperature of a planet
+D. Tracking the movement of a star
+Answer: A. Detecting exoplanets
+
+3. Which method looks for tiny wobbles in a star's movement?
+A. Transit method
+B. Radial velocity method
+C. Gravitational method
+D. Magnetic field method
+Answer: B. Radial velocity method
+
+4. The habitable zone is where temperatures could potentially support __________.
+A. Liquid water
+B. Gas planets
+C. Extreme temperatures
+D. No life
+Answer: A. Liquid water
+
+5. How often are new exoplanet discoveries made?
+A. Every day
+B. Every month
+C. Every year
+D. Every week
+Answer: D. Every week
+
+6. What do exoplanets tell us about?
+A. Evolution of stars
+B. Formation of planets
+C. Life on other planets
+D. Human history
+Answer: B. Formation of planets
+
+7. Which chapter should you turn to for a detailed exploration of exoplanet characteristics?
+A. Chapter 3
+B. Chapter 4
+C. Chapter 5
+D. Chapter 6
+Answer: C. Chapter 5
+
+
+True/False:
+8. Exoplanets are only smaller than Earth.
+A. True
+B. False
+Answer: B. False
+
+9. The transit method involves looking for dips in a star's brightness.
+A. True
+B. False
+Answer: A. True
+
+10. The search for exoplanets is no longer ongoing as we have discovered all of them.
+A. True
+B. False
+Answer: B. False
+
+
+Free-response:
+11. How are exoplanets detected and studied?
+Answer: Exoplanets are detected through methods such as the transit method, where astronomers observe slight dips in a star's brightness, and the radial velocity method, which looks for wobbles in a star's movement caused by an orbiting planet. They are studied by analyzing their properties, such as atmosphere, temperature, and composition, through techniques like spectroscopy.
+
+12. What have we learned from studying exoplanets?
+Answer: By studying exoplanets, we have gained insight into the formation and evolution of planetary systems. We have also found that some exoplanets exist in the habitable zone of their respective stars, potentially supporting liquid water and life. Additionally, studying exoplanets has expanded our understanding of the universe and its potential for other habitable worlds.
+
+13. What does the discovery of exoplanets mean for the future of astronomy?
+Answer: The discovery of exoplanets has opened up new possibilities and avenues for future research in astronomy. It has also sparked interest in the search for extraterrestrial life and our place in the universe. As technology continues to advance, we will likely discover even more exoplanets and learn even more about the formation and diversity of planetary systems.

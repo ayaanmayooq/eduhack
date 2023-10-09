@@ -1,0 +1,81 @@
+MCQs:
+1) The process of organizing and categorizing living organisms based on their similarities and differences is known as:
+a) Botany
+b) Zoology
+c) Animal classification
+d) Taxonomy
+
+2) The Linnaean system of classification was developed by a botanist named:
+a) Charles Darwin
+b) Gregor Mendel
+c) Carolus Linnaeus
+d) Jean-Baptiste Lamarck
+
+3) Which of the following is NOT one of the main levels in the Linnaean system?
+a) Domain
+b) Kingdom
+c) Genus
+d) Class
+
+4) Cladistics is a classification method based on:
+a) Physical characteristics
+b) Evolutionary relationships
+c) Environmental conditions
+d) Diet and habitat
+
+5) Which principle of animal classification states that organisms with common ancestors are more closely related?
+a) Principle of homology
+b) Principle of analogy
+c) Principle of ancestry
+d) Principle of diversity
+
+6) Phylogenetic trees are diagrams used to show:
+a) Behavioral characteristics of animals
+b) Genetic similarities between species
+c) Environmental factors affecting animals
+d) Physical differences between organisms
+
+7) Which of the following is NOT a principle of animal classification?
+a) Principle of ancestry
+b) Principle of homology
+c) Principle of diversity
+d) Principle of analogy
+
+8) The study of animal classification falls under the branch of science called:
+a) Geology
+b) Botany
+c) Zoology
+d) Physics
+
+True/False:
+1) The Linnaean system of classification uses a hierarchical approach.
+2) Cladistics looks at genetic and anatomical similarities between organisms to determine their classification.
+3) The principle of homology states that organisms with similar traits have a common ancestor.
+4) Phylogenetic trees show the evolutionary relationships between different species.
+
+Free-response:
+1) What is the difference between the Linnaean system and cladistics in terms of classification methods?
+2) Why is animal classification important in the field of zoology?
+3) Can organisms with similar physical characteristics be classified in different levels of the Linnaean system? Explain why or why not.
+
+Answer key:
+MCQs:
+1) c) Animal classification
+2) c) Carolus Linnaeus
+3) a) Domain
+4) b) Evolutionary relationships
+5) c) Principle of ancestry
+6) b) Genetic similarities between species
+7) c) Principle of diversity
+8) c) Zoology
+
+True/False:
+1) True
+2) True
+3) True
+4) True
+
+Free-response:
+1) The Linnaean system uses a hierarchical approach, while cladistics is based on evolutionary relationships.
+2) Animal classification is important in zoology because it helps us understand the diversity of life on Earth and the evolutionary relationships between different species.
+3) No, organisms with similar physical characteristics are classified in the same level of the Linnaean system. This is because the system is based on a hierarchical approach, where organisms with more similarities are grouped together at a higher level.

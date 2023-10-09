@@ -1,0 +1,13 @@
+Subject: Cryptography
+Page Number: 72
+Content: Placeholder for textbook content
+
+Cryptography is the practice and study of techniques for securing communication and data in the presence of third parties or adversaries. This includes encryption, which is the process of converting plain text into a secret code to prevent unauthorized access, and decryption, which is the reverse process of converting the secret code back into plain text. Cryptography has been used throughout history, with ancient civilizations using methods such as substitution ciphers and transposition ciphers to protect sensitive information.
+
+One of the most widely used modern encryption techniques is the Advanced Encryption Standard (AES). This is a symmetric-key algorithm, which means the same key is used for both encryption and decryption. AES uses a block cipher, where data is divided into fixed-sized blocks and encrypted individually. It has a variable key length, with options for 128-bit, 192-bit, and 256-bit keys, making it highly secure and difficult to crack.
+
+In addition to encryption, cryptography also includes techniques for ensuring data integrity and authentication. Hash functions, such as the popular SHA-256 algorithm, are used to generate a unique fixed-length output based on an input message. This allows for the verification of data integrity, as any changes to the input message would result in a different hash output.
+
+Authentication in cryptography involves verifying the identity of a user or system before granting access to sensitive information. This can be achieved through the use of digital signatures, which use public and private key pairs to ensure the authenticity of a message or document.
+
+Overall, cryptography is a crucial aspect of modern-day communication and data protection. Its applications are vast, ranging from securing online transactions and communication to protecting sensitive government and military information. As technology advances, so does the need for stronger and more advanced cryptography techniques to keep data safe from malicious attacks.

@@ -1,0 +1,82 @@
+1. What are stars born from?
+A. Clusters of planets
+B. Clouds of gas and dust
+C. Asteroids
+D. Black holes
+
+2. What causes the collapse of nebulae?
+A. Gravity
+B. Radiation
+C. Solar flares
+D. Wind
+
+3. What is the dense core of a protostar called?
+A. Nebula
+B. Supermassive black hole
+C. Red dwarf
+D. Protostar
+
+4. What is the process that creates energy in stars?
+A. Nuclear fission
+B. Nuclear fusion
+C. Chemical reactions
+D. Condensation
+
+5. How long can smaller stars like the sun last in the main sequence phase?
+A. Thousands of years
+B. Millions of years
+C. Billions of years
+D. Trillions of years
+
+6. What happens to larger stars as they run out of hydrogen fuel?
+A. They shrink and become white dwarfs
+B. They explode in a supernova
+C. They release solar flares
+D. They become red giants
+
+7. What happens to stars after they have exhausted all their fuel?
+A. They turn into black holes
+B. They become white dwarfs
+C. They explode in a supernova
+D. They become red giants
+
+8. What process creates new elements during a supernova?
+A. Nuclear fusion
+B. Nuclear fission
+C. Chemical reactions
+D. Condensation
+
+9. True or False: The main sequence phase is the longest stage in a star's life cycle.
+A. True
+B. False
+
+10. True or False: Larger stars have a shorter life span compared to smaller stars.
+A. True
+B. False
+
+11. Free-response: What determines the fate of a star after it has run out of fuel? 
+
+Answer: The mass of the star determines its fate. Smaller stars will become white dwarfs, while larger stars will explode in a supernova.
+
+12. Free-response: Why is understanding the life cycle of stars important in studying the universe?
+
+Answer: Understanding the life cycle of stars helps us understand the physical processes and conditions that govern celestial bodies. It also provides insights into the creation of the universe and the formation of new stars. 
+
+13. Free-response: Can a star live indefinitely in the main sequence phase?
+
+Answer: No, eventually all stars will run out of fuel and move on to the next stage in their life cycle. The length of time spent in the main sequence phase depends on the mass of the star. 
+
+Answer key:
+1. B
+2. A
+3. D
+4. B
+5. C
+6. B
+7. C
+8. A
+9. A
+10. A
+11. The mass of the star.
+12. Understanding the physical processes and conditions of celestial bodies and providing insights into the creation of the universe and formation of new stars.
+13. No.

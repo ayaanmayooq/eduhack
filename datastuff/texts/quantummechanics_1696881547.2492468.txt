@@ -1,0 +1,18 @@
+Subject: Quantum Mechanics
+Page Number: 85
+Content: Quantum Entanglement
+Quantum entanglement is a phenomenon in quantum mechanics where two or more particles become connected in such a way that the state of one particle is dependent on the state of the other, even if they are physically separated. This concept was first described by Albert Einstein, Boris Podolsky, and Nathan Rosen in their famous EPR paper in 1935.
+
+One of the most mind-boggling aspects of quantum entanglement is that the particles can be separated by any distance, even across the entire universe, and still remain connected. This is known as spooky action at a distance.
+
+To understand this concept better, let's look at an example. Imagine two entangled photons, A and B, are created and then separated. When a measurement is made on photon A, its state becomes determined. This then immediately determines the state of photon B, regardless of the distance between them.
+
+This strange behavior goes against our classical understanding of cause and effect, where a cause must always precede its effect. In quantum mechanics, however, this is not the case. The entanglement of particles allows for instantaneous communication, which is not possible in classical physics.
+
+Quantum entanglement has been studied extensively and has important implications for quantum computing, cryptography, and teleportation. It also plays a crucial role in the famous thought experiment known as Schrödinger's cat, where a cat is in a state of being both alive and dead at the same time due to quantum entanglement.
+
+A diagram of quantum entanglement can help visualize this concept better. Imagine two particles, A and B, being created together and then separated. This diagram shows how the state of one particle is dependent on the state of the other, even when they are separated.
+
+[Insert diagram of quantum entanglement]
+
+While quantum entanglement may seem like a strange and mysterious concept, it has been extensively studied and has real-world applications. It continues to fascinate scientists and is still being researched to this day.

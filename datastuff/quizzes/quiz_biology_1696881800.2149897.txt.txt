@@ -1,0 +1,77 @@
+1) What is the main function of photosynthesis?
+a) To convert light energy into chemical energy
+b) To produce oxygen
+c) To release carbon dioxide
+d) To break down glucose
+
+2) Where does photosynthesis take place?
+a) In the mitochondria
+b) In the chloroplasts
+c) In the nucleus
+d) In the cytoplasm
+
+3) Which of the following is NOT a key component of photosynthesis?
+a) Light-dependent reactions
+b) Light-independent reactions
+c) Calvin cycle
+d) Cellular respiration
+
+4) In which step of photosynthesis is light energy converted into chemical energy in the form of ATP and NADPH?
+a) Light-dependent reactions
+b) Light-independent reactions
+c) Calvin cycle
+d) Cellular respiration
+
+5) What is the overall equation for photosynthesis?
+a) 6CO2 + 6H2O + light energy → C6H12O6 + 6O2
+b) 6O2 + 6H2O + light energy → C6H12O6 + 6CO2
+c) C6H12O6 + 6O2 + light energy → 6CO2 + 6H2O
+d) C6H12O6 + 6CO2 + light energy → 6O2 + 6H2O
+
+6) True or False: Photosynthesis only produces glucose for the organism's own energy needs.
+a) True
+b) False
+
+7) Which of the following is NOT a product of photosynthesis?
+a) Glucose
+b) Oxygen
+c) Carbon dioxide
+d) Water
+
+8) In which organelle does photosynthesis take place?
+a) Nucleus
+b) Mitochondria
+c) Golgi apparatus
+d) Chloroplasts
+
+9) Which of the following is NOT a function of photosynthesis?
+a) Production of oxygen
+b) Production of glucose
+c) Release of carbon dioxide
+d) Maintenance of atmosphere's gas balance
+
+10) True or False: The Calvin cycle is also known as the light-dependent reactions.
+a) True
+b) False
+
+True/False:
+1) True
+2) B
+3) D
+4) A
+5) A
+6) B
+7) C
+8) D
+9) C
+10) B
+
+Free-response:
+1) Describe the overall process of photosynthesis.
+2) What are the two main types of reactions involved in photosynthesis? Explain their roles.
+3) How does photosynthesis contribute to our planet's ecosystem?
+
+Answers:
+1) The main function of photosynthesis is to convert light energy from the sun into chemical energy in the form of glucose. This glucose is then used as an energy source for the organism's metabolic processes. It also produces oxygen and helps maintain the balance of gases in our atmosphere.
+2) The two main types of reactions involved in photosynthesis are light-dependent reactions and light-independent reactions (Calvin cycle). In light-dependent reactions, light energy is absorbed and converted into chemical energy in the form of ATP and NADPH. In the Calvin cycle, these energy-carrying molecules are used to produce glucose from carbon dioxide and water.
+3) Photosynthesis contributes to our planet's ecosystem by producing oxygen, which is vital for the survival of many organisms. It also helps maintain the balance of gases in our atmosphere, specifically the levels of carbon dioxide and oxygen. Additionally, photosynthesis is the basis of the food chain, as it provides energy for autotrophic organisms, which are then consumed by heterotrophic organisms.

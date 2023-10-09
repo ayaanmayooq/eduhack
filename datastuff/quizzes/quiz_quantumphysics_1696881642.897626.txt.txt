@@ -1,0 +1,76 @@
+MCQs:
+1. What is quantum entanglement?
+A) The connection between two particles at the quantum level
+B) The connection between two particles at the classical level
+C) The connection between two particles at the atomic level
+D) The connection between two particles at the molecular level
+
+2. According to quantum mechanics, particles at the quantum level can exist in ___________.
+A) Multiple states simultaneously
+B) One state at a time
+C) Three states at a time
+D) No states at a time
+
+3. Which of the following is NOT a potential application of quantum entanglement?
+A) Quantum computing
+B) Cryptography
+C) Teleportation
+D) Energy production
+
+4. The EPR paradox involves two entangled particles, labeled A and B, separated by ___________.
+A) A small distance
+B) A medium distance
+C) A large distance
+D) An infinite distance
+
+5. According to classical physics, an object can only be influenced by its immediate surroundings. True or False?
+A) True
+B) False
+
+6. Quantum entanglement is a well-understood phenomenon in the field of quantum physics. True or False?
+A) True
+B) False
+
+7. How many particles are involved in quantum entanglement?
+A) Only one
+B) Two or more
+C) Three or more
+D) An infinite number
+
+8. What is the main challenge in understanding quantum entanglement?
+A) Its counterintuitive nature
+B) Its simplicity
+C) Its lack of practical applications
+D) Its relationship with classical physics
+
+True/False:
+1. Quantum entanglement is a relatively new concept in the field of quantum physics. 
+A) True
+B) False
+
+2. Quantum entanglement allows for faster-than-light communication. 
+A) True
+B) False
+
+3. The EPR paradox was proposed in 1935 by Albert Einstein, Boris Podolsky, and Nathan Rosen. 
+A) True
+B) False
+
+4. Quantum entanglement has no potential applications in the real world. 
+A) True
+B) False
+
+Free-response:
+1. How does quantum entanglement challenge our understanding of classical physics?
+
+2. Briefly explain the EPR paradox and its significance in understanding quantum entanglement.
+
+3. Can you think of any other potential applications for quantum entanglement? Explain your answer.
+
+Answer Key:
+MCQs: 1) A, 2) A, 3) D, 4) C, 5) A, 6) B, 7) B, 8) A 
+True/False: 1) B, 2) B, 3) A, 4) B 
+Free-response:
+1) Quantum entanglement challenges our understanding of classical physics because it goes against the principle that an object can only be influenced by its immediate surroundings. This phenomenon allows for a connection between two particles regardless of distance, which contradicts the concept of locality in classical physics.
+2) The EPR paradox involves two entangled particles, A and B, separated by a large distance. When a measurement is made on particle A, it will instantly affect the state of particle B, even if they are light years apart. This paradox showed that there must be a connection between the two particles, leading to the theory of quantum entanglement.
+3) Other potential applications for quantum entanglement include secure communication techniques using entangled particles, improved precision in measurements, and the potential for quantum teleportation of information.

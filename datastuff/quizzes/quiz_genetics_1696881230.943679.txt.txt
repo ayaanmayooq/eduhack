@@ -1,0 +1,81 @@
+MCQs:
+1. Which of the following is NOT a physical trait determined by genes?
+a) Hair color
+b) Eye color
+c) Metabolism
+d) Height
+
+2. Who is credited with proposing the double helix model of DNA?
+a) Gregor Mendel
+b) James Watson
+c) Francis Crick
+d) Charles Darwin
+
+3. Which of the following is NOT a modern technique in genetics?
+a) Genome sequencing
+b) Gene isolation
+c) Genetic engineering
+d) Gene editing
+
+4. What is the role of genes in heredity?
+a) They determine an organism's physical traits
+b) They provide instructions for an organism's development
+c) They are units of inheritance passed down from parent to offspring
+d) All of the above
+
+5. What have advancements in technology allowed us to do in the field of genetics?
+a) Study and manipulate genes
+b) Understand evolution
+c) Improve crop yields
+d) All of the above
+
+6. What did Gregor Mendel call the units of heredity?
+a) Genes
+b) Factors
+c) Proteins
+d) DNA
+
+7. What did Watson and Crick propose in 1953?
+a) The structure of genes
+b) The double helix model of DNA
+c) The role of proteins in heredity
+d) The discovery of factors
+
+8. What is the main focus of genetics?
+a) The study of genes, heredity, and genetic variation
+b) The study of proteins and their functions
+c) The study of diseases and their treatments
+d) The study of evolution and its mechanisms
+
+True/False:
+1. Genes determine only physical traits, not physiological traits.
+2. The double helix model of DNA was proposed by James Watson and Charles Darwin.
+3. Gene editing is a modern technique used to manipulate genes.
+4. Genetics has no practical applications in fields such as medicine and agriculture.
+
+Free-Response:
+1. Explain the importance of studying genetics.
+2. How did the discovery of genes revolutionize our understanding of life?
+3. Name and briefly describe two modern techniques used in genetics.
+
+Answer key:
+MCQs:
+1. c) Metabolism
+2. c) Francis Crick
+3. b) Gene isolation
+4. d) All of the above
+5. d) All of the above
+6. b) Factors
+7. b) The double helix model of DNA
+8. a) The study of genes, heredity, and genetic variation
+
+True/False:
+1. False
+2. False
+3. True
+4. False
+
+Free-Response:
+1. Studying genetics is important because it helps us understand the diversity of life and how it evolves. It also has practical applications in fields such as medicine, agriculture, and forensics.
+2. The discovery of genes allowed us to understand how traits are inherited and how genetic information is stored and transferred. It also paved the way for advancements in technology and practical applications in various fields.
+3. Genetic engineering is the process of manipulating an organism's genes for a specific purpose, while genome sequencing is the process of determining the complete DNA sequence of an organism.

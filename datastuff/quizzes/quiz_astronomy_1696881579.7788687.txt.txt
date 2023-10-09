@@ -1,0 +1,91 @@
+1. Which of the following is NOT a key concept in astronomy?
+A. Celestial sphere
+B. Solar system
+C. Heliocentric model
+D. Atomic structure
+
+2. The celestial equator is an imaginary line that divides the celestial sphere into which hemispheres?
+A. Eastern and western
+B. Northern and southern
+C. Upper and lower
+D. Eastern and southern
+
+3. Which of the following is an important line on the celestial sphere that represents the Earth's orbital path around the Sun?
+A. Celestial equator
+B. Ecliptic
+C. Celestial poles
+D. Geocentric model
+
+4. The tilt of the Earth's axis at 23.5 degrees explains which phenomenon?
+A. Day and night
+B. Seasons
+C. Tides
+D. Planetary orbits
+
+5. The North Celestial Pole is located in the same direction as which star?
+A. Polaris
+B. Sirius
+C. Betelgeuse
+D. Vega
+
+6. Which model has the Earth at the center of the solar system?
+A. Heliocentric model
+B. Geocentric model
+C. Celestial sphere model
+D. Solar system model
+
+7. What is the purpose of using diagrams and models in astronomy?
+A. To represent the positions and movements of celestial objects
+B. To measure the distance between planets
+C. To predict the weather
+D. To study marine life in space
+
+8. True or False: The celestial sphere is a real physical object.
+A. True
+B. False
+
+9. Which of the following is NOT a region of the celestial sphere?
+A. Celestial equator
+B. Ecliptic
+C. Celestial axis
+D. Celestial poles
+
+10. What is the study of celestial objects, including planets, stars, and galaxies called?
+A. Astrology
+B. Chemistry
+C. Astronomy
+D. Geography
+
+True/False:
+1. The celestial poles are the points where the Earth's axis intersects with the celestial sphere. 
+2. The celestial equator is tilted at an angle of 23.5 degrees. 
+3. The ecliptic is an imaginary line that divides the celestial sphere into eastern and western hemispheres.
+4. The heliocentric model shows the Sun at the center of the solar system.
+
+Free Response:
+1. Compare and contrast the geocentric and heliocentric models.
+2. How are the celestial equator and the Earth's equator related?
+3. How have modern technology and space exploration contributed to our understanding of astronomy? 
+
+Answer key:
+1. D
+2. B
+3. B
+4. B
+5. A
+6. B
+7. A
+8. B
+9. C
+10. C
+
+True/False:
+1. True
+2. False
+3. False
+4. True
+
+Free Response:
+1. The geocentric model has the Earth at the center of the solar system, while the heliocentric model has the Sun at the center. Both models were used in history to explain the motions of planets, but the heliocentric model is now widely accepted as the accurate model.
+2. The celestial equator is the projection of the Earth's equator onto the celestial sphere. This means that they are in the same plane and have the same tilt of 23.5 degrees.
+3. Modern technology and space exploration, such as telescopes and satellites, have allowed us to observe and study objects in the universe that were previously unknown or inaccessible. This has led to new discoveries and a deeper understanding of the complex universe.

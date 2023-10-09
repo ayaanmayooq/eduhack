@@ -1,0 +1,94 @@
+MCQs:
+1. What is the study of space and objects within it called?
+A. Biology
+B. Astronomy
+C. Geology
+D. Chemistry
+
+2. Which of the following is NOT a celestial body?
+A. Asteroid
+B. Planet
+C. Ocean
+D. Star
+
+3. What is the main difference between planets and stars?
+A. Planets generate their own light and heat, while stars do not.
+B. Planets are larger than stars.
+C. Planets are spherical, while stars are flat.
+D. Planets do not have orbits, while stars do.
+
+4. Which of the following is NOT a type of star?
+A. Red dwarf
+B. Yellow dwarf
+C. Green giant
+D. Blue giant
+
+5. What are the patterns in the sky formed by stars known as?
+A. Constellations
+B. Galaxies
+C. Solar systems
+D. Asteroids
+
+6. Which of the following is NOT a type of object in space?
+A. Comet
+B. Asteroid
+C. Black hole
+D. Mountain
+
+7. Which of the following is NOT a tool used by astronomers to study space?
+A. Telescope
+B. Microscope
+C. Radio telescope
+D. Spectroscope
+
+8. What do astronomers learn by studying Astronomy?
+A. Information about Earth
+B. How to build telescopes
+C. The vastness of space
+D. How to live on other planets
+
+True/False:
+1. Planets are smaller than stars.
+A. True
+B. False
+
+2. The Sun is a yellow dwarf star.
+A. True
+B. False
+
+3. Asteroids are larger than comets.
+A. True
+B. False
+
+4. Astronomy is the study of the Earth and its inhabitants.
+A. True
+B. False
+
+Free-response:
+1. Name and describe the two main categories of celestial bodies.
+2. What is a constellation and how are they formed?
+3. How do astronomers gather information about objects in space?
+4. Why is studying Astronomy important?
+
+Answer key:
+MCQs:
+1. B
+2. C
+3. A
+4. C
+5. A
+6. D
+7. B
+8. C
+
+True/False:
+1. B
+2. A
+3. A
+4. B
+
+Free-response:
+1. The two main categories of celestial bodies are planets and stars. Planets are large, spherical objects that orbit around a star. Stars are massive luminous objects that generate their own light and heat.
+2. Constellations are patterns formed by stars in the sky. They are formed when humans connect the stars together to create recognizable shapes or figures.
+3. Astronomers gather information about objects in space by using tools such as telescopes, spectroscopes, and radio telescopes. They also study data and images gathered from space missions and satellites.
+4. Studying Astronomy is important because it allows us to gain a better understanding of our place in the universe and the vastness of space. It also helps us learn about the origins of our solar system and the possibility of life on other planets.

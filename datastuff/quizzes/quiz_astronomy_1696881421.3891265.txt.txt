@@ -1,0 +1,81 @@
+MCQs:
+1. What is the primary component of a star?
+A. Dust
+B. Gas
+C. Water
+D. Minerals
+
+2. What causes a protostar to form?
+A. Nuclear fusion
+B. Gravity
+C. Solar flares
+D. Supernovae
+
+3. What happens to the core of a protostar as it collapses?
+A. It becomes cooler
+B. It becomes hotter
+C. It remains the same temperature
+D. It explodes
+
+4. When does nuclear fusion begin in a protostar?
+A. When it is formed
+B. When it reaches a certain temperature
+C. When it is closest to Earth
+D. When it is farthest from Earth
+
+5. What happens to smaller stars as they age?
+A. They become hotter
+B. They become larger
+C. They become red giants
+D. They become black holes
+
+6. What do larger stars fuse after they run out of hydrogen fuel in their cores?
+A. Heavier elements
+B. Lighter elements
+C. No elements
+D. Hydrogen
+
+7. What happens when a star reaches iron?
+A. It explodes in a supernova
+B. It becomes a black hole
+C. It stops fusing elements
+D. It becomes a neutron star
+
+8. What happens after a supernova?
+A. The star becomes a red giant
+B. The star becomes a neutron star
+C. The star becomes a black hole
+D. The star becomes a protostar
+
+9. Which of the following objects is the result of a supernova?
+A. Neutron star
+B. Black hole
+C. Red giant
+D. Protostar
+
+10. What is the purpose of studying the life cycle of a star?
+A. To understand the creation and evolution of the universe
+B. To predict the next supernova
+C. To find new planets
+D. To determine the age of a star
+
+True/False:
+1. Stars are made up of mostly helium. (False)
+2. Protostars are formed from collapsing clouds of gas and dust. (True)
+3. Nuclear fusion begins in a protostar when it reaches a certain size. (False)
+4. Larger stars will eventually become red giants. (True)
+
+Free-response:
+1. How does a star's mass determine its life cycle?
+
+2. What happens to a star after it goes through a supernova?
+
+3. How can studying a star's life cycle help us understand the creation and evolution of the universe?
+
+Answer Key:
+MCQs: 1. B, 2. B, 3. B, 4. B, 5. C, 6. A, 7. C, 8. B, 9. A, 10. A
+True/False: 1. False, 2. True, 3. False, 4. True
+Free-response:
+1. A star's mass determines its life cycle because it determines the amount of pressure and heat in the core, which affects the fusion of elements and the star's eventual fate.
+2. After a supernova, the remnants of a star may form a neutron star or a black hole, depending on its mass.
+3. Studying a star's life cycle can help us understand the creation and evolution of the universe by giving us insights into how different elements are formed and how they are distributed throughout the universe. It also allows us to see the various stages of a star's life and how they contribute to the overall structure and functioning of the universe.

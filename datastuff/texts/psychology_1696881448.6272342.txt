@@ -1,0 +1,11 @@
+Subject: Psychology
+Page Number: 156
+Content: This page will introduce the concept of operant conditioning, a form of learning that involves the use of rewards and punishments to shape behavior. Operant conditioning was first studied by psychologist B.F. Skinner, who believed that behavior is influenced by its consequences.
+
+Skinner's famous experiment involved placing a rat in a box, now known as a Skinner box, and rewarding the rat with food every time it pressed a lever. Through this process, the rat learned to associate pressing the lever with receiving food, and thus continued to do so. This is an example of positive reinforcement, where a behavior is strengthened by the addition of a positive stimulus.
+
+However, operant conditioning can also involve negative reinforcement, where a behavior is strengthened by the removal of a negative stimulus. For example, a child may learn to clean their room regularly to avoid getting scolded by their parents.
+
+On the other hand, punishment is used to decrease the likelihood of a behavior occurring again. Positive punishment involves adding a negative consequence, such as scolding a child for misbehaving. Negative punishment, on the other hand, involves taking away a desirable stimulus, such as revoking screen time for a child who doesn't do their homework.
+
+Operant conditioning is a powerful tool in shaping behavior, and it is used in many real-world situations, such as in schools, workplaces, and even in training animals. Through understanding the principles of operant conditioning, individuals can learn how to modify their own behaviors and those of others in a positive and effective manner.

@@ -1,0 +1,81 @@
+MCQs:
+1. What is astrometry?
+A. The study of planets and stars
+B. The branch of astronomy that deals with the precise measurement of celestial bodies
+C. The study of the evolution of the universe
+D. The use of telescopes to view the night sky
+
+2. What is the main tool used in astrometry?
+A. Telescope
+B. Camera
+C. Calculator
+D. Microscope
+
+3. What is parallax used for in astrometry?
+A. Measuring the distances of celestial bodies
+B. Taking photographs of the night sky
+C. Tracking the movements of comets
+D. Detecting life on other planets
+
+4. How was Neptune discovered?
+A. Through the use of telescopes
+B. By observing its parallax
+C. By analyzing images of the night sky
+D. By noticing irregularities in another planet's orbit
+
+5. What is the role of astrometry in understanding the structure of the universe?
+A. Measuring the precise positions and movements of celestial bodies
+B. Calculating the age of stars
+C. Studying the composition of planets
+D. Mapping out the structure of the solar system
+
+6. Which of the following is NOT a use of astrometry?
+A. Detecting exoplanets
+B. Studying the evolution of galaxies
+C. Taking photographs of the night sky
+D. Measuring the distances of stars
+
+7. Which of the following is NOT an astronomical discovery made through astrometry?
+A. The existence of Neptune
+B. The movement of comets
+C. The structure of the universe
+D. The composition of the sun
+
+8. What is the role of technology in astrometry?
+A. Taking photographs of objects in the night sky
+B. Calculating parallax
+C. Measuring precise positions and movements
+D. All of the above
+
+True/False:
+1. Astrometry is the study of the precise measurement of the positions and movements of celestial bodies. (True)
+2. Parallax is the apparent shift of an object's position when viewed from the same vantage point. (False)
+3. Astrometry has played a minor role in significant astronomical discoveries. (False)
+4. The study of parallax is only used for determining the distances of planets. (False)
+
+Free-Response:
+1. How does astrometry contribute to our understanding of the universe?
+2. Describe the process of using parallax to measure the distance of a celestial body.
+3. Provide an example of an astronomical discovery made through astrometry.
+
+Answer Key:
+MCQs:
+1. B
+2. A
+3. A
+4. D
+5. A
+6. C
+7. D
+8. D
+
+True/False:
+1. True
+2. False
+3. False
+4. False
+
+Free-Response:
+1. Astrometry provides precise measurements and data that help us understand the structure, movements, and evolution of celestial bodies in the universe.
+2. Parallax is used by observing an object from opposite sides of Earth's orbit and calculating the difference in its position to determine its distance.
+3. An example of an astronomical discovery made through astrometry is the detection of exoplanets by measuring the movements of their parent stars.

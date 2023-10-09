@@ -1,0 +1,82 @@
+MCQs:
+1. What triggers nuclear fusion in a molecular cloud?
+A. High pressure
+B. High temperature
+C. Both A and B
+D. None of the above
+
+2. What is the most common type of fusion in stars?
+A. Fusion of helium atoms
+B. Fusion of carbon atoms
+C. Fusion of hydrogen atoms
+D. Fusion of oxygen atoms
+
+3. How does a star maintain a balance between gravity and energy released from fusion?
+A. By increasing its mass
+B. By releasing more energy
+C. By increasing its temperature
+D. By emitting light and heat
+
+4. Which type of star can continue the fusion process for billions of years?
+A. Red giants
+B. White dwarfs
+C. Red dwarfs
+D. Neutron stars
+
+5. What determines the length of time a star can sustain fusion?
+A. Its color
+B. Its size and mass
+C. Its location in the galaxy
+D. Its age
+
+6. What happens to a star once the fusion process is complete?
+A. It becomes a white dwarf
+B. It turns into a black hole
+C. It explodes as a supernova
+D. It enters a new stage in its life cycle
+
+7. What is the study of star formation crucial for?
+A. Understanding the vast universe
+B. Predicting the future of stars
+C. Creating new stars
+D. Exploring other galaxies
+
+True/False:
+8. The collapse of a molecular cloud triggers nuclear fusion.
+A. True
+B. False
+
+9. Smaller stars have a shorter lifespan compared to larger stars.
+A. True
+B. False
+
+10. Red dwarfs can sustain the fusion process for millions of years.
+A. True
+B. False
+
+11. The energy released from fusion counteracts the force of gravity, creating a balance.
+A. True
+B. False
+
+Free-response:
+12. Describe the role of gravity in the formation of stars.
+
+13. Explain the difference between how long smaller and larger stars can sustain the fusion process.
+
+14. What happens to a star once the fusion process is complete? Provide examples of possible outcomes.
+
+Answer key:
+1. C
+2. C
+3. D
+4. C
+5. B
+6. D
+7. A
+8. A
+9. A
+10. B
+11. A
+12. Gravity plays a crucial role in the formation of stars by causing molecular clouds to collapse, which increases density, temperature, and pressure within the cloud, triggering nuclear fusion.
+13. Smaller stars, such as red dwarfs, can sustain fusion for billions of years due to their lower mass and slower fusion rate. Larger stars, such as red giants, have a shorter lifespan due to their higher mass and faster fusion rate.
+14. Once the fusion process is complete, a star can become a white dwarf, neutron star, black hole, or enter a new stage in its life cycle, such as a red giant. A white dwarf is the core of a dead star, a neutron star is a small but extremely dense star, and a black hole is a region of space with a gravitational pull so strong that not even light can escape.

@@ -1,0 +1,19 @@
+Subject: Chemistry
+Page Number: 125
+Content: [Placeholder for textbook content]
+
+Topic: Solutions and Solubility
+
+A solution is a homogeneous mixture of two or more substances. It is composed of a solvent, which is the substance present in the largest amount, and a solute, which is the substance being dissolved. The solute can be a solid, liquid, or gas, while the solvent is usually a liquid.
+
+The solubility of a substance refers to its ability to dissolve in a particular solvent. It is dependent on factors such as temperature, pressure, and the nature of the solute and solvent. A substance is considered soluble if it can dissolve in a given solvent, and insoluble if it cannot.
+
+The amount of a substance that can be dissolved in a certain amount of solvent is known as its solubility limit. This limit can be affected by changes in temperature and pressure. In general, as temperature increases, the solubility of solids in liquids also increases, while the solubility of gases in liquids decreases.
+
+Solubility can also be influenced by the nature of the solute and solvent. Polar solvents, like water, are better at dissolving polar substances, while nonpolar solvents, like oil, are better at dissolving nonpolar substances. This is due to the principle of like dissolves like, where substances with similar polarities are more likely to dissolve in each other.
+
+To represent the solubility of a substance in a particular solvent, chemists use solubility curves. These curves show the relationship between temperature and the maximum amount of solute that can be dissolved in a given amount of solvent at a certain pressure.
+
+Understanding solutions and solubility is important in various fields, such as pharmaceuticals, environmental science, and food science. By manipulating solubility, scientists can control the concentration of substances in a solution, which is crucial in various chemical reactions and processes.
+
+So the next time you mix sugar in your tea or dissolve a tablet in water, remember the principles of solubility and how it plays a role in our daily lives.

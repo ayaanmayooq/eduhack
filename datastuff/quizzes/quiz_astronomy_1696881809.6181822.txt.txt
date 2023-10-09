@@ -1,0 +1,75 @@
+MCQs:
+1. What is the average distance between the Earth and the Sun?
+A. 149.6 million kilometers
+B. 93 million kilometers
+C. 300 million kilometers
+D. 1 light-year
+
+2. Which of the following is NOT a discipline that encompasses astronomy?
+A. Biology
+B. Chemistry
+C. Physics
+D. Astronomy encompasses all of these disciplines.
+
+3. What is the astronomical unit (AU) used for?
+A. To measure distances in the solar system
+B. To calculate the distance that light travels in one year
+C. To measure the size of stars
+D. To determine the habitable zone of a planet
+
+4. What is the distance between the Sun and Mercury in AU?
+A. 0.39 AU
+B. 1 AU
+C. 30.07 AU
+D. 149.6 million AU
+
+5. What is the Goldilocks zone?
+A. The distance between the Earth and the Sun
+B. The range of distances from a star where liquid water can exist on a planet's surface
+C. The distance that light travels in one year
+D. The size of a star
+
+6. Which planet in our solar system falls within the habitable zone?
+A. Mercury
+B. Venus
+C. Earth
+D. Mars
+
+7. The AU is used to calculate the distances of other _______.
+A. Planets
+B. Stars
+C. Galaxies
+D. All of the above
+
+True/False:
+8. Astronomers use light-years to measure the distances in the solar system.
+A. True
+B. False
+
+9. The Earth falls within the habitable zone, which is between 0.99 and 1.70 AU from the Sun.
+A. True
+B. False
+
+10. The concept of the AU is not important in understanding our place in the universe.
+A. True
+B. False
+
+Free-response:
+11. Describe the role of the astronomical unit (AU) in calculating the habitable zone.
+12. How does technology help astronomers in exploring and discovering new worlds beyond our solar system?
+13. How has the concept of the AU expanded our understanding of the universe?
+
+Answer key:
+1. A
+2. D
+3. A
+4. A
+5. B
+6. C
+7. D
+8. B
+9. A
+10. B
+11. The AU is used to calculate the distance between a star and a planet, which is important in determining the habitable zone. If a planet is too close or too far from a star, it may not be suitable for life.
+12. Technology allows astronomers to gather data from distant objects in the universe, helping them to explore and discover new worlds beyond our solar system.
+13. The concept of the AU has allowed us to comprehend the incredible distances between celestial objects in the universe, expanding our understanding of our place in the universe.

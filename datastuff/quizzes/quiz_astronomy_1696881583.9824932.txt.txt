@@ -1,0 +1,67 @@
+Quiz:
+
+1. Who accurately described the elliptical shape of planetary orbits?
+A) Galileo Galilei
+B) Nicolaus Copernicus
+C) Johannes Kepler
+D) Isaac Newton
+
+2. What are Kepler's laws of planetary motion?
+A) A set of laws describing the shapes of planetary orbits
+B) A set of laws describing the sizes of planets
+C) A set of laws describing the movements of planets
+D) A set of laws describing the colors of planets
+
+3. In which century did Johannes Kepler propose his laws of planetary motion?
+A) 14th century
+B) 15th century
+C) 16th century
+D) 17th century
+
+4. True or False: The orbit of a planet is a perfect circle.
+A) True
+B) False
+
+5. What is the semi-major axis of an orbit?
+A) The distance from the planet to the sun
+B) The distance from the closest point on the orbit to the sun
+C) The distance from the furthest point on the orbit to the sun
+D) The longest radius of the orbit
+
+6. The closer a planet is to its star, the ___________ its speed.
+A) faster
+B) slower
+
+7. What is the furthest point on an orbit called?
+A) Perihelion
+B) Aphelion
+C) Equinox
+D) Solstice
+
+8. True or False: All planets have perfectly circular orbits.
+A) True
+B) False
+
+9. How do varying degrees of eccentricity affect a planet's orbit?
+A) Changes the distance between the planet and its star
+B) Changes the shape of the orbit
+C) Changes the speed of the planet
+D) All of the above
+
+10. Why are planetary orbits essential to understanding our solar system?
+A) They help predict seasonal changes on planets
+B) They can impact a planet's climate
+C) They provide a framework for studying the movements and patterns of our solar system
+D) All of the above
+
+Answer Key: 
+1. C) Johannes Kepler
+2. C) A set of laws describing the movements of planets
+3. D) 17th century
+4. B) False
+5. D) The longest radius of the orbit
+6. A) faster
+7. B) Aphelion
+8. B) False
+9. D) All of the above
+10. D) All of the above

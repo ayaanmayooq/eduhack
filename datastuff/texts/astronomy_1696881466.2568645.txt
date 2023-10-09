@@ -1,0 +1,12 @@
+Subject: Astronomy
+Page Number: 73
+Content: 
+One of the most fascinating aspects of astronomy is the study of exoplanets, or planets that exist outside of our solar system. Thanks to advancements in technology, astronomers have been able to detect and study these distant worlds.
+
+Exoplanets come in a variety of sizes, compositions, and distances from their respective stars. Some exoplanets, known as hot Jupiters, are gas giants that orbit extremely close to their stars. Others, called super-Earths, are terrestrial planets that are larger than Earth but smaller than Neptune. There are even exoplanets that have been found to have multiple suns in their solar systems.
+
+But how do astronomers detect these exoplanets? One method is the radial velocity technique, which measures the slight wobble of a star caused by the gravitational pull of an orbiting planet. Another method is the transit method, which looks for dips in a star's brightness as a planet passes in front of it.
+
+Understanding exoplanets is crucial in our search for extraterrestrial life. By studying their atmospheres, scientists can determine if a planet has the necessary conditions for life to exist. So far, thousands of exoplanets have been discovered and the search continues for even more.
+
+Diagram: [Insert diagram of the radial velocity and transit methods for detecting exoplanets]

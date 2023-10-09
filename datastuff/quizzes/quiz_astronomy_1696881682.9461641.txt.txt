@@ -1,0 +1,104 @@
+MCQs:
+
+1. What is an exoplanet?
+A. A planet in our solar system
+B. A planet that orbits a star other than our sun
+C. A planet that has water on its surface
+D. A planet that has rings 
+
+2. How was 51 Pegasi b discovered?
+A. Using the transit method
+B. Using the radial velocity method
+C. Using direct imaging
+D. Using gravitational lensing 
+
+3. Which method involves measuring the dimming of a star's brightness as a planet passes in front of it?
+A. Direct imaging
+B. Radial velocity method
+C. Gravitational lensing
+D. Transit method 
+
+4. What is the radial velocity method used for?
+A. Measuring the mass and orbit of an exoplanet
+B. Detecting water on an exoplanet
+C. Measuring the size of an exoplanet
+D. Detecting the atmosphere of an exoplanet 
+
+5. Which of the following is not a method for detecting exoplanets?
+A. Transit method
+B. Radial velocity method
+C. Solar wind method
+D. Direct imaging 
+
+6. How has the discovery of 51 Pegasi b impacted the field of astronomy?
+A. It sparked a revolution in the field
+B. It led to the discovery of other exoplanets
+C. It improved our technology
+D. All of the above 
+
+7. What can scientists learn from studying the wobble of a star caused by an orbiting planet?
+A. The mass and orbit of the exoplanet
+B. The composition of the star
+C. The brightness of the star
+D. The distance of the planet from the star 
+
+8. Which method for detecting exoplanets involves measuring the slight wobble of a star?
+A. Transit method
+B. Radial velocity method
+C. Direct imaging
+D. Gravitational lensing 
+
+9. Which of the following is not a method used to detect exoplanets?
+A. Spectroscopy
+B. Direct imaging
+C. Transit method
+D. Gravitational lensing 
+
+10. What do astronomers use to study exoplanets with the transit method?
+A. Changes in a star's color
+B. Changes in a star's brightness
+C. The gravitational pull of a planet
+D. The distance of the planet from the star 
+
+True/False:
+
+1. 51 Pegasi b was the first exoplanet to be discovered. (True)
+
+2. Direct imaging is the most commonly used method for detecting exoplanets. (False)
+
+3. Gravitational lensing is a method that involves bending of light due to the presence of a massive object. (True)
+
+4. All exoplanets have been discovered using the same method. (False)
+
+Free-response questions:
+
+1. How have technological advancements contributed to the discovery of exoplanets?
+
+2. What is the significance of the discovery of 51 Pegasi b in the field of astronomy?
+
+3. Compare and contrast the transit method and the radial velocity method for detecting exoplanets.
+
+Answer key:
+
+MCQs:
+1. B
+2. A
+3. D
+4. A
+5. C
+6. D
+7. A
+8. B
+9. A
+10. B
+
+True/False:
+1. True
+2. False
+3. True
+4. False
+
+Free-response questions:
+1. Technological advancements have improved our ability to detect and study exoplanets through methods such as direct imaging, spectroscopy, and gravitational lensing. This has allowed us to discover and learn more about a vast number of exoplanets, expanding our understanding of the universe.
+2. The discovery of 51 Pegasi b was significant because it was the first confirmed exoplanet and sparked a revolution in the field of astronomy. It paved the way for the discovery of thousands of other exoplanets and has greatly increased our knowledge of planetary systems beyond our own.
+3. The transit method involves measuring the dimming of a star's brightness as a planet passes in front of it, while the radial velocity method looks at the slight wobble of a star caused by the gravitational pull of an orbiting planet. Both methods provide information about the size, mass, and orbit of an exoplanet, but they rely on different techniques and have varying levels of accuracy.

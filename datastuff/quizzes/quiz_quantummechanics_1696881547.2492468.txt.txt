@@ -1,0 +1,77 @@
+1. Who first described the concept of quantum entanglement?
+A. Albert Einstein
+B. Erwin Schrödinger
+C. Isaac Newton
+D. Max Born
+
+Answer: A
+
+2. True or False: Quantum entanglement only occurs between particles that are physically close to each other.
+A. True
+B. False
+
+Answer: B
+
+3. Which of the following is NOT an application of quantum entanglement?
+A. Quantum computing
+B. Cryptography
+C. Teleportation
+D. Classical mechanics
+
+Answer: D
+
+4. What is the phenomenon of particles being connected regardless of distance known as?
+A. Quantum mechanics
+B. Quantum entanglement
+C. Spooky action at a distance
+D. EPR paradox
+
+Answer: C
+
+5. In which year was the concept of quantum entanglement first described?
+A. 1915
+B. 1925
+C. 1935
+D. 1945
+
+Answer: C
+
+6. True or False: Quantum entanglement has been fully understood and explained by scientists.
+A. True
+B. False
+
+Answer: B
+
+7. Which famous thought experiment involves quantum entanglement?
+A. The double-slit experiment
+B. The Schrödinger's cat experiment
+C. The Heisenberg uncertainty principle
+D. The photoelectric effect
+
+Answer: B
+
+8. What is the term for the state of particles being connected in quantum entanglement?
+A. Synchronization
+B. Entanglementment
+C. Correlation
+D. Communication
+
+Answer: C
+
+9. Free-response: Describe an example of quantum entanglement.
+Possible answer: An example of quantum entanglement is when two electrons are created together and then separated. When the properties of one electron are measured, it immediately affects the state of the other electron, regardless of the distance between them.
+
+10. Free-response: How does quantum entanglement challenge our classical understanding of cause and effect?
+Possible answer: Classical physics states that a cause must always precede its effect. However, in quantum entanglement, the state of one particle can instantly affect the state of another particle, regardless of distance. This goes against our classical understanding and challenges the concept of cause and effect.
+
+Answer Key:
+1. A
+2. B
+3. D
+4. C
+5. C
+6. B
+7. B
+8. C
+9. N/A
+10. N/A

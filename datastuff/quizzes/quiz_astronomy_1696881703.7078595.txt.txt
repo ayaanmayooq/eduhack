@@ -1,0 +1,85 @@
+1. Which of the following is NOT a celestial object studied in astronomy?
+A. Planets
+B. Rocks
+C. Stars
+D. Galaxies
+
+2. True or False: Astronomers only use telescopes to study celestial objects.
+A. True
+B. False
+
+3. The Hertzsprung-Russell diagram plots stars based on their ________ and ________.
+A. Color, temperature
+B. Brightness, distance
+C. Mass, size
+D. Age, composition
+
+4. The study of planets outside of our solar system is known as __________.
+A. Exoplanetology
+B. Astrophysics
+C. Cosmology
+D. Planetary science
+
+5. True or False: All galaxies are the same shape.
+A. True
+B. False
+
+6. Which of the following is NOT a type of galaxy?
+A. Spiral
+B. Elliptical
+C. Irregular
+D. Round
+
+7. The study of celestial objects and their properties is known as __________.
+A. Astrophysics
+B. Astronomy
+C. Cosmology
+D. Astrology
+
+8. True or False: Astronomers use mathematics and physics to analyze data from celestial objects.
+A. True
+B. False
+
+9. Which of the following is NOT a method used to detect and study exoplanets?
+A. Transit method
+B. Radial velocity method
+C. Gravitational lensing
+D. Supernova detection
+
+10. What is the purpose of the Hertzsprung-Russell diagram?
+A. To classify galaxies
+B. To study exoplanets
+C. To categorize stars
+D. To analyze data
+
+True/False:
+1. Astronomers use various instruments, such as telescopes and satellites, to observe and gather data on celestial objects.
+2. The study of planets in our solar system is less popular than the study of exoplanets.
+3. Galaxies are collections of stars, gas, and dust.
+4. Astronomy has been studied for hundreds of years.
+
+Free-response:
+1. Explain the concept of the Hertzsprung-Russell diagram.
+2. Discuss the different types of galaxies.
+3. Describe the methods used to detect and study exoplanets.
+
+Answer key:
+1. B
+2. B
+3. A
+4. A
+5. B
+6. D
+7. B
+8. A
+9. D
+10. C
+True/False:
+1. True
+2. False
+3. True
+4. True
+Free-response:
+1. The Hertzsprung-Russell diagram is a graph that plots stars based on their luminosity (brightness) and temperature. It allows astronomers to categorize stars into different groups, such as main sequence, red giants, and white dwarfs.
+2. The three main types of galaxies are spiral, elliptical, and irregular. Spiral galaxies have a spiral-like structure and contain mostly young stars. Elliptical galaxies are round or oval-shaped and contain mostly old stars. Irregular galaxies do not have a defined shape and contain both young and old stars.
+3. The transit method involves monitoring the dimming of a star's light as a planet passes in front of it. The radial velocity method measures the wobble of a star caused by the gravitational pull of a planet. Gravitational lensing occurs when the gravity of a planet bends the light of a star behind it, making it appear brighter. Supernova detection involves looking for the changes in brightness of a star, which could indicate the presence of a planet.

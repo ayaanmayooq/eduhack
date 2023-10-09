@@ -1,0 +1,13 @@
+Subject: Organic Chemistry
+Page Number: 125
+Content: Organic chemistry is a branch of chemistry that deals with the study of carbon-containing compounds. These compounds are found in all living organisms and are essential for life on Earth. Carbon atoms are unique in their ability to form a wide variety of molecules due to their ability to bond with four other atoms. This allows for the formation of complex and diverse compounds.
+
+One of the key concepts in organic chemistry is functional groups. Functional groups are specific arrangements of atoms within a molecule that determine its chemical properties and reactivity. Some common functional groups include alcohols, aldehydes, ketones, carboxylic acids, and amines.
+
+Another important aspect of organic chemistry is the study of reactions. Organic compounds can undergo a wide range of reactions, including substitution, addition, elimination, and rearrangement. Understanding the mechanisms and factors that influence these reactions is crucial in predicting and controlling chemical reactions.
+
+Diagrams, such as reaction mechanisms, are often used in organic chemistry to visually represent the steps involved in a reaction. This helps students to better understand the flow of electrons and the overall outcome of the reaction.
+
+Organic chemistry has many practical applications, such as in drug development, materials science, and food chemistry. It also plays a significant role in understanding and addressing environmental issues, as many pollutants and toxins are organic compounds.
+
+Overall, the study of organic chemistry is essential in understanding the chemistry of life and the world around us. By delving into the properties, reactions, and applications of carbon-containing compounds, we gain a deeper understanding of the complexity and impact of organic molecules in our daily lives.

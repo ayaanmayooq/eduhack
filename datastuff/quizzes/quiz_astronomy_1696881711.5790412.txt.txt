@@ -1,0 +1,97 @@
+MCQs:
+1. How many officially recognized constellations are there?
+A. 48
+B. 88
+C. 100
+D. 200
+
+2. Who is credited with developing the system of constellations used in Western astronomy for centuries?
+A. Galileo Galilei
+B. Isaac Newton
+C. Ptolemy
+D. Nicolaus Copernicus
+
+3. What are constellations?
+A. Physical groupings of stars
+B. Imaginary formations created by the human mind
+C. Patterns of clouds in the night sky
+D. Objects seen in the night sky
+
+4. Which of the following constellations is NOT mentioned in the text?
+A. Orion
+B. Big Dipper
+C. Taurus
+D. Scorpio
+
+5. Which of the following is NOT a factor that determines the visibility of constellations?
+A. The time of year
+B. The viewing location
+C. The weather
+D. The number of stars in the constellation
+
+6. What coordinates do astronomers use to locate specific constellations in the night sky?
+A. Latitude and longitude
+B. Right ascension and declination
+C. Azimuth and altitude
+D. Solar and lunar coordinates
+
+7. Which of the following statements is true about constellations?
+A. They are physical groupings of stars.
+B. They are limited to one hemisphere of the sky.
+C. They are named after famous scientists.
+D. They are based on ancient Chinese mythology.
+
+8. Which of the following constellations is used for navigation?
+A. Pisces
+B. Ursa Major
+C. Taurus
+D. Gemini
+
+9. Which hemisphere of the sky has more constellations?
+A. Northern
+B. Southern
+C. They are equal.
+D. It varies depending on the time of year.
+
+10. What system of coordinates is used to locate constellations in the night sky?
+A. Cartesian coordinates
+B. Polar coordinates
+C. Spherical coordinates
+D. Cylindrical coordinates
+
+True/False:
+1. The constellations we see in the sky today are based on a system developed by Ptolemy in the 2nd century. (True)
+2. Constellations are imaginary formations created by the human mind. (True)
+3. The stars in a constellation must be physically close to each other. (False)
+4. The Big Dipper is only visible in the Northern Hemisphere. (False)
+5. Right ascension and declination are similar to longitude and latitude on Earth. (True)
+
+Free-response:
+1. What is the difference between ancient and modern constellations?
+2. How do constellations aid in navigation?
+3. Can you identify any constellations in the night sky? What are their names and what do they represent?
+
+Answer key:
+MCQs:
+1. B
+2. C
+3. B
+4. D
+5. D
+6. B
+7. B
+8. B
+9. C
+10. B
+
+True/False:
+1. True
+2. True
+3. False
+4. False
+5. True
+
+Free-response:
+1. Ancient constellations were based on Greek mythology and were believed to be gods or heroes, while modern constellations are based on more recent observations and discoveries.
+2. Constellations can be used for navigation because they can help determine which direction is north based on the position of the North Star in relation to other stars in the constellation.
+3. Answers will vary. Example: I can identify the constellation Orion, also known as the Hunter. It is a pattern of stars that represents a hunter holding a bow and arrow.

@@ -1,0 +1,59 @@
+1) What is the smallest possible unit of energy according to quantum mechanics?
+A) Photon
+B) Atom
+C) Quanta
+D) Molecule
+
+2) Who first proposed the concept of the quantum?
+A) Max Planck
+B) Werner Heisenberg
+C) Albert Einstein
+D) Niels Bohr
+
+3) According to the uncertainty principle, is it possible to know both the position and momentum of a particle with complete accuracy?
+A) Yes
+B) No
+
+4) The principle of wave-particle duality states that particles such as electrons can exhibit both ____________ and ____________ behavior.
+A) Wave-like; particle-like
+B) Solid; liquid
+C) Dark; light
+D) Negative; positive
+
+5) The famous double-slit experiment demonstrated the wave-particle duality of which subatomic particle?
+A) Proton
+B) Electron
+C) Neutron
+D) Photon
+
+6) Which of the following advancements can be attributed to the study of quantum mechanics?
+A) MRI machines
+B) Computer keyboards
+C) Incandescent light bulbs
+D) Record players
+
+7) True or False: The principles of quantum mechanics have little to no impact on our understanding of the universe.
+A) True
+B) False
+
+8) Which field of research utilizes quantum mechanics to perform complex calculations and secure communication?
+A) Biochemistry
+B) Astrology
+C) Quantum computing
+D) Geology
+
+9) Free-response: Explain the concept of wave-particle duality using an example from the text.
+
+10) Free-response: How has the study of quantum mechanics impacted technology and research? Provide at least two examples.
+
+Answer key:
+1) C) Quanta
+2) A) Max Planck
+3) B) No
+4) A) Wave-like; particle-like
+5) B) Electron
+6) A) MRI machines
+7) B) False
+8) C) Quantum computing
+9) Answers will vary. Example: Electrons can behave as particles when they are observed, but as waves when they are not.
+10) Answers will vary. Example: Advancements in MRI technology and the development of quantum computers and quantum cryptography.

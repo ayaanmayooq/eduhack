@@ -1,0 +1,66 @@
+Multiple Choice Questions:
+1. Which element is essential for organic compounds?
+A. Hydrogen
+B. Oxygen
+C. Carbon
+D. Nitrogen
+
+2. Which functional group is responsible for the acidic properties of carboxylic acids?
+A. Hydroxyl group
+B. Carboxyl group
+C. Amino group
+D. Alkyl group
+
+3. What is one of the fundamental concepts in organic chemistry?
+A. Atomic structure
+B. Bonding in inorganic compounds
+C. Functional groups
+D. Gases and their properties
+
+4. What type of bond can carbon form with other atoms?
+A. Only single bonds
+B. Only double bonds
+C. Only triple bonds
+D. Single, double, and triple bonds
+
+5. Which statement is true about functional groups?
+A. They have no effect on the properties of a molecule.
+B. Each functional group has the same reactivity.
+C. They can be used to predict the behavior of a molecule.
+D. They can only be found in organic compounds.
+
+True/False Questions:
+6. Carbon is unique because it can form strong bonds with other carbon atoms and a variety of other elements.
+A. True
+B. False
+
+7. Alcohols contain the carboxyl group.
+A. True
+B. False
+
+8. Understanding functional groups is not important in organic chemistry.
+A. True
+B. False
+
+9. Organic chemistry only deals with the structure of molecules.
+A. True
+B. False
+
+Free-Response Questions:
+10. Describe the properties and reactivity of the hydroxyl group.
+11. How can understanding functional groups help scientists in their research and development of new substances?
+12. What role does carbon play in the vast diversity and complexity of organic compounds?
+
+Answer Key:
+1. C
+2. B
+3. C
+4. D
+5. C
+6. A
+7. B
+8. B
+9. B
+10. The hydroxyl group (-OH) gives alcohols their characteristic properties, such as the ability to dissolve in water and undergo reactions with other molecules.
+11. Understanding functional groups allows scientists to predict the behavior of different molecules and design new compounds with specific properties.
+12. Carbon's ability to form strong bonds with other atoms and form single, double, and triple bonds, allows for a diverse range of structures and thus contributes to the vast diversity and complexity of organic compounds.

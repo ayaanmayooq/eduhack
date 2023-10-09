@@ -1,0 +1,71 @@
+Quiz:
+
+1. Which branch of physics studies the behavior of matter and energy at the atomic and subatomic levels?
+A. Classical Mechanics
+B. Quantum Mechanics
+C. Relativity
+D. Thermodynamics
+Answer: B 
+
+2. What is the term used to describe the concept that certain physical quantities can only exist in discrete, quantized values?
+A. Superposition
+B. Entanglement
+C. Wave-particle duality
+D. Quantization
+Answer: D 
+
+3. Who first proposed the concept of wave-particle duality?
+A. Niels Bohr
+B. Werner Heisenberg
+C. Louis de Broglie
+D. Erwin Schrödinger
+Answer: C 
+
+4. Which experiment confirmed the concept of wave-particle duality?
+A. Double-slit experiment
+B. Rutherford's gold foil experiment
+C. Millikan's oil drop experiment
+D. Photoelectric effect experiment
+Answer: A 
+
+5. True or False: In the thought experiment of Schrödinger's cat, the cat is both alive and dead until the box is opened and its state is observed.
+Answer: True 
+
+6. What term describes the phenomenon where two or more particles become correlated in such a way that the state of one particle is dependent on the state of the other?
+A. Superposition
+B. Entanglement
+C. Wave-particle duality
+D. Quantization
+Answer: B 
+
+7. What type of diagrams are commonly used in quantum mechanics to visualize interactions between particles?
+A. Venn diagrams
+B. Bar graphs
+C. Feynman diagrams
+D. Line plots
+Answer: C 
+
+8. True or False: Feynman diagrams help in understanding the behavior of particles at the macroscopic level.
+Answer: False 
+
+9. Which concept in quantum mechanics has potential applications in quantum computing?
+A. Superposition
+B. Entanglement
+C. Wave-particle duality
+D. Quantization
+Answer: B 
+
+10. In one sentence, summarize the overall importance of quantum mechanics.
+Answer: Quantum mechanics is a fundamental theory that has revolutionized our understanding of the physical world, leading to numerous technological advancements and pushing the boundaries of our understanding of the universe. 
+
+Answer Key:
+1. B 
+2. D 
+3. C 
+4. A 
+5. True 
+6. B 
+7. C 
+8. False 
+9. B 
+10. Quantum mechanics has led to numerous technological advancements and continues to push the boundaries of our understanding of the universe.

@@ -1,0 +1,93 @@
+MCQs:
+1. What are the two most abundant elements in the universe?
+A. Carbon and oxygen
+B. Hydrogen and helium
+C. Nitrogen and oxygen
+D. Hydrogen and nitrogen
+
+2. What is the process of two hydrogen atoms fusing together to form helium called?
+A. Nuclear fission
+B. Nuclear fusion
+C. Stellar fusion
+D. Stellar fission
+
+3. Which factor determines the stage of a star's life?
+A. Its size
+B. Its age
+C. Its mass
+D. Its distance from Earth
+
+4. Which type of star spends the majority of its lifetime on the main sequence?
+A. Low-mass stars
+B. High-mass stars
+C. Medium-mass stars
+D. All stars spend the same amount of time on the main sequence.
+
+5. What happens to a low-mass star when it runs out of hydrogen fuel?
+A. It explodes in a supernova.
+B. It shrinks into a white dwarf.
+C. It expands into a red giant.
+D. It becomes a neutron star.
+
+6. What type of stars will eventually explode in a supernova?
+A. Low-mass stars
+B. High-mass stars
+C. Medium-mass stars
+D. All stars will eventually explode in a supernova.
+
+7. What is left behind after a high-mass star explodes in a supernova?
+A. A white dwarf
+B. A black hole
+C. A neutron star
+D. A red giant
+
+8. What is the purpose of studying the life cycle of stars?
+A. To understand how planets form
+B. To learn about the evolution of the universe
+C. To determine the age of a star
+D. Both A and B
+
+9. What is the name of the stage in a star's life where it fuses heavier elements?
+A. The main sequence
+B. The red giant phase
+C. The supernova stage
+D. The supergiant stage
+
+10. How does the energy released during nuclear fusion counteract the force of gravity in a star?
+A. It creates a strong magnetic field.
+B. It produces radiation that pushes outward.
+C. It causes the star to spin faster.
+D. It creates a force of repulsion.
+
+True/False Questions:
+1. The beginning, middle, and end of a star's life cycle are similar to that of humans. (True/False)
+2. Nuclear fusion is the process of two helium atoms fusing together to form hydrogen. (True/False)
+3. High-mass stars spend the majority of their lifetime on the main sequence. (True/False)
+4. All stars eventually explode in a supernova. (True/False)
+
+Free-Response Questions:
+1. Compare and contrast the life cycle of low-mass stars and high-mass stars.
+2. Explain the significance of studying the life cycle of stars in understanding the universe.
+3. What determines the stage of a star's life, and how does this affect its evolution?
+
+Answer Key:
+MCQs:
+1. B
+2. B
+3. C
+4. A
+5. B
+6. B
+7. B
+8. D
+9. D
+10. B
+True/False:
+1. False
+2. False
+3. False
+4. False
+Free-Response:
+1. Low-mass stars spend the majority of their lifetime on the main sequence, while high-mass stars have a more violent life cycle, quickly using up their hydrogen fuel and moving on to fuse heavier elements.
+2. Studying the life cycle of stars helps us understand the formation of planets and the evolution of the universe. By studying the remains of old stars, we can also gain insights into the composition and history of our own solar system.
+3. The stage of a star's life is determined by its mass. Low-mass stars will spend more time on the main sequence, while high-mass stars will evolve more quickly and eventually explode in a supernova. This affects the elements present in a star and its ultimate fate.

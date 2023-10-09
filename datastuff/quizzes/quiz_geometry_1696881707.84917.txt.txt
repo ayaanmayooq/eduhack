@@ -1,0 +1,73 @@
+1. What branch of mathematics deals with the study of shapes, sizes, and positions of objects in space?
+A. Algebra
+B. Calculus
+C. Geometry
+D. Trigonometry
+
+2. Which criterion states that if two angles of one figure are congruent to two angles of the other figure, then the figures are similar?
+A. AA criterion
+B. SAS criterion
+C. Pythagorean theorem
+D. Scale factor
+
+3. The ratio of the corresponding sides of two similar figures is called the __________.
+A. scale factor
+B. congruent factor
+C. similarity factor
+D. similarity ratio
+
+4. In a right triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the other two sides. This theorem is known as the _________.
+A. AA criterion
+B. SAS criterion
+C. Pythagorean theorem
+D. Scale factor
+
+5. Which of the following is NOT a practical application of geometry?
+A. Architecture
+B. Engineering
+C. Physics
+D. Music
+
+6. In the image shown in the text, what is the scale factor of the larger triangle compared to the smaller triangle?
+A. 1
+B. 2
+C. 3
+D. 4
+
+7. Which of the following is NOT a property of similar figures?
+A. Scale factor
+B. Congruent angles
+C. Proportional sides
+D. Right angles
+
+True/False:
+8. Similar figures have the same shape but may differ in size.
+A. True
+B. False
+
+9. The SAS criterion states that if two angles of one figure are congruent to two angles of the other figure, then the figures are similar.
+A. True
+B. False
+
+10. The Pythagorean theorem is only applicable to right triangles.
+A. True
+B. False
+
+Free-response:
+11. Explain the concept of similarity and its importance in real-world applications.
+
+12. Give an example of a situation where knowing the scale factor of two similar figures would be useful.
+
+Answer key:
+1. C
+2. A
+3. A
+4. C
+5. D
+6. C
+7. D
+8. A
+9. B
+10. A
+11. Similarity is the relationship between two figures that have the same shape but may differ in size. This concept is important in real-world applications such as maps, blueprints, and scale models. By understanding similarity, we can accurately create and compare different objects and make predictions based on their properties.
+12. Knowing the scale factor of two similar figures would be useful in creating scale models or enlarging/reducing images. For example, if a scale model of a building has a scale factor of 1/4, every 1 cm on the model represents 4 cm in real life, making it easier for engineers to plan and construct the actual building.

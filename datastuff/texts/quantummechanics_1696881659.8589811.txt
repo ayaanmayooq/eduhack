@@ -1,0 +1,15 @@
+Subject: Quantum Mechanics
+Page Number: 58
+Content: Quantum Entanglement
+
+Quantum entanglement is a phenomenon in quantum mechanics where two or more particles become connected in such a way that the state of one particle is dependent on the state of the other, even at large distances. This concept was first introduced by Albert Einstein, Boris Podolsky, and Nathan Rosen and is often referred to as the EPR paradox. It plays a crucial role in understanding the behavior of quantum systems and has been a topic of extensive research in the field of quantum mechanics.
+
+At a fundamental level, particles in quantum mechanics are described by a wave function, which represents the probability of finding the particle in a certain state. When two particles are entangled, their wave functions become inseparably linked, meaning that any measurement performed on one particle will affect the state of the other. This effect is instantaneous, regardless of the distance between the two particles, and is not limited by the speed of light.
+
+One of the most mind-boggling aspects of quantum entanglement is the idea of superposition, where a particle can exist in multiple states simultaneously until it is measured. When two entangled particles are in a superposition, the state of one particle is not determined until the other is measured, even if the particles are separated by vast distances.
+
+To better understand this concept, imagine two entangled particles, A and B, being separated and taken to opposite ends of the universe. If a measurement is performed on particle A, causing it to collapse into a specific state, particle B will also instantaneously collapse into the corresponding state, regardless of the distance between them. This suggests that the particles are still connected in some way, even though they are physically separated.
+
+The concept of quantum entanglement has been proven through numerous experiments and has many real-world applications. For example, it is used in quantum cryptography, a method of secure communication, and in quantum teleportation, where information can be transferred between entangled particles.
+
+In summary, quantum entanglement is a bizarre yet intriguing phenomenon that plays a crucial role in understanding the behavior of particles in the quantum world. It challenges our classical understanding of cause and effect and continues to fascinate scientists and researchers in the field of quantum mechanics.

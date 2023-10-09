@@ -1,0 +1,11 @@
+Subject: Astronomy
+Page Number: 123
+Content: In this section, we will discuss the formation of stars and their life cycles. Stars are formed when clouds of gas and dust, known as nebulae, begin to collapse due to gravity. This collapse creates a dense core, known as a protostar.
+
+As the protostar continues to collapse, the temperature and pressure at its center increase, eventually triggering nuclear fusion. This is when hydrogen atoms fuse together to form helium, releasing a tremendous amount of energy. This energy creates the outward pressure that balances the inward pull of gravity, allowing the star to maintain its size and shape.
+
+The amount of time a star spends on the main sequence, where it fuses hydrogen into helium, depends on its mass. Smaller stars, known as red dwarfs, can have lifetimes of trillions of years. Meanwhile, larger stars, such as blue giants, may only last a few million years.
+
+Once a star exhausts its hydrogen fuel, it will enter a new stage in its life cycle. Smaller stars will become red giants, where they fuse helium into heavier elements like carbon and oxygen. Larger stars will become supernovae, exploding and releasing elements into the universe. Eventually, all stars will run out of fuel and either become white dwarfs, neutron stars, or black holes. The fate of a star depends on its mass and the amount of material left after its death.
+
+The life cycle of stars is an ongoing process that has shaped the universe we know today. By studying the various stages of a star's life, astronomers can gain a better understanding of the history and evolution of the cosmos. Through telescopes and other advanced technology, we continue to uncover new information about the vast and complex universe we live in.

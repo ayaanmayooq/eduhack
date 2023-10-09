@@ -1,0 +1,81 @@
+MCQs:
+1) Which type of rock is formed from molten magma or lava?
+a) Sedimentary
+b) Metamorphic
+c) Igneous
+d) None of the above
+
+2) What determines the size of crystals in igneous rocks?
+a) The amount of heat applied
+b) The cooling rate of magma or lava
+c) The number of minerals present
+d) The amount of pressure applied
+
+3) Which type of rock is formed from the accumulation and cementation of sediments?
+a) Metamorphic
+b) Igneous
+c) Sedimentary
+d) None of the above
+
+4) Fossils are most commonly found in which type of rock?
+a) Metamorphic
+b) Igneous
+c) Sedimentary
+d) None of the above
+
+5) What causes existing rocks to change physically and chemically to form metamorphic rocks?
+a) Heat and pressure
+b) Exposure to water
+c) Erosion from wind
+d) None of the above
+
+6) Foliated metamorphic rocks have:
+a) Bands or layers
+b) A uniform texture
+c) Both a and b
+d) None of the above
+
+7) What can geologists learn by studying rocks?
+a) Information about past environments
+b) The Earth's history
+c) Predictions about future geological events
+d) All of the above
+
+8) What type of rock is formed through the cooling and solidification of magma or lava underground?
+a) Intrusive igneous
+b) Extrusive igneous
+c) Sedimentary
+d) None of the above
+
+True/False:
+1) Igneous rocks are formed from the accumulation and cementation of sediments.
+2) Sedimentary rocks have a uniform texture.
+3) Metamorphic rocks are formed through intense heat and pressure.
+4) Fossils are not commonly found in sedimentary rocks.
+
+Free-response:
+1) Describe the formation processes of igneous, sedimentary, and metamorphic rocks.
+2) How do geologists use the study of rocks to gain insight into the Earth's history?
+3) What are the key characteristics of each type of rock and how can they be identified?
+
+Answer key:
+MCQs:
+1) c
+2) b
+3) c
+4) c
+5) a
+6) a
+7) d
+8) a
+
+True/False:
+1) False
+2) False
+3) True
+4) False
+
+Free-response:
+1) See content section of text.
+2) Geologists use the study of rocks to learn about past environments, the Earth's history, and to make predictions about future geological events.
+3) Igneous rocks are formed from cooling and solidification of magma or lava, sedimentary rocks are formed from the accumulation and cementation of sediments, and metamorphic rocks are formed from intense heat and pressure. Igneous rocks can be identified by their crystal size and texture, sedimentary rocks by their layers or fossils, and metamorphic rocks by their bands or lack thereof.

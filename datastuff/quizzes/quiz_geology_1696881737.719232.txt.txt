@@ -1,0 +1,79 @@
+MCQs:
+1. Which of the following is NOT a type of rock?
+a. Igneous
+b. Sedimentary
+c. Volcanic
+d. Metamorphic
+
+2. How are igneous rocks formed?
+a. Through compaction and cementation
+b. Through high heat and pressure
+c. Through erosion and weathering
+d. Through cooling and solidification of magma or lava
+
+3. Which of the following is an example of an igneous rock?
+a. Sandstone
+b. Marble
+c. Granite
+d. Shale
+
+4. Sedimentary rocks are formed by the compaction and cementation of:
+a. Magma
+b. Sediments
+c. Organic materials
+d. Gneiss
+
+5. How are metamorphic rocks formed?
+a. Through cooling and solidification of magma or lava
+b. Through compaction and cementation
+c. Through high heat and pressure
+d. Through erosion and weathering
+
+6. Which of the following is NOT a characteristic of sedimentary rocks?
+a. Large crystals
+b. Layered or stratified
+c. Formed from sediments
+d. Can contain fossils
+
+7. What can the different types of rocks tell us about the Earth's history?
+a. The types of plants and animals that lived in the past
+b. The processes that shape the Earth's surface
+c. The location of natural resources
+d. The names of important geologists
+
+8. What determines the texture of igneous rocks?
+a. The color of the minerals
+b. The rate of weathering
+c. The rate of cooling
+d. The amount of pressure
+
+True/False:
+1. Rocks are classified into two main categories: igneous and sedimentary.
+2. Metamorphic rocks are formed when sediments are deposited and compressed.
+3. Igneous rocks can only form on the Earth's surface.
+4. Sedimentary rocks can contain fossils.
+
+Free-response:
+1. Describe the formation of sedimentary rocks.
+2. Explain how the different types of rocks can provide insights into the Earth's history.
+
+Answer Key:
+MCQs:
+1. c
+2. d
+3. c
+4. b
+5. c
+6. a
+7. b
+8. c
+
+True/False:
+1. False
+2. False
+3. False
+4. True
+
+Free-response:
+1. Sedimentary rocks are formed when sediments, such as pieces of other rocks, minerals, or organic materials, are deposited and then compacted and cemented together by the weight of overlying layers. This can occur on land or underwater.
+2. Igneous, sedimentary, and metamorphic rocks can provide insights into the Earth's history by showing the processes that have shaped the Earth's surface and the types of materials that were present during different time periods. For example, sedimentary rocks containing fossils can indicate the types of plants and animals that lived in the past, while metamorphic rocks can provide evidence of ancient tectonic activity.

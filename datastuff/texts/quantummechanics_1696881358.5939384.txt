@@ -1,0 +1,13 @@
+Subject: Quantum Mechanics
+Page Number: 87
+Content: Quantum mechanics is a branch of physics that studies the behavior of matter and energy at the atomic and subatomic levels. It is a fundamental theory that has revolutionized our understanding of the physical world. At the heart of quantum mechanics is the concept of quantization, which states that certain physical quantities, such as energy and angular momentum, can only exist in discrete, quantized values.
+
+One of the key principles of quantum mechanics is the wave-particle duality. This states that particles, such as electrons, can exhibit both wave-like and particle-like behavior, depending on the experimental conditions. This concept was first proposed by physicist Louis de Broglie in 1924 and was later confirmed by the famous double-slit experiment.
+
+Another important concept in quantum mechanics is superposition. This refers to the ability of a quantum system to exist in multiple states simultaneously. This can be seen in the famous thought experiment of Schrödinger's cat, where a cat in a box can be both alive and dead until the box is opened and its state is observed.
+
+Quantum mechanics also introduced the concept of entanglement, where two or more particles can become correlated in such a way that the state of one particle is dependent on the state of the other, regardless of the distance between them. This phenomenon has been proven experimentally and is being studied for its potential applications in quantum computing.
+
+Diagrams such as Feynman diagrams are often used in quantum mechanics to represent interactions between particles. These diagrams help visualize complex mathematical calculations and aid in understanding the behavior of particles at the quantum level.
+
+Overall, quantum mechanics is a fascinating and essential subject for understanding the behavior of matter and energy at the smallest scales. Its principles have led to numerous technological advancements and continue to push the boundaries of our understanding of the universe.

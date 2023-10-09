@@ -1,0 +1,65 @@
+1) What are exoplanets?
+A) Planets that orbit the Sun
+B) Planets that orbit a star other than the Sun
+C) Planets that orbit a black hole
+D) Planets that orbit a moon
+
+2) When was the first confirmed exoplanet discovered?
+A) 1992
+B) 2000
+C) 1984
+D) 2010
+
+3) Which method measures the slight wobble of a star caused by an orbiting planet?
+A) Radial velocity method
+B) Transit method
+C) Direct imaging
+D) Gravitational method
+
+4) How does the transit method detect exoplanets?
+A) By measuring the brightness of a star
+B) By looking for dips in a star's brightness
+C) By measuring the gravitational pull of a planet
+D) By capturing images of exoplanets directly
+
+5) True or False: Exoplanets can only be gas giants.
+A) True
+B) False
+
+6) Which technique uses powerful telescopes to capture images of exoplanets directly?
+A) Radial velocity method
+B) Transit method
+C) Direct imaging
+D) Gravitational method
+
+7) True or False: We have discovered exoplanets that could potentially support life.
+A) True
+B) False
+
+8) Which of the following is NOT a method used to detect exoplanets?
+A) Gravitational method
+B) Transit method
+C) Direct imaging
+D) Spectroscopy method
+
+9) What is the role of technology in discovering exoplanets?
+A) It helps us measure the size of exoplanets
+B) It helps us identify the composition of exoplanets
+C) It helps us detect exoplanets that are smaller than Earth
+D) All of the above
+
+10) Free-response: Why is understanding exoplanets important in the field of astronomy?
+
+Answer: Understanding exoplanets allows us to expand our knowledge of the universe and our place within it. It also helps us to understand the diversity of planetary systems and potentially find habitable worlds beyond our own.
+
+Answer Key:
+1) B
+2) A
+3) A
+4) B
+5) B
+6) C
+7) A
+8) D
+9) D
+10) Understanding exoplanets expands our knowledge of the universe and our place within it. It also allows us to understand the diversity of planetary systems and potentially find habitable worlds beyond our own.

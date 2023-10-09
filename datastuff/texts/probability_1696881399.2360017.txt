@@ -1,0 +1,11 @@
+Subject: Probability
+Page Number: 35
+Content: Probability is a branch of mathematics that deals with the likelihood of events occurring. It is used to analyze and predict the outcomes of uncertain events. In other words, it helps us understand and quantify the chances of something happening.
+
+There are two types of probability: theoretical and experimental. Theoretical probability is based on mathematical calculations and assumes that all outcomes are equally likely. On the other hand, experimental probability is based on actual data collected from experiments or observations.
+
+One way to represent probability is through a probability tree diagram. This diagram shows all possible outcomes and their corresponding probabilities. For example, if you were to toss a coin, the probability tree diagram would show two branches, one for heads and one for tails, each with a probability of 0.5.
+
+Another important concept in probability is the concept of independent and dependent events. Independent events are events that do not affect each other. For example, rolling a dice and flipping a coin are independent events because the outcome of one does not affect the outcome of the other. On the other hand, dependent events are events that do affect each other. For example, drawing two cards from a deck without replacement is a dependent event because the probability of drawing the second card will be affected by the first card drawn.
+
+Understanding probability is essential in many real-life situations, from predicting the weather to analyzing stock market trends. By studying probability, we can make informed decisions and minimize risks.

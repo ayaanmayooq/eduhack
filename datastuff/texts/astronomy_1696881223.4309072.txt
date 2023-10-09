@@ -1,0 +1,9 @@
+Subject: Astronomy
+Page Number: 125
+Content: On this page, we will be discussing the formation of stars in the universe. Stars are formed when vast clouds of gas and dust, known as nebulae, collapse under their own gravity. As the nebulae begin to collapse, the temperature and pressure at the center increases, triggering nuclear fusion reactions. These reactions generate enormous amounts of energy, causing the nebulae to light up and form a protostar. As the protostar continues to grow, it becomes denser and hotter, eventually reaching a critical point where it begins to shine as a star.
+
+The type of star that forms depends on its mass. Smaller stars, known as red dwarfs, have masses less than half that of our sun. These stars have a longer lifespan and are much cooler than larger stars. On the other hand, larger stars, known as red giants, have masses two to eight times that of our sun. These stars have shorter lifespans but are much hotter and brighter. The most massive stars, known as supergiants, have masses over eight times that of our sun and are the brightest and hottest stars in the universe.
+
+Stars are classified based on their spectral type, which is determined by their surface temperature. The most common spectral types are O, B, A, F, G, K, and M. Our sun is a G-type star, which has a surface temperature of about 5,500 degrees Celsius. As stars age, they go through different stages, from being a protostar to a main sequence star, and eventually to a red giant or supergiant. The lifecycle of a star is determined by its mass.
+
+In the diagram below, you can see the different stages of a star's life, starting from the formation of a protostar to its death, either as a white dwarf, neutron star, or black hole. As we continue to study and explore the universe, we learn more about the fascinating process of star formation and the different types of stars that exist.

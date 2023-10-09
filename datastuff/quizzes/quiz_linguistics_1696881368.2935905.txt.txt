@@ -1,0 +1,99 @@
+MCQs:
+1) What is the basic word order in English?
+a) SOV
+b) SVO
+c) VSO
+d) VOS
+
+2) What are function words?
+a) Words that convey emotion
+b) Words that convey meaning
+c) Words that provide information
+d) Words that describe actions
+
+3) What is the purpose of function words?
+a) To create interesting sentences
+b) To connect content words
+c) To express emotion
+d) To emphasize key ideas
+
+4) Which of the following is not a function word?
+a) Noun
+b) Preposition
+c) Conjunction
+d) Article
+
+5) Which of the following is an example of a clause?
+a) The big, brown dog
+b) Playing in the park
+c) Singing loudly
+d) I went to the store.
+
+6) Which of the following is an example of an interrogative sentence?
+a) She loves to dance.
+b) The sky is blue.
+c) Can you pass me the salt?
+d) That is a beautiful painting!
+
+7) What does syntax refer to?
+a) Word order in a sentence
+b) The study of language
+c) The meaning of words
+d) The tone of speech
+
+8) Which of the following is not a sentence type?
+a) Declarative
+b) Imperative
+c) Exclamatory
+d) Descriptive
+
+9) What is the role of syntax in language?
+a) To provide emotion
+b) To organize words and phrases
+c) To create new words
+d) To change the meaning of words
+
+10) What is the relationship between phrases and clauses?
+a) A clause is a type of phrase
+b) A phrase is a type of clause
+c) They are unrelated
+d) They have the same meaning
+
+True/False:
+1) Syntax is not an important aspect of language.
+2) Different languages can have different word orders.
+3) Function words carry the main meaning in a sentence.
+4) A sentence can only have one phrase.
+
+Free-response:
+1) How does syntax impact our ability to communicate effectively in a language?
+2) Can you provide an example of a language with a different word order than English? How does this affect the syntax of the language?
+3) Describe the difference between a phrase and a clause.
+4) Why is it important to study sentence types in syntax?
+5) How do function words help with the clarity of a sentence? 
+
+Answer Key:
+MCQs:
+1) b) SVO
+2) c) Words that provide information
+3) b) To connect content words
+4) a) Noun
+5) d) I went to the store.
+6) c) Can you pass me the salt?
+7) a) Word order in a sentence
+8) d) Descriptive
+9) b) To organize words and phrases
+10) b) A phrase is a type of clause
+
+True/False:
+1) False
+2) True
+3) False
+4) False
+
+Free-response:
+1) Syntax impacts our ability to communicate effectively by providing structure and organization to our sentences, making them clear and easy to understand.
+2) In Japanese, the word order is SOV, which can impact the syntax of the language by requiring the verb to come at the end of the sentence.
+3) A phrase is a group of words that functions as a unit within a sentence, while a clause contains a subject and verb and can function as a sentence on its own.
+4) Studying sentence types in syntax is important because it helps us understand how different sentence structures convey different meanings and emotions.
+5) Function words provide important information about the relationships between words in a sentence, making the overall meaning clearer to the reader or listener.

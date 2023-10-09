@@ -1,0 +1,11 @@
+Subject: Quantum Mechanics
+Page Number: 117
+Content: Quantum Mechanics is a branch of physics that studies the behavior and interactions of particles on a microscopic scale. It is based on the principles of quantum theory, which explains the behavior of matter and energy at the atomic and subatomic levels.
+
+One of the key concepts in quantum mechanics is the wave-particle duality, which states that particles, such as electrons, can exhibit both wave-like and particle-like behavior. This concept was first proposed by French physicist Louis de Broglie in 1924 and was later confirmed by the famous double-slit experiment.
+
+Another important concept in quantum mechanics is superposition, which states that a particle can exist in multiple states at the same time until it is observed or measured. This phenomenon was famously demonstrated by Schrödinger's cat thought experiment.
+
+The mathematics of quantum mechanics involves the use of wave functions, which describe the probability of finding a particle in a particular state. These wave functions follow the rules of quantum mechanics, such as the Heisenberg uncertainty principle, which states that it is impossible to know both the position and momentum of a particle with absolute certainty.
+
+Quantum mechanics has led to many important discoveries and technologies, such as transistors, lasers, and nuclear power. It also plays a crucial role in understanding the behavior of atoms, molecules, and materials. However, its principles and concepts can be difficult to grasp, making it a challenging but fascinating subject to study.

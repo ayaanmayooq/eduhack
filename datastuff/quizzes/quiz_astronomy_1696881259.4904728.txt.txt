@@ -1,0 +1,74 @@
+MCQs:
+1) What type of object is a star?
+a) Asteroid
+b) Moon
+c) Planet
+d) Galaxies
+
+2) What determines the brightness and color of a star?
+a) Its size and temperature
+b) Its distance from Earth
+c) Its age
+d) Its shape
+
+3) What is the most common shape of galaxies?
+a) Spiral
+b) Elliptical
+c) Irregular
+d) Circular
+
+4) Which type of galaxy emits enormous amounts of energy?
+a) Spiral
+b) Elliptical
+c) Active
+d) Irregular
+
+5) Which type of object is characterized by a bright tail when approaching the Sun?
+a) Stars
+b) Moons
+c) Comets
+d) Planets
+
+6) Which type of object orbits around planets?
+a) Asteroids
+b) Moons
+c) Comets
+d) Galaxies
+
+7) What are asteroids made of?
+a) Gas
+b) Dust
+c) Ice
+d) Rock
+
+True/False:
+1) Stars are massive spheres of gas that produce their own light and heat.
+2) All galaxies have the same shape.
+3) Comets originate from the outer regions of the solar system.
+4) Moons orbit around stars.
+
+Free-response:
+1) Describe the defining features of a star.
+2) What are some examples of different types of galaxies?
+3) How do comets change as they approach the Sun?
+
+Answer key:
+MCQs:
+1) a
+2) a
+3) a
+4) c
+5) c
+6) b
+7) d
+
+True/False:
+1) True
+2) False
+3) True
+4) False
+
+Free-response:
+1) Stars are massive spheres of gas that produce their own light and heat through nuclear fusion. The size and temperature of a star determine its brightness and color.
+2) Examples of different types of galaxies include spiral, elliptical, and irregular.
+3) As comets approach the Sun, the heat causes the ice to vaporize, creating a bright tail. The closer they get, the more bright and visible the tail becomes.

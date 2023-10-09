@@ -1,0 +1,81 @@
+MCQs:
+1. Where do the majority of marine plants live?
+A. In the deep ocean
+B. In the photic zone
+C. Near the ocean floor
+D. In freshwater rivers
+
+2. What type of light is required for photosynthesis to occur in marine plants?
+A. Blue light
+B. Red light
+C. Ultraviolet light
+D. Sunlight
+
+3. What is the purpose of specialized pigments in marine plants?
+A. To absorb light energy
+B. To regulate gas exchange
+C. To help with reproduction
+D. To store glucose
+
+4. Which of the following is NOT a product of the light-dependent reactions in photosynthesis?
+A. Oxygen
+B. Protons
+C. Glucose
+D. Electrons
+
+5. Which stage of photosynthesis uses energy from the sun to produce glucose?
+A. Light-dependent reactions
+B. Light-independent reactions
+C. Calvin cycle
+D. Water splitting
+
+6. Which of the following is NOT an adaptation of marine plants?
+A. Thicker cell walls
+B. Larger stomata
+C. Ability to conserve water
+D. Specialized pigments
+
+7. How do marine plants prevent water loss in the ocean?
+A. By producing more oxygen
+B. By keeping their stomata open
+C. By having thicker cell walls
+D. By avoiding sunlight
+
+8. What is the purpose of the Calvin cycle in photosynthesis?
+A. To produce oxygen
+B. To split water molecules
+C. To store energy
+D. To absorb light energy
+
+True/False:
+1. Photosynthesis occurs only in terrestrial plants. (False)
+2. Marine plants use chlorophyll and carotenoids to absorb sunlight. (True)
+3. Light-independent reactions do not require light to occur. (False)
+4. Marine plants have smaller stomata to prevent water loss. (True)
+
+Free-response:
+1. Explain the two stages of photosynthesis in marine plants.
+2. Why are marine plants important for the ocean ecosystem?
+3. What adaptations do marine plants have to survive in the marine environment?
+
+Answer key:
+MCQs:
+1. B
+2. D
+3. A
+4. C
+5. B
+6. B
+7. C
+8. C
+
+True/False:
+1. False
+2. True
+3. False
+4. True
+
+Free-response:
+1. The two stages of photosynthesis in marine plants are light-dependent reactions and light-independent reactions. In the light-dependent reactions, light energy is used to split water molecules and produce oxygen, protons, and electrons. In the light-independent reactions, the energy from the sun is used to combine carbon dioxide, protons, and electrons to produce glucose.
+2. Marine plants are important for the ocean ecosystem because they produce oxygen, provide food, and play a crucial role in the carbon cycle. They are also a food source for other marine organisms.
+3. Marine plants have adapted to the marine environment by having thicker cell walls, smaller stomata, specialized pigments, and the ability to conserve water. These adaptations help them to survive and thrive in the salty and watery environment.

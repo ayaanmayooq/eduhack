@@ -1,0 +1,67 @@
+1) Which branch of mathematics deals with the likelihood of events occurring?
+A) Geometry
+B) Algebra
+C) Probability
+D) Trigonometry
+
+2) What is the main purpose of probability?
+A) To predict the outcomes of certain events
+B) To study shapes and figures
+C) To analyze historical data
+D) To solve equations
+
+3) Theoretical probability is based on:
+A) Actual data
+B) Mathematical calculations
+C) Random chance
+D) Predictions
+
+4) What is experimental probability based on?
+A) Data collected from experiments
+B) Theoretical calculations
+C) Random guesses
+D) Past experiences
+
+5) A probability tree diagram shows:
+A) The most likely outcome of an event
+B) The least likely outcome of an event
+C) All possible outcomes and their probabilities
+D) Impossible outcomes
+
+6) Independent events are events that:
+A) Do not affect each other
+B) Always occur together
+C) Have opposite outcomes
+D) Are impossible to predict
+
+7) Dependent events are events that:
+A) Are impossible to predict
+B) Do not affect each other
+C) Have opposite outcomes
+D) Affect each other's outcomes
+
+8) Probability can be applied to:
+A) Weather prediction
+B) Stock market trends
+C) Both A and B
+D) Neither A nor B
+
+9) True or False: Understanding probability is not important in real-life situations.
+A) True
+B) False
+
+10) Free-response: Give an example of a dependent event and explain why it is considered dependent.
+
+Answer: Drawing two cards from a deck without replacement is a dependent event because the probability of drawing the second card will be affected by the first card drawn. For example, if the first card drawn is a King, the probability of drawing another King will decrease since there is now one less King in the deck.
+
+Answer key:
+1) C
+2) A
+3) B
+4) A
+5) C
+6) A
+7) D
+8) C
+9) B
+10) Free-response question

@@ -1,0 +1,76 @@
+1) Which statement best describes the formation of stars?
+a) Stars are formed in large, dense clouds of dust and gas called galaxies
+b) Stars are formed when smaller stars merge together in space
+c) Stars are formed when gravity causes gas and dust to clump together in a nebula
+d) Stars are formed when comets collide with each other
+
+2) What is the main source of energy for stars on the main sequence phase?
+a) Nuclear fusion of helium atoms
+b) Nuclear fusion of hydrogen atoms
+c) Gravitational force
+d) Cosmic radiation
+
+3) What is the phase a star enters when it runs out of hydrogen fuel in its core?
+a) Main sequence
+b) Red giant
+c) Planetary nebula
+d) Supernova
+
+4) What happens to a star's outer layers when it becomes a red giant?
+a) They expand and cool down
+b) They shrink and heat up
+c) They remain the same
+d) They explode
+
+5) What is the final stage of life for a star similar in mass to the Sun?
+a) Neutron star
+b) Black hole
+c) White dwarf
+d) Planetary nebula
+
+6) What is the final stage of life for a star much larger than the Sun?
+a) White dwarf
+b) Black hole
+c) Neutron star
+d) Supernova
+
+7) Which statement is true about a white dwarf?
+a) It is a hot, dense core of a star
+b) It is a small, cool star
+c) It is a small, hot star
+d) It is a large, cool star
+
+8) True or False: A white dwarf will eventually fade away into a black hole.
+a) True
+b) False
+
+9) What happens to a star's gravity as it runs out of fuel in its core?
+a) It increases
+b) It decreases
+c) It remains the same
+d) It disappears
+
+10) Free-Response: Describe the main sequence phase of a star's life.
+Answer: The main sequence phase is the longest phase in a star's life where it is in a stable state, fusing hydrogen atoms in its core to form helium. The release of energy from this fusion creates an outward pressure that balances the star's gravity, keeping it in a stable state.
+
+True/False:
+1) Gravity is the main force that holds a star together.
+Answer: True
+2) All stars go through the same stages in their life cycle.
+Answer: False
+3) A planetary nebula is formed when a star explodes.
+Answer: False
+4) A red giant is smaller and cooler than a white dwarf.
+Answer: False
+
+Answer key:
+1) c) Stars are formed when gravity causes gas and dust to clump together in a nebula
+2) b) Nuclear fusion of hydrogen atoms
+3) b) Red giant
+4) a) They expand and cool down
+5) c) White dwarf
+6) d) Supernova
+7) a) It is a hot, dense core of a star
+8) b) False
+9) a) It increases
+10) See answer in free-response section

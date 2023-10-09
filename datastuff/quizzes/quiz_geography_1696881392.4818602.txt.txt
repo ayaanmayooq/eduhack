@@ -1,0 +1,102 @@
+MCQs:
+1. What does population density measure?
+A) The number of people living in a certain area
+B) The number of resources available in a certain area
+C) The number of natural disasters in a certain area
+D) The number of animal species in a certain area
+
+2. What is one of the key factors that influences population density?
+A) Climate change 
+B) Availability of resources 
+C) Social media 
+D) Political stability 
+
+3. Which factor is NOT mentioned as an influence on population density?
+A) Climate 
+B) Topography 
+C) Social norms 
+D) Economy 
+
+4. Which color on a population density map indicates the highest population density?
+A) Blue 
+B) Green 
+C) Yellow 
+D) Darker shades of color
+
+5. True or False: Areas with limited resources tend to have a higher population density.
+A) True 
+B) False 
+
+6. What type of terrain may have a lower population density due to the challenges it presents for human settlement?
+A) Flat land 
+B) Desert 
+C) Mountainous 
+D) Coastal 
+
+7. Which factor is NOT mentioned as an influence on population density?
+A) Education 
+B) Topography 
+C) Economy 
+D) Gender 
+
+8. What does a population density map use to represent different ranges of population density?
+A) Shapes 
+B) Numbers 
+C) Colors 
+D) Letters 
+
+9. True or False: Population density is not affected by economic factors.
+A) True 
+B) False 
+
+10. What is a population density map?
+A) A map that shows the number of landforms in an area 
+B) A map that shows the temperature in different regions 
+C) A map that shows the number of people living in a particular area 
+D) A map that shows the location of different animal species 
+
+True/False:
+1. Areas with flat land and mild climates tend to have a lower population density.
+A) True 
+B) False 
+
+2. Population density is only influenced by natural factors.
+A) True 
+B) False 
+
+3. Population density maps use different colors to represent different ranges of population density.
+A) True 
+B) False 
+
+4. Population density is not important in the field of geography.
+A) True 
+B) False
+
+Free-response:
+1. Discuss two factors that can influence population density.
+2. How can a population density map be used to understand the distribution of people across a region?
+3. In your own words, define population density and explain why it is an important concept in geography.
+
+Answer key:
+MCQs:
+1. A 
+2. B 
+3. D 
+4. D 
+5. B 
+6. C 
+7. D 
+8. C 
+9. B 
+10. C 
+
+True/False:
+1. B 
+2. B 
+3. A 
+4. B 
+
+Free-response:
+1. Two factors that can influence population density are availability of resources and economic factors. 
+2. A population density map can visually show the distribution of people across a region by using different colors to represent different ranges of population density. 
+3. Population density is the number of people living in a certain area per square mile or kilometer, and it is an important concept in geography as it helps us understand the distribution of people across the planet and its impact on the environment and resources.

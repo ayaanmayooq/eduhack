@@ -1,0 +1,81 @@
+Multiple Choice Questions:
+1. Which of the following is the primary source of energy for photosynthesis?
+a. Water
+b. Carbon dioxide
+c. Oxygen
+d. Light 
+
+2. What are the main components involved in photosynthesis?
+a. Water, oxygen, and carbon dioxide
+b. Light, oxygen, and ATP
+c. Light, water, and carbon dioxide
+d. Chlorophyll, oxygen, and glucose 
+
+3. Where does photosynthesis primarily occur in plant cells?
+a. Mitochondria
+b. Nucleus
+c. Cytoplasm
+d. Chloroplasts 
+
+4. What is the byproduct of photosynthesis that is released into the atmosphere?
+a. Glucose
+b. Water
+c. Oxygen
+d. Carbon dioxide 
+
+5. What is the role of light in photosynthesis?
+a. To convert water into oxygen
+b. To provide energy for the production of glucose
+c. To release carbon dioxide into the atmosphere
+d. To break down glucose into smaller molecules 
+
+6. Which molecule is produced during photosynthesis and is essential for the next step of the process?
+a. ATP
+b. Glucose
+c. NADPH
+d. Water 
+
+7. Which external factors can affect the efficiency of photosynthesis?
+a. Light intensity and availability of water
+b. Temperature and availability of carbon dioxide
+c. Nutrient availability and temperature
+d. All of the above 
+
+8. What is the series of reactions known as that produce glucose during photosynthesis?
+a. The Calvin cycle
+b. The Krebs cycle
+c. The electron transport chain
+d. The citric acid cycle 
+
+True/False Questions:
+1. The primary source of energy for photosynthesis is carbon dioxide. (False)
+2. The byproduct of photosynthesis is oxygen. (True)
+3. Photosynthesis takes place in the mitochondria of plant cells. (False)
+4. The efficiency of photosynthesis is not affected by external factors. (False)
+
+Free-Response Questions:
+1. Describe the role of light in photosynthesis.
+2. How does water contribute to the production of glucose during photosynthesis?
+3. Explain how carbon dioxide is taken in and used during the process of photosynthesis.
+
+Answer Key:
+Multiple Choice:
+1. d
+2. c
+3. d
+4. c
+5. b
+6. c
+7. d
+8. a
+
+True/False:
+1. False
+2. True
+3. False
+4. False
+
+Free-Response:
+1. Light is absorbed by pigments in the chloroplasts and is used to excite electrons, which then go through a series of reactions to produce ATP and NADPH.
+2. Water is split into hydrogen ions and oxygen, and the hydrogen ions are used in the production of ATP and NADPH, which are necessary for the production of glucose.
+3. Carbon dioxide is taken in through small openings on the leaves called stomata and is combined with ATP and NADPH to produce glucose through the Calvin cycle.

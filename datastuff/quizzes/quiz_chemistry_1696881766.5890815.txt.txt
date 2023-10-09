@@ -1,0 +1,88 @@
+Multiple Choice Questions:
+1. What is the substance present in the largest amount in a solution?
+A. Solute
+B. Solvent
+C. Solution
+D. Solubility
+Answer: B. Solvent
+
+2. Which of the following is NOT a factor that affects solubility?
+A. Temperature
+B. Pressure
+C. Color
+D. Nature of solute and solvent
+Answer: C. Color
+
+3. Which of the following statements is true?
+A. Solubility increases as temperature decreases.
+B. Solubility increases as temperature increases.
+C. Solubility decreases as temperature increases.
+D. Temperature does not affect solubility.
+Answer: B. Solubility increases as temperature increases.
+
+4. The maximum amount of solute that can be dissolved in a given amount of solvent at a specific temperature and pressure is known as _____.
+A. Solution
+B. Solvent
+C. Solute
+D. Solubility limit
+Answer: D. Solubility limit
+
+5. Which of the following solvents is better at dissolving polar substances?
+A. Water
+B. Oil
+C. Vinegar
+D. Alcohol
+Answer: A. Water
+
+6. What do solubility curves represent?
+A. The relationship between solute and solvent
+B. The relationship between temperature and pressure
+C. The relationship between solubility and time
+D. The relationship between temperature and solubility limit
+Answer: D. The relationship between temperature and solubility limit
+
+7. In which field is understanding solubility important?
+A. Psychology
+B. Biology
+C. Physics
+D. Pharmaceuticals
+Answer: D. Pharmaceuticals
+
+True/False Questions:
+8. A solution can contain only one substance. True/False
+Answer: False
+
+9. Solubility is the ability of a substance to dissolve in a particular solvent. True/False
+Answer: True
+
+10. Nonpolar substances are better at dissolving in polar solvents. True/False
+Answer: False
+
+11. Solubility is not affected by changes in pressure. True/False
+Answer: False
+
+Free-Response Questions:
+12. Explain the difference between solute and solvent in a solution.
+Answer: A solute is the substance being dissolved in a solution, while a solvent is the substance present in the largest amount. The solute can be a solid, liquid, or gas, while the solvent is usually a liquid.
+
+13. How does temperature affect the solubility of solids and gases in liquids?
+Answer: Generally, as temperature increases, the solubility of solids in liquids also increases, while the solubility of gases in liquids decreases. This is because as temperature rises, the particles in the solvent gain more energy and can break apart the bonds of the solute more easily. However, this trend may not apply to all substances and can vary depending on the nature of the solute and solvent.
+
+14. What is the principle of like dissolves like and how does it affect solubility?
+Answer: The principle of like dissolves like states that substances with similar polarities are more likely to dissolve in each other. This means that polar substances are better at dissolving in polar solvents, while nonpolar substances are better at dissolving in nonpolar solvents. This concept affects solubility because it explains why certain substances dissolve more easily in certain solvents, as their polarities are similar. 
+
+Answer Key: 
+1. B
+2. C
+3. B
+4. D
+5. A
+6. D
+7. D
+8. False
+9. True
+10. False
+11. False
+12. A solute is the substance being dissolved in a solution, while a solvent is the substance present in the largest amount. The solute can be a solid, liquid, or gas, while the solvent is usually a liquid.
+13. Generally, as temperature increases, the solubility of solids in liquids also increases, while the solubility of gases in liquids decreases. This is because as temperature rises, the particles in the solvent gain more energy and can break apart the bonds of the solute more easily. However, this trend may not apply to all substances and can vary depending on the nature of the solute and solvent.
+14. The principle of like dissolves like states that substances with similar polarities are more likely to dissolve in each other. This means that polar substances are better at dissolving in polar solvents, while nonpolar substances are better at dissolving in nonpolar solvents. This concept affects solubility because it explains why certain substances dissolve more easily in certain solvents, as their polarities are similar.

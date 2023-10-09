@@ -1,0 +1,67 @@
+Multiple Choice:
+1. According to quantum mechanics, particles are described by ___________.
+A. Waves
+B. Laws of motion
+C. Magnetic fields
+D. Chemical reactions
+
+2. The uncertainty principle states that it is impossible to know both the ___________ of a particle with absolute certainty.
+A. Position and momentum
+B. Mass and velocity
+C. Color and charge
+D. Spin and energy
+
+3. Which thought experiment is often used to illustrate the uncertainty principle?
+A. Newton's apple
+B. Archimedes' Eureka
+C. Schrödinger's cat
+D. Einstein's elevator
+
+4. Which concept in quantum mechanics explains the behavior of particles as both waves and particles?
+A. Wave-particle duality
+B. Uncertainty principle
+C. Superposition
+D. Double-slit experiment
+
+5. The famous double-slit experiment shows that a single particle can create which pattern?
+A. Linear
+B. Circular
+C. Interference
+D. Random
+
+6. Quantum mechanics has revolutionized our understanding of which particles?
+A. Macroscopic
+B. Subatomic
+C. Bacterial
+D. Planetary
+
+7. What happens to the wave function when an observation is made?
+A. It becomes more accurate
+B. It collapses
+C. It expands
+D. It becomes static
+
+True/False:
+1. In quantum mechanics, particles are described as solid objects. (False)
+2. The uncertainty principle states that it is impossible to know the position or momentum of a particle with absolute certainty. (True)
+3. The cat in Schrödinger's cat experiment exists in a state of superposition. (True)
+4. The double-slit experiment shows that particles can only behave like waves. (False)
+
+Free-Response:
+1. Explain the concept of wave-particle duality in quantum mechanics.
+
+2. Give an example of how the uncertainty principle is demonstrated in everyday life.
+
+ANSWER KEY:
+1. A
+2. A
+3. C
+4. A
+5. C
+6. B
+7. B
+8. False
+9. True
+10. False
+11. Wave-particle duality is the concept in quantum mechanics that describes how particles can exhibit both wave-like and particle-like behavior. This means that particles can have characteristics of both waves and solid objects, depending on the experiment being conducted.
+12. One example of how the uncertainty principle is demonstrated in everyday life is in the measurement of a particle's position and momentum. According to the principle, it is impossible to know both properties with absolute certainty, so there will always be some level of uncertainty in the measurement. This can be seen in the fuzziness of an image taken with a camera or the blurriness of a moving object in a photograph.

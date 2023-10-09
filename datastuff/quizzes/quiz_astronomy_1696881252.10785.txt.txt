@@ -1,0 +1,81 @@
+MCQs:
+1. Who discovered four large moons orbiting around Jupiter?
+A. Isaac Newton
+B. Nicolaus Copernicus
+C. Galileo Galilei
+D. Albert Einstein
+
+2. How many planets are in the Solar System?
+A. 5
+B. 8
+C. 10
+D. 12
+
+3. Which of the following is NOT an inner planet?
+A. Earth
+B. Mercury
+C. Neptune
+D. Mars
+
+4. Which of the following is NOT a gas giant?
+A. Saturn
+B. Jupiter
+C. Mars
+D. Uranus
+
+5. The Sun is mainly composed of which two elements?
+A. Hydrogen and helium
+B. Oxygen and carbon
+C. Nitrogen and hydrogen
+D. Helium and nitrogen
+
+6. What process generates the Sun's energy?
+A. Nuclear fission
+B. Nuclear fusion
+C. Photosynthesis
+D. Combustion
+
+7. What are smaller objects in the Solar System such as comets, asteroids, and dwarf planets called?
+A. Moons
+B. Stars
+C. Celestial bodies
+D. Planets
+
+8. Which planet is at the center of the Solar System?
+A. Earth
+B. Mars
+C. Jupiter
+D. Sun
+
+True/False:
+1. The discovery of four large moons orbiting around Jupiter supported the Ptolemaic model. (False)
+2. The four outer planets are mainly composed of gas and ice. (True)
+3. The Sun is made up of mostly oxygen and carbon. (False)
+4. Dwarf planets are larger than planets. (False)
+
+Free-Response:
+1. How did Galileo's discovery about Jupiter's moons challenge the existing belief about the Solar System?
+2. Explain the difference between the inner and outer planets.
+3. What is the Sun's role in the Solar System?
+ 
+Answer key:
+MCQs:
+1. C
+2. B
+3. C
+4. C
+5. A
+6. B
+7. C
+8. D
+
+True/False:
+1. False
+2. True
+3. False
+4. False
+
+Free-Response:
+1. Galileo's discovery of four large moons orbiting around Jupiter challenged the belief that all celestial objects revolved around the Earth, supporting the Copernican model that states that the Earth and other planets revolve around the Sun.
+2. The inner planets are smaller, denser, and composed of mostly rock and metal. The outer planets are larger, less dense, and mainly composed of gas and ice.
+3. The Sun provides heat, light, and energy to all the planets in the Solar System. Its energy is generated through nuclear fusion, where hydrogen atoms combine to form helium, releasing a tremendous amount of energy.

@@ -1,0 +1,86 @@
+MCQs:
+1. What is the range of the correlation coefficient?
+A. -1 to 1
+B. 0 to 1
+C. -1 to 0
+D. -1 to 2
+
+2. What does a correlation coefficient of 0 indicate?
+A. Strong positive correlation
+B. Weak positive correlation
+C. No correlation
+D. Strong negative correlation
+
+3. Which of the following is NOT used in the formula for calculating the correlation coefficient?
+A. n
+B. Σxy
+C. Σz
+D. Σx^2
+
+4. When calculating the correlation coefficient, what does a negative value of r indicate?
+A. Strong positive correlation
+B. Moderate positive correlation
+C. No correlation
+D. Moderate negative correlation
+
+5. In the example given, what is the value of Σx?
+A. 20
+B. 450
+C. 60
+D. 900
+
+6. What does a correlation coefficient of 1 indicate?
+A. Perfect positive correlation
+B. Perfect negative correlation
+C. No correlation
+D. Moderate positive correlation
+
+7. What does a correlation coefficient of -1 indicate?
+A. Perfect positive correlation
+B. Perfect negative correlation
+C. No correlation
+D. Moderate negative correlation
+
+True/False:
+8. The correlation coefficient can range from -2 to 2.
+A. True
+B. False
+
+9. The correlation coefficient can be calculated using only the sum of x and y values.
+A. True
+B. False
+
+10. A correlation coefficient of 0.8 indicates a stronger correlation than a coefficient of -0.5.
+A. True
+B. False
+
+Free-response:
+11. Explain the meaning of a correlation coefficient of -4.
+Answer:
+
+A correlation coefficient of -4 indicates a very strong negative correlation between the two variables. This means that as one variable increases, the other decreases in a very strong and consistent manner.
+
+12. How does the correlation coefficient help us understand the relationship between variables?
+Answer:
+
+The correlation coefficient quantifies the strength and direction of the relationship between two variables, allowing us to understand the degree to which they are related. A high positive or negative value of r indicates a strong relationship, while a value close to 0 indicates no relationship. The sign of the coefficient also tells us the direction of the relationship - positive for a direct relationship and negative for an inverse relationship. 
+
+13. Can two variables be perfectly correlated with a coefficient of 0?
+Answer:
+
+No, a correlation coefficient of 0 indicates no correlation between the variables. In order for two variables to be perfectly correlated, the coefficient would have to be either 1 or -1. 
+
+Answer key:
+1. A
+2. C
+3. C
+4. D
+5. C
+6. A
+7. B
+8. B
+9. B
+10. A
+11. A very strong negative correlation
+12. The correlation coefficient helps us understand the strength and direction of the relationship between two variables.
+13. No

@@ -1,0 +1,14 @@
+Subject: Quantum Mechanics
+Page Number: 137
+
+Content: Quantum entanglement is a phenomenon that occurs when two or more particles become connected in such a way that the state of one particle is dependent on the state of the other, even if they are separated by large distances. This was first described by Albert Einstein as spooky action at a distance.
+
+The concept of quantum entanglement is a fundamental aspect of quantum mechanics and has been studied extensively by physicists. It has also sparked debates and discussions about the nature of reality and the limitations of our current understanding of the universe.
+
+One of the most famous thought experiments related to quantum entanglement is the EPR paradox proposed by Einstein, Podolsky, and Rosen in 1935. It involves two entangled particles, with opposite spins, being separated and observed at a distance. According to quantum mechanics, the measurement of one particle's spin will immediately determine the spin of the other particle, regardless of the distance between them.
+
+This strange behavior has been confirmed through numerous experiments, including the famous Bell test experiments in the 1980s. These experiments showed that the entangled particles are not communicating with each other in a traditional sense, but rather they are connected in a way that defies our classical understanding of physics.
+
+Quantum entanglement has also led to the development of technologies such as quantum cryptography, which uses the principles of entanglement to create unbreakable codes.
+
+While the phenomenon of quantum entanglement may seem bizarre and counterintuitive, it is an important aspect of quantum mechanics that continues to be studied and explored by scientists. It challenges our understanding of the universe and pushes us to think outside of the traditional laws of physics.

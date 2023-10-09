@@ -1,0 +1,71 @@
+1) What holds galaxies together?
+a) Electromagnetic forces
+b) Gravity
+c) Nuclear fusion
+d) Dark matter
+
+2) Which type of galaxy is the Milky Way?
+a) Irregular
+b) Elliptical
+c) Spiral
+d) Primordial
+
+3) What is the name of the theory for how galaxies form?
+a) Hierarchical model
+b) Big Bang theory
+c) Ptolemaic model
+d) Copernican system
+
+4) What drives the formation of galaxies in the hierarchical model?
+a) Nuclear fusion
+b) Electromagnetic forces
+c) Gravity
+d) Dark energy
+
+5) Primordial galaxies are thought to have formed from a large concentration of matter in what stage of the universe?
+a) Early
+b) Middle
+c) Late
+d) End
+
+6) What is the term for when galaxies change shape and structure over time?
+a) Evolution
+b) Accretion
+c) Inflation
+d) Fusion
+
+7) What can cause a galaxy to experience a burst of star formation?
+a) Gas accretion
+b) Dark matter
+c) Nuclear fusion
+d) Gravity from a black hole
+
+8) True or False: Galaxies are static, unchanging objects.
+a) True
+b) False
+
+9) Which of the following is not a factor that influences the evolution of galaxies?
+a) Gas accretion
+b) Star formation
+c) Planetary motion
+d) Mergers with other galaxies
+
+10) Free-response: Describe the hierarchical model for galaxy formation.
+
+11) Free-response: How is the evolution of galaxies different from their formation?
+
+12) Free-response: What role does gravity play in the formation and evolution of galaxies?
+
+Answer Key: 
+1) b) Gravity
+2) c) Spiral
+3) a) Hierarchical model
+4) c) Gravity
+5) a) Early
+6) a) Evolution
+7) a) Gas accretion
+8) b) False
+9) c) Planetary motion
+10) The hierarchical model suggests that smaller structures merge over time to form larger structures, eventually leading to the formation of galaxies.
+11) The formation of galaxies is a process of merging smaller structures, while the evolution of galaxies involves factors such as gas accretion, star formation, and mergers with other galaxies.
+12) Gravity is the driving force behind the formation of galaxies, as each structure attracts and pulls in neighboring structures. It also plays a role in the evolution of galaxies, influencing factors such as gas accretion and mergers with other galaxies.

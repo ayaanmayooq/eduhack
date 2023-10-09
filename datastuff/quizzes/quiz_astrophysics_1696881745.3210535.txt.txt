@@ -1,0 +1,89 @@
+1) What is astrophysics?
+A) The study of physical properties and processes on Earth
+B) The study of celestial objects and phenomena
+C) The study of marine life
+D) The study of human physiology
+
+2) What is the role of gravity in astrophysics?
+A) It affects the composition of stars
+B) It creates the orbits of planets
+C) It is responsible for the formation of galaxies
+D) All of the above
+
+3) Which of the following best describes gravity?
+A) The force that repels two objects from each other
+B) The force that pulls two objects towards each other
+C) The force that creates light in stars
+D) The force that causes planets to rotate
+
+4) What determines the strength of gravity between two objects?
+A) Mass and distance
+B) Temperature and density
+C) Velocity and acceleration
+D) Color and size
+
+5) If the force of gravity between two objects suddenly disappeared, what would happen?
+A) The objects would collide
+B) The objects would fly away from each other
+C) The objects would stay in the same position
+D) The objects would explode
+
+6) How does gravity contribute to the formation of stars?
+A) It causes gases to condense and heat up
+B) It creates a strong magnetic field
+C) It forms a protective shield around the star
+D) It causes nuclear fusion reactions
+
+7) What role does gravity play in understanding the structure of the universe?
+A) It helps us measure the distance between galaxies
+B) It determines the color of celestial bodies
+C) It helps us map the distribution of matter in the universe
+D) It creates the atmosphere on Earth
+
+8) True or False: Mathematical models and simulations are not used in studying the effects of gravity in astrophysics.
+A) True
+B) False
+
+9) True or False: Gravity has no impact on the motion of celestial objects.
+A) True
+B) False
+
+10) Which of the following is NOT a use of gravity in astrophysics?
+A) Studying the formation of stars and planets
+B) Mapping the distribution of matter in the universe
+C) Creating new celestial bodies
+D) Making predictions about the behavior of celestial bodies
+
+True/False:
+1) Astrophysics is the study of the physical properties and processes of celestial objects and phenomena.
+2) Gravity is the force that attracts two objects towards each other.
+3) The strength of gravity depends on mass and distance.
+4) If gravity suddenly disappeared, the Earth would remain in its stable orbit around the sun.
+
+Free-response:
+1) Explain the role of gravity in the formation of stars.
+2) How do mathematical models and simulations contribute to our understanding of gravity in astrophysics?
+3) How does studying the gravitational pull of celestial bodies help us understand the distribution of matter in the universe?
+
+Answer Key:
+1) B
+2) D
+3) B
+4) A
+5) B
+6) A
+7) C
+8) B
+9) B
+10) C
+
+True/False:
+1) True
+2) True
+3) True
+4) False (The Earth would fly off into space without the force of gravity)
+
+Free-response:
+1) Gravity causes a cloud of gas and dust to collapse, forming a protostar. As the protostar grows, gravity becomes stronger and leads to nuclear fusion, creating a star.
+2) Mathematical models and simulations allow researchers to predict and test their theories about the effects of gravity on celestial bodies. They also provide a deeper understanding of the universe and its laws.
+3) The gravitational pull of galaxies and other celestial bodies can be used to map the distribution of matter in the universe and provide insight into its composition and evolution.

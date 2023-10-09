@@ -1,0 +1,82 @@
+MCQs:
+1. What holds galaxies together?
+A. Gravity
+B. Dark matter
+C. Solar winds
+D. Black holes
+
+2. Which type of galaxy is characterized by its spiral arms?
+A. Elliptical galaxy
+B. Irregular galaxy
+C. Dwarf galaxy
+D. Spiral galaxy
+
+3. Which galaxy is our own galaxy, the Milky Way, an example of?
+A. Spiral galaxy
+B. Irregular galaxy
+C. Dwarf galaxy
+D. Elliptical galaxy
+
+4. What is the most common type of galaxy in the universe?
+A. Spiral galaxy
+B. Elliptical galaxy
+C. Irregular galaxy
+D. Dwarf galaxy
+
+5. Which type of galaxy is mainly composed of older stars?
+A. Spiral galaxy
+B. Elliptical galaxy
+C. Irregular galaxy
+D. Dwarf galaxy
+
+6. What are the Large and Small Magellanic Clouds, satellite galaxies of the Milky Way?
+A. Spiral galaxies
+B. Elliptical galaxies
+C. Irregular galaxies
+D. Dwarf galaxies
+
+7. What is the shape of an elliptical galaxy?
+A. Spiral
+B. Oval-shaped
+C. Irregular
+D. Undefined
+
+8. What is the main difference between spiral and irregular galaxies?
+A. Number of stars
+B. Presence of gas and dust
+C. Age of stars
+D. Shape
+
+9. What is the origin of irregular galaxies?
+A. Merger of smaller galaxies
+B. Intense star formation
+C. Satellite galaxies
+D. None of the above
+
+10. What is the purpose of studying galaxies?
+A. To understand the structure and evolution of the universe
+B. To study the effects of dark matter
+C. To discover new planets
+D. To develop space travel technology
+
+True/False:
+1. Galaxies are made up of stars, gas, and dust held together by gravity. (True)
+2. The Milky Way is an example of an irregular galaxy. (False)
+3. Dwarf galaxies are larger and brighter than other types of galaxies. (False)
+4. The study of galaxies helps us understand the history of the universe. (True)
+
+Free-response:
+1. Briefly explain the four types of galaxies.
+2. Why is the study of galaxies important?
+3. What is the main difference between spiral and elliptical galaxies?
+4. How do irregular galaxies form?
+5. What advancements in technology have helped us discover new galaxies?
+
+Answer Key: 
+MCQs: 1. A 2. D 3. A 4. A 5. B 6. C 7. B 8. B 9. B 10. A 
+True/False: 1. True 2. False 3. False 4. True 
+Free-response: 1. The four types of galaxies are spiral, elliptical, irregular, and dwarf. Spiral galaxies have spiral arms and a central bulge, elliptical galaxies are smooth and oval-shaped, irregular galaxies lack a defined shape, and dwarf galaxies are smaller and dim compared to other types. 
+2. The study of galaxies is important because it helps us understand the structure and evolution of the universe. By studying their shapes, sizes, and movements, we can piece together the history of the cosmos. 
+3. The main difference between spiral and elliptical galaxies is their shape and composition. Spiral galaxies have spiral arms and contain gas and dust, while elliptical galaxies are smooth and contain mainly old stars and little to no gas or dust. 
+4. Irregular galaxies can form through gravitational interactions with other galaxies or intense star formation. 
+5. Advancements in technology such as telescopes and satellites have helped us discover new galaxies by allowing us to observe and study them in greater detail.

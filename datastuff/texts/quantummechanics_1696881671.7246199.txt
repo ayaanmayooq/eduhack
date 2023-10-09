@@ -1,0 +1,11 @@
+Subject: Quantum Mechanics
+Page Number: 87
+Content: In quantum mechanics, particles are described by wave functions, which contain all the information about the particle's position, momentum, and energy. This wave function can be represented by a wave-like curve, which can be visualized in a three-dimensional space.
+
+One of the key principles in quantum mechanics is the uncertainty principle, which states that it is impossible to know both the position and momentum of a particle with absolute certainty. This is due to the fact that by measuring one property, the act of measurement disturbs the other property, making it impossible to have precise knowledge of both simultaneously.
+
+This concept is often illustrated through the famous thought experiment of Schrödinger's cat. In this scenario, a cat is placed in a sealed box with a vial of poison that will be released if a radioactive atom decays. According to quantum mechanics, the cat exists in a state of superposition, meaning it is both alive and dead at the same time, until an observation is made, collapsing the wave function and determining the cat's fate.
+
+Another important concept in quantum mechanics is the wave-particle duality, which states that particles can exhibit both wave-like and particle-like behavior. This is evidenced by the famous double-slit experiment, where a single particle can pass through two slits simultaneously and create an interference pattern, similar to that of waves.
+
+Quantum mechanics has revolutionized our understanding of the fundamental particles that make up the universe, and continues to spark new discoveries and technologies in the field of physics. Understanding its principles is crucial for anyone interested in the workings of the microscopic world.

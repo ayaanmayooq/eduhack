@@ -1,0 +1,82 @@
+Quiz:
+
+Multiple Choice:
+
+1) Which of the following is NOT a celestial body?
+a) Star
+b) Moon
+c) Ocean
+d) Planet
+
+2) What is the largest and most massive object in our solar system?
+a) Earth
+b) Mars
+c) Sun
+d) Moon
+
+3) What is the term for massive collections of stars, gas, and dust held together by gravity?
+a) Galaxies
+b) Planets
+c) Nebulae
+d) Asteroids
+
+4) What is the process by which stars emit energy through nuclear fusion?
+a) Combustion
+b) Fission
+c) Fusion
+d) Radiation
+
+5) Which tool do astronomers use to study celestial bodies?
+a) Microscope
+b) Telescope
+c) Ruler
+d) Hammer
+
+6) The Sun is responsible for providing ________, making life on Earth possible.
+a) Heat
+b) Energy
+c) Both a and b
+d) None of the above
+
+7) The eight planets in our solar system each have their own __________ and ________.
+a) Size; color
+b) Characteristics; features
+c) Age; weight
+d) Temperature; density
+
+True or False:
+
+8) The Sun is a celestial body. 
+a) True
+b) False
+
+9) All celestial bodies are located within Earth's atmosphere. 
+a) True
+b) False
+
+10) Astronomers use mathematical models and theories to study celestial bodies.
+a) True
+b) False
+
+Free-Response:
+
+1) Describe what a galaxy is and how it is formed.
+
+2) How do astronomers study celestial bodies and what tools do they use?
+
+3) Explain the importance of understanding celestial bodies in the field of astronomy.
+
+Answer Key:
+1) c
+2) c
+3) a
+4) c
+5) b
+6) c
+7) b
+8) a
+9) b
+10) a
+F1) Galaxies are massive collections of stars, gas, and dust held together by gravity. They are formed through the collapse of a large cloud of gas and dust.
+F2) Astronomers study celestial bodies by using tools such as telescopes, satellites, and spectroscopy. They also use mathematical models and theories to explain their observations.
+F3) Understanding celestial bodies is important in expanding our knowledge of the universe and our place within it. It also has practical applications, such as in navigation and space exploration.

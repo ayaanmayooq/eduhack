@@ -1,0 +1,12 @@
+Subject: Astronomy
+Page Number: 145
+Content:
+On this page, we will explore the fascinating world of exoplanets. Exoplanets, also known as extrasolar planets, are planets that orbit a star other than our own Sun. These distant worlds have captured the curiosity and imagination of scientists for centuries.
+
+The first confirmed exoplanet was discovered in 1992, and since then, thousands more have been identified. Thanks to advancements in technology and techniques, we are now able to detect exoplanets that are even smaller than Earth.
+
+There are several methods used to detect exoplanets, including the radial velocity method, transit method, and direct imaging. The radial velocity method measures the slight wobble of a star caused by the gravitational pull of an orbiting planet. The transit method looks for dips in a star's brightness as a planet passes in front of it. Finally, direct imaging uses powerful telescopes to capture images of exoplanets directly.
+
+Exoplanets come in a variety of sizes, compositions, and orbits. Some are hot gas giants, while others are rocky worlds similar to Earth. We have even discovered some exoplanets that could potentially support life.
+
+Understanding exoplanets is crucial in expanding our knowledge of the universe and our place within it. With ongoing research and new discoveries being made, the study of exoplanets continues to be an exciting and ever-evolving field in astronomy.

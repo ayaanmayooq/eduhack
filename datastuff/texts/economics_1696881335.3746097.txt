@@ -1,0 +1,11 @@
+Subject: Economics
+Page Number: 205
+Content: In this section, we will discuss the concept of supply and demand. Supply and demand is the foundational principle of economics, which states that the quantity of a product that is available in the market and the demand for that product are inversely related. This means that as the supply of a product increases, the demand for that product decreases, and vice versa.
+
+To understand this concept better, let's take the example of apples. If the supply of apples increases, meaning there are more apples available in the market, then the price of apples will decrease because there is an abundance of them. On the other hand, if there is a limited supply of apples, the demand for them will increase, causing the price to go up.
+
+The relationship between supply and demand is illustrated by the supply and demand curve. The supply curve shows the quantity of a product that suppliers are willing to produce at different price points. The demand curve, on the other hand, shows the quantity of the product that consumers are willing to buy at different price points.
+
+When these two curves intersect, we reach the market equilibrium, where the quantity supplied is equal to the quantity demanded. This is the ideal situation for both buyers and sellers, as they agree on a fair price for the product.
+
+Understanding supply and demand is crucial in economics as it helps businesses determine the optimal quantity and price for their products. It also helps consumers make informed decisions about their purchases based on the current market conditions.

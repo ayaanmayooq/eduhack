@@ -1,0 +1,83 @@
+MCQs:
+1. Who developed the theory of operant conditioning?
+a. Sigmund Freud
+b. Carl Jung
+c. B.F. Skinner
+d. Jean Piaget
+
+2. Which of the following is an example of positive reinforcement?
+a. A child being scolded for talking back to their parents
+b. A student receiving a failing grade for not completing their homework
+c. A dog receiving a treat for sitting on command
+d. A person being yelled at for forgetting their keys
+
+3. According to operant conditioning, behaviors that are ___________ are more likely to be repeated.
+a. punished
+b. ignored
+c. rewarded
+d. criticized
+
+4. Which of the following is an example of negative reinforcement?
+a. A child being rewarded with a toy for good behavior
+b. A person being given a speeding ticket for driving over the speed limit
+c. A student being praised for getting an A on a test
+d. A person being allowed to skip a meeting for completing a project early
+
+5. Positive punishment involves:
+a. removing a pleasant stimulus after a behavior
+b. giving an unpleasant stimulus after a behavior
+c. ignoring a behavior
+d. rewarding a behavior
+
+6. Which of the following is an example of negative punishment?
+a. A child being scolded for playing with their food
+b. A person being given a raise for good performance at work
+c. A student being praised for getting an A on a test
+d. A dog being allowed to play with a toy for good behavior
+
+7. Which of the following components of operant conditioning involves removing an unpleasant stimulus after a behavior?
+a. Positive reinforcement
+b. Negative reinforcement
+c. Positive punishment
+d. Negative punishment
+
+8. Which of the following is NOT a key component of operant conditioning?
+a. Negative punishment
+b. Positive reinforcement
+c. Neutral punishment
+d. Positive punishment
+
+True/False:
+1. Operant conditioning is a theory developed by B.F. Skinner. (True)
+2. Behaviors that are punished are more likely to be repeated. (False)
+3. Positive reinforcement involves giving a pleasant stimulus after a behavior. (True)
+4. Negative punishment involves giving an unpleasant stimulus after a behavior. (False)
+5. It is important to understand operant conditioning in order to shape our behavior. (True)
+
+Free-response:
+1. Explain the difference between positive reinforcement and positive punishment.
+2. Give an example of negative reinforcement in everyday life.
+3. How can understanding operant conditioning help us better understand our own behavior?
+
+Answer key:
+MCQs:
+1. c. B.F. Skinner
+2. c. A dog receiving a treat for sitting on command
+3. c. rewarded
+4. d. A person being allowed to skip a meeting for completing a project early
+5. b. giving an unpleasant stimulus after a behavior
+6. a. A child being scolded for playing with their food
+7. b. Negative reinforcement
+8. c. Neutral punishment
+
+True/False:
+1. True
+2. False
+3. True
+4. False
+5. True
+
+Free-response:
+1. Positive reinforcement involves giving a pleasant stimulus after a behavior to increase the likelihood of that behavior being repeated, while positive punishment involves giving an unpleasant stimulus after a behavior to decrease the likelihood of that behavior being repeated.
+2. An example of negative reinforcement could be putting on sunscreen to avoid getting sunburnt.
+3. Understanding operant conditioning can help us identify the causes of our behaviors and how to shape them through reinforcement and punishment. It can also help us understand why we may act in certain ways in specific situations.

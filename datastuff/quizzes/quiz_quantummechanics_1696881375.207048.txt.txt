@@ -1,0 +1,73 @@
+1. What is quantum entanglement?
+A. A phenomenon that occurs when particles become connected
+B. A theory proposed by Albert Einstein
+C. An experiment conducted in the 1980s
+D. A technology used for communication
+
+2. Who first described quantum entanglement as spooky action at a distance?
+A. Isaac Newton
+B. Albert Einstein
+C. Marie Curie
+D. Stephen Hawking
+
+3. According to quantum mechanics, the state of one particle is dependent on the state of another if they are:
+A. Same type of particles
+B. Separated by large distances
+C. Moving at the same speed
+D. Subjected to the same force
+
+4. The EPR paradox involves two entangled particles with:
+A. Same spins
+B. Opposite spins
+C. No spins
+D. Random spins
+
+5. The Bell test experiments confirmed that the entangled particles are communicating with each other in a traditional sense. 
+A. True 
+B. False 
+
+6. Quantum cryptography uses the principles of entanglement to create unbreakable codes. 
+A. True 
+B. False 
+
+7. Quantum entanglement challenges our understanding of the universe and pushes us to think outside of the traditional laws of physics. 
+A. True 
+B. False 
+
+8. Which of the following is NOT a technology that has been developed using quantum entanglement? 
+A. Quantum cryptography 
+B. Teleportation 
+C. Time travel 
+D. Quantum computing
+
+9. Which experiment in the 1980s showed that entangled particles are not communicating in a traditional sense? 
+A. The EPR paradox 
+B. The Bell test experiments 
+C. The double-slit experiment 
+D. The Schrödinger's cat thought experiment 
+
+10. What did the EPR paradox involve? 
+A. Two entangled particles with the same spin 
+B. Two particles moving at the same speed 
+C. Two entangled particles with opposite spins 
+D. Two particles subjected to the same force 
+
+Free-response questions: 
+1. How does quantum entanglement challenge our understanding of the universe and the traditional laws of physics? 
+2. Why is quantum entanglement called spooky action at a distance by Albert Einstein? 
+
+Answer key: 
+1. A 
+2. B 
+3. B 
+4. B 
+5. B 
+6. A 
+7. A 
+8. C 
+9. B 
+10. C 
+
+Free-response questions: 
+1. Quantum entanglement challenges our understanding of the universe and traditional laws of physics because it defies our classical understanding of how particles interact with each other. It also suggests that there may be a hidden connection between particles that we are not yet aware of. 
+2. Quantum entanglement is called spooky action at a distance by Albert Einstein because it violates the principle of locality in physics, where objects cannot have an immediate effect on each other if they are separated by space. This suggests that there may be a non-local hidden connection between the entangled particles.

@@ -1,0 +1,103 @@
+1. Which of the following is NOT a way to classify stars?
+A. Spectral type
+B. Mass
+C. Temperature
+D. Shape
+
+2. What is the hottest spectral type of star?
+A. O
+B. M
+C. K
+D. F
+
+3. True or False: The more massive a star is, the cooler and dimmer it will be.
+A. True
+B. False
+
+4. Which of the following is the largest type of star?
+A. Red dwarf
+B. Red supergiant
+C. White dwarf
+D. Blue giant
+
+5. How is luminosity measured?
+A. In kilometers
+B. In years
+C. In solar luminosity
+D. In gravitational pull
+
+6. What is the luminosity of our sun?
+A. 10
+B. 100
+C. 1
+D. 1000
+
+7. Which of the following statements is true?
+A. Red dwarfs are the largest type of star.
+B. Luminosity is measured in terms of kilometers.
+C. The sun is an example of a red supergiant.
+D. Spectral type is determined by a star's size.
+
+8. True or False: Scientists have classified all the stars in the universe.
+A. True
+B. False
+
+9. Which of the following is NOT a factor in classifying stars?
+A. Luminosity
+B. Color
+C. Age
+D. Mass
+
+10. Why is it important to understand the different types of stars?
+A. To understand the evolution of the universe
+B. To predict weather patterns on Earth
+C. To study ocean currents
+D. To discover new planets
+
+True/False:
+1. True
+2. False
+3. False
+4. True
+5. False
+6. False
+7. False
+8. False
+9. C
+10. A
+
+Free-Response:
+1. Describe the seven main spectral types of stars.
+2. How does the mass of a star affect its temperature and brightness?
+3. What is the significance of measuring luminosity in terms of solar luminosity?
+4. Why is the study of different types of stars important in our understanding of the universe?
+
+Answer Key:
+1. D
+2. A
+3. B
+4. B
+5. C
+6. C
+7. D
+8. B
+9. D
+10. A
+
+True/False:
+1. True
+2. False
+3. False
+4. True
+5. False
+6. False
+7. False
+8. False
+9. C
+10. A
+
+Free-Response:
+1. The seven main spectral types of stars are O, B, A, F, G, K, and M, with O being the hottest and M being the coolest.
+2. The more massive a star is, the hotter and brighter it will be because the increased mass allows for more fusion reactions to occur in the core, creating a greater amount of energy.
+3. Measuring luminosity in terms of solar luminosity allows for a standardized comparison between stars and their energy output.
+4. Understanding the different types of stars is crucial in studying the universe and its evolution, as it helps us understand the diversity and complexity of the universe. It also allows us to make predictions and discoveries about the universe.

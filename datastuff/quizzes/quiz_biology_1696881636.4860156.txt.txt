@@ -1,0 +1,65 @@
+1) Which of the following is NOT a function of the cell membrane?
+a) Regulation of what enters and leaves the cell
+b) Protection of the cell
+c) Production of energy
+d) Maintaining homeostasis
+
+2) The cytoplasm is mostly composed of:
+a) Proteins
+b) Water
+c) Carbohydrates
+d) Lipids
+
+3) The nucleus is surrounded by a double membrane called the:
+a) Cell membrane
+b) Nucleolus
+c) Nuclear membrane
+d) Mitochondrial membrane
+
+4) Which type of ER is involved in protein synthesis?
+a) Smooth ER
+b) Mitochondrial ER
+c) Rough ER
+d) Nuclear ER
+
+5) The Golgi apparatus is responsible for:
+a) Producing energy
+b) Modifying and packaging proteins and lipids
+c) Maintaining cell shape
+d) Producing new cells
+
+6) True/False: Mitochondria have their own DNA.
+a) True
+b) False
+
+7) The endoplasmic reticulum is composed of:
+a) interconnected membranes
+b) a phospholipid bilayer
+c) flattened sacs
+d) both a and c
+
+8) The function of the cell membrane is to:
+a) protect the cell from external environment
+b) regulate what enters and leaves the cell
+c) produce energy for the cell
+d) maintain the shape of the cell
+
+9) The cytoplasm contains specialized structures called ___________ that help maintain the cell's shape.
+a) ribosomes
+b) cytoskeletons
+c) mitochondria
+d) lysosomes
+
+10) Free response: Explain the function of the Golgi apparatus in the cell.
+
+Answer Key:
+1) c) Production of energy
+2) b) Water
+3) c) Nuclear membrane
+4) c) Rough ER
+5) b) Modifying and packaging proteins and lipids
+6) a) True
+7) d) both a and c
+8) b) regulate what enters and leaves the cell
+9) b) cytoskeletons
+10) The Golgi apparatus is responsible for modifying, sorting, and packaging proteins and lipids from the endoplasmic reticulum. It acts as a distribution center for these molecules to be transported to their final destinations within and outside of the cell.

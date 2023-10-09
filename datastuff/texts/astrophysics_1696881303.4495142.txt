@@ -1,0 +1,15 @@
+Subject: Astrophysics
+Page Number: 92
+Content:
+
+Placeholder for textbook content:
+
+The study of astrophysics involves the application of physics principles to understanding the behavior and properties of astronomical objects such as planets, stars, galaxies, and the universe as a whole. It is a multidisciplinary field that combines concepts from physics, mathematics, and astronomy to answer questions about the origins, evolution, and behavior of celestial bodies.
+
+One important concept in astrophysics is gravitational force, which is the force of attraction between two objects due to their masses. This force plays a crucial role in the formation and movement of celestial bodies. The laws of gravity, as first described by Sir Isaac Newton, allow astronomers to calculate the orbits of planets and other objects in space.
+
+Another key aspect of astrophysics is the study of light and electromagnetic radiation. By analyzing the properties of light emitted from distant objects, scientists can gather information about their composition, temperature, and other characteristics. This has helped us to gain a better understanding of the vast distances and complexities of the universe.
+
+In addition to theoretical concepts, astrophysics also involves practical observation and data collection. Telescopes and other instruments are used to observe and gather data from various astronomical objects. Computers and advanced technology are then used to analyze this data and make new discoveries about the universe.
+
+Overall, astrophysics is an exciting and ever-evolving field that allows us to deepen our understanding of the vast and complex universe we live in.

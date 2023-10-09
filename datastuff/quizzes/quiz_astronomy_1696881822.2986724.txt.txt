@@ -1,0 +1,77 @@
+1. Who first described the elliptical orbit of Earth around the Sun?
+A. Galileo Galilei
+B. Johannes Kepler
+C. Sir Isaac Newton
+D. Albert Einstein
+
+2. According to Kepler's First Law of Planetary Motion, planets move in ___________ orbits.
+A. circular
+B. parabolic
+C. elliptical
+D. spiral
+
+3. The force that keeps planets in their orbits is called _______.
+A. electromagnetic force
+B. nuclear force
+C. gravitational force
+D. centrifugal force
+
+4. Retrograde motion is an optical illusion caused by the difference in ________ of Earth and the observed planet.
+A. orbital shapes
+B. orbital speeds
+C. orbital distances
+D. orbital revolutions
+
+5. Extrasolar planets are planets found ______ our solar system.
+A. inside
+B. at the edge of
+C. between
+D. outside
+
+6. Which law describes the force of gravity between objects in the universe?
+A. Kepler's First Law of Planetary Motion
+B. Newton's Law of Inertia
+C. Newton's Law of Universal Gravitation
+D. Kepler's Third Law of Planetary Motion
+
+7. Which planet in our solar system has the shortest orbital period?
+A. Venus
+B. Mars
+C. Jupiter
+D. Mercury
+
+8. True/False: Planetary motion only occurs within our solar system.
+A. True
+B. False
+
+9. True/False: Retrograde motion is a real motion of planets.
+A. True
+B. False
+
+10. What have discoveries of extrasolar planets contributed to our understanding of?
+A. The size and shape of our solar system
+B. The potential for life beyond Earth
+C. The age of our universe
+D. The distance between planets
+
+Free Response:
+1. How does the distance between objects affect the strength of gravitational force between them?
+2. How has technology advanced our study of planetary motion?
+3. What is the significance of retrograde motion in our understanding of planetary motion and the solar system?
+
+Answer Key:
+1. B
+2. C
+3. C
+4. B
+5. D
+6. C
+7. D
+8. B
+9. B
+10. B
+
+Free Response:
+1. The strength of gravitational force between two objects is directly proportional to the masses of the objects and inversely proportional to the distance between them.
+2. Technology has allowed us to observe and track planetary motion with greater precision, leading to more accurate predictions and discoveries.
+3. Retrograde motion helps us understand the relative positions and speeds of different planets in our solar system, as well as the phenomenon of optical illusions in astronomy.

@@ -1,0 +1,74 @@
+MCQs:
+1. Which of the following triggers nuclear fusion in a protostar?
+a. Increasing pressure
+b. Decreasing temperature
+c. Increasing temperature
+d. Decreasing pressure
+
+2. What is the main source of energy for a star on the main sequence?
+a. Nuclear fission
+b. Nuclear fusion
+c. Chemical reactions
+d. Magnetic fields
+
+3. How long can a red dwarf star live for on the main sequence?
+a. Millions of years
+b. Billions of years
+c. Trillions of years
+d. Only a few thousand years
+
+4. What happens when a star exhausts its hydrogen fuel?
+a. It collapses into a black hole
+b. It becomes a red giant
+c. It becomes a neutron star
+d. It enters a new stage in its life cycle
+
+5. What is the ultimate fate of all stars?
+a. To become supernovae
+b. To become white dwarfs
+c. To become black holes
+d. To run out of fuel and die
+
+6. What determines the fate of a star after its death?
+a. Its mass and the amount of remaining material
+b. Its distance from other stars
+c. Its age
+d. Its color and temperature
+
+7. What is the purpose of studying the life cycles of stars?
+a. To understand the history and evolution of the universe
+b. To predict when a star will die
+c. To determine its exact location in the universe
+d. To learn about the star's size and shape
+
+True/False:
+1. Stars are formed when clouds of gas and dust collapse due to gravity. (True)
+2. Nuclear fusion is the process of splitting atoms to release energy. (False)
+3. Larger stars have longer lifetimes than smaller stars. (False)
+4. All stars will eventually become black holes. (False)
+
+Free-response:
+1. Describe the process of nuclear fusion in a protostar.
+2. How does a star's mass impact its lifespan?
+3. What happens to a star after it exhausts its hydrogen fuel?
+
+Answer Key:
+MCQs:
+1. c
+2. b
+3. c
+4. d
+5. d
+6. a
+7. a
+
+True/False:
+1. True
+2. False
+3. False
+4. False
+
+Free-response:
+1. As a protostar collapses, the increase in temperature and pressure at its core triggers hydrogen atoms to fuse together, creating helium and releasing a tremendous amount of energy.
+2. A star's mass determines how long it will spend on the main sequence and ultimately what fate it will have after its death.
+3. After a star exhausts its hydrogen fuel, it will enter a new stage in its life cycle, either becoming a red giant, supernova, or collapsing into a white dwarf, neutron star, or black hole.
