@@ -1,0 +1,6 @@
+Generate a random page from a textbook on a random subject.
+Subject: [Random subject]
+Page Number: [Random page number]
+Content: [Replace with a placeholder for the textbook content]
+In this textbook page, provide a brief overview of a topic related to [Random subject]. Include relevant text, explanations, and diagrams if applicable. The content should be suitable for educational purposes.
+Choose something random.

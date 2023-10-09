@@ -1,0 +1,1 @@
+Generate a quiz on the above text. The quiz should include 7-10 MCQs, 4-6 True/False questions and 1-3 free-response questions. Include the answer key at the bottom of the quiz.
