@@ -30,7 +30,7 @@ export default function Input() {
     dataForm.append('numTF', numTF);
     dataForm.append('numFreeResponse', numFreeResponse);
     const result = await axios.post(API_ENDPOINT, dataForm).then(res => {
-
+      console.log(res);
     })
     .catch(err => console.log(err));;
     //console.log(result.data);
