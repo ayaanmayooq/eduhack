@@ -14,7 +14,7 @@ module.exports = {
       darkgray: "rgba(255, 255, 255, 0.4)",
     },
     fontFamily: {
-      mono: ["var(--font-jbmono)"],
+      mono: ["var(--font-jb-mono)"],
     },
     extend: {
       scale: {
@@ -25,11 +25,11 @@ module.exports = {
         focus: "0 0 5px #f29544",
       },
       animation: {
-        "slide-up": "slide 1s ease-in-out forwards",
+        "slide-up": "slideUp 0.5s ease-in-out forwards",
         progress: "progress 10s cubic-bezier(.14,.57,.73,.51) forwards",
       },
       keyframes: {
-        slide: {
+        slideUp: {
           "100%": {
             transform: "translateY(-100vh)",
           },

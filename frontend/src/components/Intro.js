@@ -2,12 +2,11 @@
 
 import { useState } from "react";
 
-export default function Intro() {
+export default function Intro({ router }) {
   const [showIntro, setShowIntro] = useState(false);
 
   const toggleShowIntro = () => {
     setShowIntro(!showIntro);
-    console.log(showIntro);
   };
 
   return (
@@ -25,7 +24,12 @@ export default function Intro() {
       </h2>
       <button
         className="my-10 w-44 h-11 border-solid border-darkgray border-2 rounded-lg text-gray hover:scale-102 hover:border-purple hover:text-purple hover:shadow-hover"
-        onClick={toggleShowIntro}
+        onClick={() => {
+          toggleShowIntro();
+          setTimeout(() => {
+            router.push("/input");
+          }, 500);
+        }}
       >
         <p className="text-lg">Get started</p>
       </button>

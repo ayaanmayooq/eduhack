@@ -2,15 +2,15 @@
 import { JetBrains_Mono } from "next/font/google";
 import Intro from "../components/Intro";
 import Loading from "@/components/Loading";
-import QuestionPage from "./QuestionsPage";
+import QuestionPage from "./quiz/page";
+import { useRouter } from "next/navigation";
 
 export default function Home() {
+  const router = useRouter();
+
   return (
     <div className="w-screen h-fit">
-      {/* <Loading></Loading> */}
-      <QuestionPage></QuestionPage>
-      {/* <Intro></Intro> */}
-      {/* <Input></Input> */}
+      <Intro router={router}></Intro>
     </div>
   );
 }
