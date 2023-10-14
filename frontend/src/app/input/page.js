@@ -1,7 +1,10 @@
 "use client";
 import axios from "axios";
 import { useRouter } from "next/navigation";
+//import pdfjsLib from 'pdfjs-dist/build/pdf';
 import React, { useState } from "react";
+
+const API_ENDPOINT = "http://localhost:5000/submit-form"
 
 export default function Input() {
   const [file, setFile] = useState(null);
@@ -14,14 +17,24 @@ export default function Input() {
 
   const handleFileChange = (e) => {
     const selectedFile = e.target.files[0];
+    console.log(selectedFile);
     setFile(selectedFile);
   };
 
   const handleSubmit = async (e) => {
-    e.preventDefault();
-    const result = await axios.get("https://hub.dummyapis.com/delay?seconds=3");
-    console.log(result.data);
-    answer = result.data;
+    //e.preventDefault();
+    const dataForm = new FormData();
+    dataForm.append('file', file);  
+    dataForm.append('text', text);
+    dataForm.append('numMCQ', numMCQ);
+    dataForm.append('numTF', numTF);
+    dataForm.append('numFreeResponse', numFreeResponse);
+    const result = await axios.post(API_ENDPOINT, dataForm).then(res => {
+
+    })
+    .catch(err => console.log(err));;
+    //console.log(result.data);
+    //answer = result.data;
     router.push("/quiz");
   };
 

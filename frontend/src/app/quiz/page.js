@@ -37,20 +37,20 @@ export default function Quiz() {
     })
   );
 
+  const setAnswer = (id, newVal) => {
+    const updatedState = response.map((val, index) => {
+      id === index ? newVal : val;
+    });
+
+    setResponse(updatedState);
+  };
+
   return (
-    <div className="p-4">
+    <div className="p-4 overflow-y-auto">
       <h1 className="text-2xl font-bold">Questions</h1>
-      {arr.map((ques) => Ques)}
-      <Question questionType="true-false" questionText="Is the sky blue?" />
-      <Question
-        questionType="mcq"
-        questionText="What is the capital of France?"
-        options={["London", "Berlin", "Paris", "Madrid"]}
-      />
-      <Question
-        questionType="free-response"
-        questionText="Share your thoughts on the topic:"
-      />
+      {arr.map((ques, index) => (
+        <Question key={index} num={index} ques={ques} setAnswer={setAnswer} />
+      ))}
     </div>
   );
 }
