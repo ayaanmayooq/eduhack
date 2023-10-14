@@ -2,12 +2,13 @@
 import axios from "axios";
 import { useRouter } from "next/navigation";
 //import pdfjsLib from 'pdfjs-dist/build/pdf';
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 
 const API_ENDPOINT = "http://localhost:5000/submit-form"
 
 export default function Input() {
   const [file, setFile] = useState(null);
+  const [fileData, setFileData] = useState("");
   const [text, setText] = useState("");
   const [numMCQ, setNumMCQ] = useState(1);
   const [numTF, setNumTF] = useState(1);
@@ -17,22 +18,32 @@ export default function Input() {
 
   const handleFileChange = (e) => {
     const selectedFile = e.target.files[0];
-    console.log(selectedFile);
+    //console.log(selectedFile);
     setFile(selectedFile);
   };
 
   const handleSubmit = async (e) => {
     //e.preventDefault();
-    const dataForm = new FormData();
-    dataForm.append('file', file);  
-    dataForm.append('text', text);
-    dataForm.append('numMCQ', numMCQ);
-    dataForm.append('numTF', numTF);
-    dataForm.append('numFreeResponse', numFreeResponse);
-    const result = await axios.post(API_ENDPOINT, dataForm).then(res => {
-      console.log(res);
-    })
-    .catch(err => console.log(err));;
+    //const dataForm = new FormData();
+    const postData = {
+      'fileData': fileData,
+      'text': text,
+      'numMCQ': numMCQ,
+      'numTF': numTF,
+      'numFreeResponse' : numFreeResponse
+    }
+    // dataForm.append('fileData', fileData);
+    // dataForm.append('text', text);
+    // dataForm.append('numMCQ', numMCQ);
+    // dataForm.append('numTF', numTF);
+    // dataForm.append('numFreeResponse', numFreeResponse);
+    //console.log(dataForm.fileData);
+    //console.log(dataForm);
+    console.log(postData);
+    // const result = await axios.post(API_ENDPOINT, postData).then(res => {
+    //   console.log(res);
+    // })
+    // .catch(err => console.log(err));
     //console.log(result.data);
     //answer = result.data;
     router.push("/quiz");
@@ -53,6 +64,17 @@ export default function Input() {
   const handleNumFreeResponse = (e) => {
     setNumFreeResponse(e.target.value);
   };
+
+  useEffect(() =>{
+    if (file) {
+      const reader = new FileReader();
+      reader.onload = (event) => {
+        const fileText = event.target.result;
+        setFileData(fileText);
+      };  
+      const result = reader.readAsText(file);
+    } 
+  }, [file]);
 
   return (
     <div className="p-4 flex flex-col justify-center h-screen w-screen top-[100vh] absolute z-0 bg-superdark min-h-fit animate-slide-up overflow-y-auto">
