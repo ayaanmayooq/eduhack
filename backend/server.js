@@ -15,7 +15,7 @@ app.get("/", function (req, res) {
 app.post("/api/inputtext", async function (req, res) {
     try {
         const requestData = req.body;
-        const inputText = requestData.text;
+        const inputText = requestData.text; // text, mcq num, tf num, fr num
 
         const exinput = `
         Subject: Astronomy
