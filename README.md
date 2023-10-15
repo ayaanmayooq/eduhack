@@ -1,7 +1,7 @@
 # exAImination
 Elevate Your Learning: AI-Powered Test Generator for Text
 
-### [Devpost](https://devpost.com/software/exaimination)
+### [Devpost](https://devpost.com/software/exaimination), [Frontend sample](https://exaimination.vercel.app/)
 
 ## Project Description
 
