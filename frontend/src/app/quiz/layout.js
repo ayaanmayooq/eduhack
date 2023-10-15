@@ -4,8 +4,9 @@ import Loading from "./loading";
 import Quiz from "./page";
 import { useRouter } from "next/navigation";
 import axios from "axios";
+import API_ENDPOINT_BASE from "../api";
 
-const API_ENDPOINT = "http://localhost:6969/api/inputtext";
+const API_ENDPOINT = API_ENDPOINT_BASE + "/inputtext";
 
 export default function Layout() {
   const router = useRouter();

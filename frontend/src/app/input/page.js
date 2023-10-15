@@ -1,9 +1,6 @@
 "use client";
 import { useRouter } from "next/navigation";
-//import pdfjsLib from 'pdfjs-dist/build/pdf';
 import React, { useState, useEffect } from "react";
-
-const API_ENDPOINT = "http://localhost:5000/submit-form";
 
 export default function Input() {
   const [file, setFile] = useState(null);
@@ -23,6 +20,9 @@ export default function Input() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    if (text.length === 0 && fileData.length === 0) {
+      return;
+    }
     const postData = {
       text: text + "\n" + fileData,
       numMCQ: numMCQ,
@@ -62,6 +62,7 @@ export default function Input() {
 
   return (
     <div className="p-4 flex flex-col justify-center h-screen w-screen absolute z-0 bg-superdark min-h-fit overflow-y-auto">
+      <h1 className="text-2xl font-bold self-center mb-4 text-yellow">Input</h1>
       <div className="flex flex-row justify-center min-h-fit my-10">
         <div className="w-1/2 pr-4 flex flex-col items-center justify-center gap-4">
           <div className="flex flex-col my-10">

@@ -3,8 +3,9 @@ import { useState } from "react";
 import Question from "./Question";
 import axios from "axios";
 import { useRouter } from "next/navigation";
+import API_ENDPOINT_BASE from "./../api";
 
-const API_ENDPOINT = "http://localhost:6969/api/responses";
+const API_ENDPOINT = API_ENDPOINT_BASE + "/responses";
 
 export default function Quiz({ quesData }) {
   const router = useRouter();
@@ -28,12 +29,13 @@ export default function Quiz({ quesData }) {
   };
 
   const handleSubmitResponse = () => {
-    console.log({ responses: response });
+    const responseJSON = { responses: response };
+    localStorage.setItem("exaimination-response", JSON.stringify(responseJSON));
     const result = axios
-      .post(API_ENDPOINT, { responses: response })
+      .post(API_ENDPOINT, responseJSON)
       .then((res) => {
         console.log(res);
-        localStorage.setItem("exaimination-score", JSON.stringify(res.data));
+        localStorage.setItem("exaimination-result", JSON.stringify(res.data));
         router.push("/result");
       })
       .catch((err) => console.log(err));
@@ -41,7 +43,7 @@ export default function Quiz({ quesData }) {
 
   return (
     <div className="p-4 overflow-y-auto flex flex-col items-center">
-      <h1 className="text-2xl font-bold my-4">Questions</h1>
+      <h1 className="text-2xl font-bold my-4 text-yellow">Questions</h1>
       <div className="w-[80%]">
         {quesData.map((ques, index) => (
           <Question key={index} num={index} ques={ques} setAnswer={setAnswer} />
