@@ -1,3 +1,5 @@
+const { response } = require("express");
+const { makeOpenAICall } = require("./openai");
 
 function extractAnswerKey(text) {
     const lines = text.split('\n');
@@ -20,10 +22,19 @@ function extractAnswerKey(text) {
 
     return answerKey.join('\n');
 }
-function assess(responses, quiztext) {
-    const answerkey = extractAnswerKey(quiztext);
-    console.log(answerkey);
+async function assess(responses, quiztext) {
+    //const answerkey = extractAnswerKey(quiztext);
+    //console.log(answerkey);
+    console.log('Assessing');
 
+    const assess_prompt = "\nAssess the responses against the quiz and answer key. Give score and corrections and explanation.";
+
+    const prompt = "Responses:\n" + responses + "\nQuiz:\n" + quiztext + assess_prompt;
+
+    const result = await makeOpenAICall(prompt);
+
+    console.log(result);
+    return result;
 }
 
 module.exports = { assess };
