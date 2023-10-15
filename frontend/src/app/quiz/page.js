@@ -2,10 +2,12 @@
 import { useState } from "react";
 import Question from "./Question";
 import axios from "axios";
+import { useRouter } from "next/navigation";
 
 const API_ENDPOINT = "http://localhost:6969/api/responses";
 
 export default function Quiz({ quesData }) {
+  const router = useRouter();
   const [response, setResponse] = useState(
     quesData.map((ques) => {
       return {
@@ -31,6 +33,8 @@ export default function Quiz({ quesData }) {
       .post(API_ENDPOINT, { responses: response })
       .then((res) => {
         console.log(res);
+        localStorage.setItem("score", res.data);
+        router.push("/result");
       })
       .catch((err) => console.log(err));
   };
