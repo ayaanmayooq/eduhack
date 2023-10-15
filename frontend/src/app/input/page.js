@@ -24,12 +24,12 @@ export default function Input() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     const postData = {
-      text: text,
+      text: text + "\n" + fileData,
       numMCQ: numMCQ,
       numTF: numTF,
       numFreeResponse: numFreeResponse,
-      };
-      localStorage.setItem("exAImination-input", JSON.stringify(postData));
+    };
+    localStorage.setItem("exAImination-input", JSON.stringify(postData));
     router.push("/quiz");
   };
 

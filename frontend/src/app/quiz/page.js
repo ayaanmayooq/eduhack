@@ -1,9 +1,11 @@
 "use client";
 import { useState } from "react";
 import Question from "./Question";
+import axios from "axios";
+
+const API_ENDPOINT = "http://localhost:6969/api/responses";
 
 export default function Quiz({ quesData }) {
-  console.log("Quiz", quesData);
   const [response, setResponse] = useState(
     quesData.map((ques) => {
       return {
@@ -24,7 +26,13 @@ export default function Quiz({ quesData }) {
   };
 
   const handleSubmitResponse = () => {
-    console.log(response);
+    console.log({ responses: response });
+    const result = axios
+      .post(API_ENDPOINT, { responses: response })
+      .then((res) => {
+        console.log(res);
+      })
+      .catch((err) => console.log(err));
   };
 
   return (
