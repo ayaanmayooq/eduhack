@@ -64,8 +64,8 @@ app.post("/api/responses", async function (req, res) {
     const { responses } = requestData
     if (sessionCache.has(req.sessionID)) {
         const quiz = sessionCache.get(req.sessionID);
-        const score = await assess(responses, quiz);
-        res.json({ score: score, quiz: quiz });
+        const assessment = await assess(responses, quiz);
+        res.json({ assessment, quiz });
     }
     else {
         res.json({ data: "Some error" });
