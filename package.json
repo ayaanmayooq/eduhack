@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/ayaanmayooq/eduhack#readme",
   "dependencies": {
-    "concurrently": "^8.2.1"
+    "concurrently": "^8.2.1",
+    "dotenv": "^16.3.1"
   }
 }

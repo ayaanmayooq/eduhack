@@ -59,7 +59,7 @@ def generate_quiz():
         compact = [i for i in lines if len(i) > 1]
         prompt = '\n'.join(compact) + '\n\n' + PROMPT_QUIZ
         print("Generating quiz for ", file)
-
+        print(prompt)
         completion = api_completion(prompt, engine=GPT_MODEL, tokens=1000)
         completion = completion.replace('"', '')
         print(completion)
@@ -69,4 +69,4 @@ def generate_quiz():
 
 
 generate_textbook(1)
-# generate_quiz()
+generate_quiz()
