@@ -33,7 +33,7 @@ export default function Quiz({ quesData }) {
       .post(API_ENDPOINT, { responses: response })
       .then((res) => {
         console.log(res);
-        localStorage.setItem("score", res.data);
+        localStorage.setItem("exaimination-score", JSON.stringify(res.data));
         router.push("/result");
       })
       .catch((err) => console.log(err));

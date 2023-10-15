@@ -20,15 +20,18 @@ export default function Layout() {
       router.push("/");
       return;
     }
-    console.log("Posting to backend", postData);
-    const result = axios
-      .post(API_ENDPOINT, JSON.parse(postData))
-      .then((res) => {
-        console.log(res);
-        setQuesData(res.data);
-      })
-      .catch((err) => console.log(err));
-  });
+    async function load() {
+      console.log("Posting to backend", postData);
+      return await axios
+        .post(API_ENDPOINT, JSON.parse(postData))
+        .then((res) => {
+          console.log(res);
+          setQuesData(res.data);
+        })
+        .catch((err) => console.log(err));
+    }
+    load();
+  }, []);
   return (
     <Suspense fallback={<Loading />}>
       {quesData !== undefined ? <Quiz quesData={quesData} /> : <Loading />}
