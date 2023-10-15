@@ -39,7 +39,7 @@ app.post("/api/inputtext", async function (req, res) {
             const qsJson = processQs(openAIResponse);
 
             // Cache the OpenAI response for this session
-            sessionCache.set(req.sessionID, qsJson);
+            sessionCache.set(req.sessionID, openAIResponse);
 
             res.json(qsJson);
         //}
