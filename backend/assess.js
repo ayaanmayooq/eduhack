@@ -1,7 +1,7 @@
 const { response } = require("express");
 const { makeOpenAICall } = require("./openai");
 
-function extractAnswerKey(text) {
+function extractAns(text) {
     const lines = text.split('\n');
     let answerKey = [];
 
@@ -20,18 +20,28 @@ function extractAnswerKey(text) {
         }
     }
 
-    return answerKey.join('\n');
+    const ansJson = answerKey.map((item) => {
+        const parts = item.split('. ');
+        return {
+            id: parseInt(parts[0]),
+            answer: parts[1]
+        };
+    });
+
+    return ansJson;
 }
 async function assess(responses, quiztext) {
     //const answerkey = extractAnswerKey(quiztext);
-    //console.log(answerkey);
+    console.log(quiztext);
     console.log('Assessing');
 
-    const assess_prompt = "\nAssess the responses against the quiz and answer key. Give score and corrections and explanation.";
+    const assess_prompt = "\nAssess the responses against the quiz and answer key. Give score followed by response, correct answer, and explanation.";
 
     const prompt = "Responses:\n" + responses + "\nQuiz:\n" + quiztext + assess_prompt;
 
     const result = await makeOpenAICall(prompt);
+
+    console.log(result);
 
     jsonRes = resToJson(result);
     console.log(jsonRes);
@@ -72,4 +82,4 @@ function resToJson(result) {
     };
 }
 
-module.exports = { assess };
+module.exports = { assess, extractAns };
