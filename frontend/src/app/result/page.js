@@ -1,22 +1,39 @@
 "use client";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 
 export default function Result() {
-  let score = {"score": 2, };
-  useEffect(() => {
-    // score = localStorage.getItem("exaimination-score");
-    // console.log(score);
-  });
-  return (
-    <div className="w-[100vw] h-[100vh] flex flex-col items-center">
-      <h1 className="text-2xl font-bold m-4">Result</h1>
+  const [result, setResult] = useState(undefined);
 
-      <h3
-        type="submit"
-        className="mx-auto px-4 py-2 rounded-md w-32 h-12 my-10 border-solid border-2 text-purple border-purple hover:scale-105 hover:border-yellow hover:text-yellow hover:shadow-focus font-bold"
-      >
-        You got {score} question{score > 1 ? "s" : ""} right
-      </h3>
+  useEffect(() => {
+    let res = JSON.parse(localStorage.getItem("exaimination-score"));
+    if (res !== undefined) {
+      setResult(res);
+    }
+    console.log(res);
+  }, []);
+  return (
+    <div className="w-[100vw] h-[100vh] flex flex-col items-center overflow-y-auto">
+      <h1 className="text-2xl font-bold mt-10">Result</h1>
+      {result !== undefined ? (
+        <>
+          <h3
+            type="submit"
+            className="mx-auto px-4 py-2 rounded-md w-fit h-fit my-10 border-solid border-2 text-yellow border-yellow font-bold"
+          >
+            You got {result.assessment.score} questions right
+          </h3>
+          {result.quiz.map((ques, index) => {
+            return (
+              <div className="my-4 w-[90%]">
+                <p className="text-purple my-2">{ index + 1}. {ques.text}</p>
+                <p className="text-gray ml-6">{result.assessment.responses[index].explanation}</p>
+              </div>
+            );
+          })}
+        </>
+      ) : (
+        <></>
+      )}
     </div>
   );
 }
