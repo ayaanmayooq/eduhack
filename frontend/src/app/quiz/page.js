@@ -3,9 +3,9 @@ import { useState } from "react";
 import Question from "./Question";
 
 export default function Quiz({ quesData }) {
-    console.log(quesData);
-    const [response, setResponse] = useState(
-        quesData.map((ques) => {
+  console.log("Quiz", quesData);
+  const [response, setResponse] = useState(
+    quesData.map((ques) => {
       return {
         id: ques.num,
         ans: "",
@@ -30,8 +30,8 @@ export default function Quiz({ quesData }) {
   return (
     <div className="p-4 overflow-y-auto">
       <h1 className="text-2xl font-bold ml-4">Questions</h1>
-          <div>
-              {quesData.map((ques, index) => (
+      <div>
+        {quesData.map((ques, index) => (
           <Question key={index} num={index} ques={ques} setAnswer={setAnswer} />
         ))}
       </div>

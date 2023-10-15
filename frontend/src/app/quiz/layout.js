@@ -11,7 +11,7 @@ const API_ENDPOINT = "http://localhost:6969/api/inputtext";
 export default function Layout() {
   const router = useRouter();
   const [isLoading, setLoading] = useState(true);
-  let quesData = undefined;
+  const [quesData, setQuesData] = useState(undefined);
 
   const load = async () => {
     const postData = localStorage.getItem("exAImination-input");
@@ -20,16 +20,14 @@ export default function Layout() {
       return;
     }
     console.log("Posting to backend", postData);
-      const result = await axios
-          .post(API_ENDPOINT, JSON.parse(postData))
+    const result = await axios
+      .post(API_ENDPOINT, JSON.parse(postData))
       .then((res) => {
         console.log(res);
         setLoading(false);
+        setQuesData(res.data);
       })
       .catch((err) => console.log(err));
-    // console.log(result.data);
-    quesData = result.data;
-    //answer = result.data;
   };
 
   useEffect(() => {
