@@ -10,7 +10,7 @@ let openAIResponse = null;
 
 async function makeOpenAICall(inputtext) {
     try {
-        console.log(inputtext);
+        //console.log(inputtext);
         const response = await openai.completions.create({
             model: "gpt-3.5-turbo-instruct",
             prompt: inputtext,
@@ -19,7 +19,7 @@ async function makeOpenAICall(inputtext) {
         });
 
         openAIResponse = response.choices[0].text;
-        console.log(openAIResponse);
+        //console.log(openAIResponse);
         return openAIResponse;
     } catch (error) {
         console.error('OpenAI API call error:', error);

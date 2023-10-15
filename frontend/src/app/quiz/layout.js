@@ -5,8 +5,8 @@ import Quiz from "./page";
 import { useRouter } from "next/navigation";
 import axios from "axios";
 
-// const API_ENDPOINT = "http://localhost:5000/submit-form";
-const API_ENDPOINT = "https://hub.dummyapis.com/delay?seconds=5";
+const API_ENDPOINT = "http://localhost:6969/api/inputtext";
+//const API_ENDPOINT = "https://hub.dummyapis.com/delay?seconds=5";
 
 export default function Layout() {
   const router = useRouter();
@@ -19,16 +19,16 @@ export default function Layout() {
       router.push("/");
       return;
     }
-    console.log(postData);
-    const result = await axios
-      .get(API_ENDPOINT)
+    console.log("Posting to backend", postData);
+      const result = await axios
+          .post(API_ENDPOINT, JSON.parse(postData))
       .then((res) => {
         console.log(res);
         setLoading(false);
       })
       .catch((err) => console.log(err));
     // console.log(result.data);
-    // quesData = result.data;
+    quesData = result.data;
     //answer = result.data;
   };
 

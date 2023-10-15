@@ -15,39 +15,18 @@ app.get("/", function (req, res) {
 app.post("/api/inputtext", async function (req, res) {
     try {
         const requestData = req.body;
-        const inputText = requestData.text; // text, mcq num, tf num, fr num
+        //console.log(requestData);
+        const { text, numMCQ, numTF, numFreeResponse } = requestData;
 
-        const exinput = `
-        Subject: Astronomy
-Page Number: 65
-Content: In this chapter, we will be discussing the phenomenon of supernovas. These powerful explosions occur when a star reaches the end of its life and can release an immense amount of energy, sometimes as much as the entire energy output of the Sun throughout its entire lifetime. This energy is dispersed in the form of bright light, radiation, and shock waves, which can have a significant impact on surrounding celestial bodies.
-
-Supernovas can be categorized into two types: Type I and Type II. Type I supernovas occur in binary star systems, where one star has already reached the end of its life and has become a white dwarf. The white dwarf then accretes material from its companion star, causing it to reach a critical mass and explode as a Type I supernova. These explosions are relatively uniform in brightness and are used as standard candles for measuring astronomical distances.
-
-On the other hand, Type II supernovas occur in single stars that are at least eight times more massive than the Sun. As these stars reach the end of their life, they undergo a series of nuclear reactions, creating heavier elements in their core until the core can no longer sustain itself. The core then collapses, leading to a violent explosion known as a supernova. These explosions can be up to 100 times brighter than Type I supernovas and can also leave behind a remnant, such as a neutron star or black hole.
-
-Supernovas play a crucial role in the creation of elements in the universe. The intense energy and pressure released during these explosions can fuse lighter elements together, creating heavier elements like iron, gold, and uranium. Without supernovas, these elements would not exist in the vast quantities that we see today.
-
-In conclusion, supernovas are incredibly powerful and fascinating events in the universe. They can help us understand the life cycle of stars and the creation of elements, and their impact can be felt throughout the galaxy.
-        `
         const quizprompt = `
-        Generate a quiz on the above text. The quiz should include 5 MCQs, 3 True/False questions and 2 free-response questions. Include the answer key at the bottom of the quiz.
+        \nGenerate a quiz on the above text. The quiz should include ${numMCQ} MCQs, ${numTF} True/False questions and ${numFreeResponse} free-response questions. Include the answer key at the bottom of the quiz. Number questions consecutively. Give questions sections-wise in the order MCQ, True/False, and Free-response.
         `
 
-        const openAIResponse = await makeOpenAICall(exinput + quizprompt);
+        console.log(quizprompt);
+        const openAIResponse = await makeOpenAICall(text + quizprompt);
         const qsJson = processQs(openAIResponse);
 
-        res.json({ data: qsJson });
-    } catch (error) {
-        console.error(error);
-        res.status(500).json({ error: "An error occurred while processing the request." });
-    }
-});
-
-app.get("/api/questions", async function (req, res) {
-    try {
-        const openAIResponse = await makeOpenAICall();
-        res.json({ data: openAIResponse || "No OpenAI response available" });
+        res.json( qsJson );
     } catch (error) {
         console.error(error);
         res.status(500).json({ error: "An error occurred while processing the request." });

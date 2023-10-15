@@ -28,8 +28,8 @@ export default function Input() {
       numMCQ: numMCQ,
       numTF: numTF,
       numFreeResponse: numFreeResponse,
-    };
-    localStorage.setItem("exAImination-input", postData);
+      };
+      localStorage.setItem("exAImination-input", JSON.stringify(postData));
     router.push("/quiz");
   };
 
