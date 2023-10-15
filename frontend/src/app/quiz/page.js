@@ -48,7 +48,7 @@ export default function Quiz() {
   };
 
   const handleSubmitResponse = () => {
-    
+    console.log(response);
   };
 
   return (

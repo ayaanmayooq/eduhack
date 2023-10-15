@@ -1,10 +1,9 @@
 "use client";
-import axios from "axios";
 import { useRouter } from "next/navigation";
 //import pdfjsLib from 'pdfjs-dist/build/pdf';
 import React, { useState, useEffect } from "react";
 
-const API_ENDPOINT = "http://localhost:5000/submit-form"
+const API_ENDPOINT = "http://localhost:5000/submit-form";
 
 export default function Input() {
   const [file, setFile] = useState(null);
@@ -23,29 +22,14 @@ export default function Input() {
   };
 
   const handleSubmit = async (e) => {
-    //e.preventDefault();
-    //const dataForm = new FormData();
+    e.preventDefault();
     const postData = {
-      'fileData': fileData,
-      'text': text,
-      'numMCQ': numMCQ,
-      'numTF': numTF,
-      'numFreeResponse' : numFreeResponse
-    }
-    // dataForm.append('fileData', fileData);
-    // dataForm.append('text', text);
-    // dataForm.append('numMCQ', numMCQ);
-    // dataForm.append('numTF', numTF);
-    // dataForm.append('numFreeResponse', numFreeResponse);
-    //console.log(dataForm.fileData);
-    //console.log(dataForm);
-    console.log(postData);
-    // const result = await axios.post(API_ENDPOINT, postData).then(res => {
-    //   console.log(res);
-    // })
-    // .catch(err => console.log(err));
-    //console.log(result.data);
-    //answer = result.data;
+      text: text,
+      numMCQ: numMCQ,
+      numTF: numTF,
+      numFreeResponse: numFreeResponse,
+    };
+    localStorage.setItem("exAImination-input", postData);
     router.push("/quiz");
   };
 
@@ -65,19 +49,19 @@ export default function Input() {
     setNumFreeResponse(e.target.value);
   };
 
-  useEffect(() =>{
+  useEffect(() => {
     if (file) {
       const reader = new FileReader();
       reader.onload = (event) => {
         const fileText = event.target.result;
         setFileData(fileText);
-      };  
+      };
       const result = reader.readAsText(file);
-    } 
+    }
   }, [file]);
 
   return (
-    <div className="p-4 flex flex-col justify-center h-screen w-screen top-[100vh] absolute z-0 bg-superdark min-h-fit animate-slide-up overflow-y-auto">
+    <div className="p-4 flex flex-col justify-center h-screen w-screen absolute z-0 bg-superdark min-h-fit overflow-y-auto">
       <div className="flex flex-row justify-center min-h-fit my-10">
         <div className="w-1/2 pr-4 flex flex-col items-center justify-center gap-4">
           <div className="flex flex-col my-10">
@@ -85,13 +69,13 @@ export default function Input() {
               for="formFile"
               className="mb-2 inline-block text-neutral-700 dark:text-neutral-200"
             >
-              Upload .txt, .pdf, .docx
+              Upload .txt
             </label>
             <input
               className="relative mb-4 block w-full min-w-0 flex-auto rounded border border-solid border-purple border-2 bg-clip-padding px-3 py-[0.32rem] text-base font-normal text-white  file:-mx-3 file:-my-[0.32rem] file:overflow-hidden file:rounded-none file:border-0 file:border-solid file:border-inherit file:bg-purple file:px-3 file:py-[0.32rem] file:text-superdark  file:[border-inline-end-width:1px] file:[margin-inline-end:0.75rem] hover:file:bg-neutral-200 focus:outline-none focus:border-yellow file:focus:bg-yellow focus:shadow-focus
               hover:border-yellow file:hover:bg-yellow hover:shadow-focus"
               type="file"
-              accept=".txt, .pdf, .doc, .docx"
+              accept=".txt"
               id="formFile"
               onChange={handleFileChange}
             />
