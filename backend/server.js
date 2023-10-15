@@ -4,7 +4,7 @@ const cors = require("cors");
 
 const { makeOpenAICall } = require("./openai");
 const { processQs } = require("./processQs");
-const { assess } = require("./assess");
+const { assess, extractAns } = require("./assess");
 
 app.use(cors());
 app.use(express.json());
@@ -64,8 +64,10 @@ app.post("/api/responses", async function (req, res) {
     const { responses } = requestData
     if (sessionCache.has(req.sessionID)) {
         const quiz = sessionCache.get(req.sessionID);
-        const assessment = await assess(responses, quiz);
-        res.json({ assessment, quiz });
+        const qs = processQs(quiz);
+        const as = extractAns(quiz);
+        //const assessment = await assess(responses, quiz);
+        res.json({ qs, as });
     }
     else {
         res.json({ data: "Some error" });
