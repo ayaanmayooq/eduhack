@@ -4,7 +4,7 @@ import React, { useState } from "react";
 export default function Question({ num, ques, setAnswer }) {
   const type = ques.type;
   return (
-    <div id={num} className="">
+    <div id={num} className="w-full">
       {type === "MCQ" ? (
         <MCQ num={num} ques={ques} update={(val) => setAnswer(num, val)} />
       ) : type === "TF" ? (
@@ -19,7 +19,7 @@ export default function Question({ num, ques, setAnswer }) {
 function MCQ({ num, ques, update }) {
   const { text, options } = ques;
   return (
-    <div className="my-6 ml-4">
+    <div className="my-6">
       <h2 className="mt-4 mb-1 text-xl">
         {num + 1}. {text}
       </h2>
@@ -43,7 +43,7 @@ function MCQ({ num, ques, update }) {
 function TF({ num, ques, update }) {
   const { text } = ques;
   return (
-    <div className="my-6 ml-4">
+    <div className="my-6">
       <h2 className="mt-4 mb-1 text-xl">
         {num + 1}. {text}
       </h2>
@@ -72,7 +72,7 @@ function FR({ num, ques, update }) {
     setTextResponse(e.target.value);
   };
   return (
-    <div className="my-6 ml-4 flex flex-col justify-start w-fit">
+    <div className="my-6 flex flex-col justify-start w-full">
       <h2 className="mt-4 mb-1 text-xl">
         {num + 1}. {text}
       </h2>
@@ -81,7 +81,7 @@ function FR({ num, ques, update }) {
         onChange={handleResponseChange}
         placeholder="Your response here"
         rows="10"
-        className="mb-4 p-2 w-[60vw] border border-2 rounded bg-superdark text-gray border-purple focus:border-yellow focus:outline-none focus:shadow-focus"
+        className="my-4 p-2 w-full border border-2 rounded bg-superdark text-gray border-purple focus:border-yellow focus:outline-none focus:shadow-focus"
       />
       <button
         className="place-self-center my-2 px-auto py-auto rounded-md w-20 h-8 border-solid border-2 text-purple border-purple hover:scale-102 hover:border-yellow hover:text-yellow hover:shadow-focus font-bold"

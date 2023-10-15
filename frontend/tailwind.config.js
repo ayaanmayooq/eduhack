@@ -36,13 +36,13 @@ module.exports = {
         },
         progress: {
           "100%": {
-            transform: "translateX(99%)",
+            transform: "translateX(100%)",
           },
         },
       },
       backgroundImage: {
         stripes:
-          "repeating-linear-gradient(45deg, #121014, #121014 10px, #8168ff 10px, #8168ff 12px)",
+          "repeating-linear-gradient(45deg, #121014, #121014 10px, #f29544 10px, #f29544 12px)",
       },
     },
   },

@@ -1,4 +1,5 @@
 "use client";
+import Link from "next/link";
 import { useEffect, useState } from "react";
 
 export default function Result() {
@@ -25,8 +26,12 @@ export default function Result() {
           {result.quiz.map((ques, index) => {
             return (
               <div className="my-4 w-[90%]">
-                <p className="text-purple my-2">{ index + 1}. {ques.text}</p>
-                <p className="text-gray ml-6">{result.assessment.responses[index].explanation}</p>
+                <p className="text-purple my-2">
+                  {index + 1}. {ques.text}
+                </p>
+                <p className="text-gray ml-6">
+                  {result.assessment.responses[index].explanation}
+                </p>
               </div>
             );
           })}
@@ -34,6 +39,14 @@ export default function Result() {
       ) : (
         <></>
       )}
+      <Link href="/input">
+        <button
+          type="submit"
+          className="mx-auto px-4 py-2 rounded-md w-fit h-fit my-10 border-solid border-2 text-purple border-purple  hover:scale-105 hover:border-yellow hover:text-yellow hover:shadow-focus font-bold"
+        >
+          Generate a new quiz!
+        </button>
+      </Link>
     </div>
   );
 }
